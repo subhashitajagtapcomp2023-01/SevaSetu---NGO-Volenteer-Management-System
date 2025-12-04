@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/Users/subhashitajagtap/Desktop/project/venv/bin/python3",
+    "python.autoComplete.extraPaths": [
+        "/Users/subhashitajagtap/Desktop/project/venv/lib/python3.11/site-packages"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.analysis.extraPaths": [
+        "/Users/subhashitajagtap/Desktop/project/venv/lib/python3.11/site-packages"
+    ]
+}

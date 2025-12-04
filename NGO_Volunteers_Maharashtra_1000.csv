@@ -1,0 +1,1001 @@
+Volunteer_ID,Volunteer_Name,Age,Gender,District,Availability,Primary_Skill,Secondary_Skill,Languages_Known,Experience_Years,Past_NGO_Work,Emergency_Contact,Blood_Group,Training_Completed,Notes,NGO_ID,NGO_Name,Category,Address,Contact,Volunteers_Needed,Match_Status,Showed_Up,Volunteer_Hours,Satisfaction_Rating
+101,Volunteer_1,24,Female,Kolhapur,Flexible,Logistics,Sports Coaching,"marathi, english",3,Helpage India,9359879480,A+,Yes,Skilled counselor,18,Helping Hands,Child Care,Solapur,9090840118,13,1,0,8,2
+102,Volunteer_2,37,Male,Nagpur,Weekends,Teaching,Sports Coaching,"hindi, marathi, english",1,Red Cross,9911985010,A+,Yes,Good with kids,34,Hope Foundation,Education,Amravati,9745545469,4,1,1,8,2
+103,Volunteer_3,46,Male,Kolhapur,Full-time,Medical Assistance,Driving,"marathi, hindi",4,Childline,9614442274,A+,Yes,Handles crowd well,32,Jeevan Jyot,Orphanage,Satara,9200623545,1,0,0,3,1
+104,Volunteer_4,32,Male,Satara,Evenings,Counseling,Driving,"english, marathi",1,Red Cross,9078879051,O+,No,Skilled counselor,29,Hope Foundation,Education,Sangli,9870276780,1,1,0,1,4
+105,Volunteer_5,28,Male,Pune,Full-time,Medical Assistance,Music Therapy,"marathi, hindi",4,Helpage India,9053833309,B+,Yes,Good with kids,25,Hope Foundation,Education,Nashik,9395029703,7,1,1,4,2
+106,Volunteer_6,25,Male,Aurangabad,Evenings,Medical Assistance,Music Therapy,"english, marathi",0,Cry Foundation,9313096452,B+,No,Good with kids,26,Helping Hands,Animal Welfare,Solapur,9827949458,9,1,1,9,3
+107,Volunteer_7,46,Female,Satara,Evenings,IT Support,Music Therapy,"hindi, marathi, english",2,Red Cross,9364775393,O-,No,Handles crowd well,39,Green Maharashtra,Environment,Aurangabad,9044511845,1,1,0,9,3
+108,Volunteer_8,38,Male,Nashik,Full-time,IT Support,Sports Coaching,"hindi, marathi, english",5,Childline,9544743189,O+,Yes,Experienced nurse,8,Green Maharashtra,Education,Mumbai,9073276188,16,1,0,1,1
+109,Volunteer_9,24,Female,Nashik,Evenings,Teaching,Photography,"marathi, hindi",0,Childline,9069713766,A+,No,Skilled counselor,19,Green Maharashtra,Healthcare,Solapur,9586137238,18,1,0,7,5
+110,Volunteer_10,43,Female,Kolhapur,Evenings,Logistics,Social Media,"english, marathi",5,Cry Foundation,9013739212,A+,Yes,Handles crowd well,47,Jeevan Jyot,Child Care,Satara,9816663150,15,1,1,6,1
+111,Volunteer_11,36,Male,Sangli,Weekends,Medical Assistance,Music Therapy,"hindi, marathi, english",4,Red Cross,9134615736,AB+,No,Handles crowd well,42,Helping Hands,Animal Welfare,Solapur,9617979807,6,1,0,7,1
+112,Volunteer_12,40,Male,Mumbai,Flexible,Teaching,Photography,"marathi, english",2,Helpage India,9230611630,AB+,Yes,Experienced nurse,22,Seva Ashram,Education,Solapur,9197453577,2,1,1,7,4
+113,Volunteer_13,28,Female,Sangli,Flexible,IT Support,Cooking,"marathi, english",2,Cry Foundation,9513029045,O-,Yes,Skilled counselor,29,Solapur Care Home,Elderly Care,Sangli,9207792730,9,0,1,8,4
+114,Volunteer_14,28,Male,Amravati,Weekends,Counseling,First Aid,"english, marathi",4,Red Cross,9291293570,A+,Yes,Handles crowd well,33,Solapur Care Home,Healthcare,Mumbai,9471130288,4,0,1,8,5
+115,Volunteer_15,41,Male,Sangli,Full-time,Fundraising,Music Therapy,"marathi, hindi",4,None,9525287291,O-,Yes,Experienced nurse,38,Seva Ashram,Orphanage,Nashik,9676860352,13,0,0,2,5
+116,Volunteer_16,38,Female,Amravati,Weekdays,Teaching,Cooking,"hindi, marathi, english",1,Childline,9983321396,O+,No,Skilled counselor,45,Green Maharashtra,Child Care,Kolhapur,9474964710,11,0,0,4,5
+117,Volunteer_17,21,Female,Amravati,Weekdays,Counseling,Social Media,"marathi, hindi",4,Helpage India,9792078803,B+,No,Great fundraiser,46,Solapur Care Home,Animal Welfare,Kolhapur,9363648540,13,1,1,4,5
+118,Volunteer_18,25,Male,Aurangabad,Weekdays,Fundraising,First Aid,"marathi, english",3,Helpage India,9008029598,A+,No,Good with kids,35,Jeevan Jyot,Elderly Care,Aurangabad,9548607930,11,1,1,8,5
+119,Volunteer_19,41,Female,Pune,Weekends,Event Management,First Aid,"hindi, marathi, english",4,Helpage India,9887058500,O+,No,Experienced nurse,43,Helping Hands,Animal Welfare,Amravati,9250792236,19,0,0,3,1
+120,Volunteer_20,20,Male,Aurangabad,Weekends,Teaching,Social Media,"marathi, hindi",3,Childline,9880283095,A+,No,Good with kids,3,Solapur Care Home,Animal Welfare,Solapur,9802069186,8,0,1,3,1
+121,Volunteer_21,39,Male,Amravati,Evenings,Teaching,Music Therapy,"hindi, english",4,Red Cross,9014927605,AB+,Yes,Great fundraiser,19,Jeevan Jyot,Elderly Care,Aurangabad,9133550386,7,0,0,2,3
+122,Volunteer_22,38,Male,Satara,Weekdays,Event Management,Sports Coaching,"english, marathi",1,Cry Foundation,9500153504,O-,Yes,Handles crowd well,10,Helping Hands,Orphanage,Amravati,9043877102,16,1,0,1,3
+123,Volunteer_23,19,Female,Nashik,Full-time,Event Management,Social Media,"english, marathi",3,Red Cross,9568957127,AB+,Yes,Handles crowd well,27,Jeevan Jyot,Elderly Care,Nashik,9907961188,3,1,1,8,2
+124,Volunteer_24,41,Female,Amravati,Full-time,Teaching,Social Media,"hindi, english",0,Cry Foundation,9089688279,B+,Yes,Skilled counselor,15,Seva Ashram,Healthcare,Nashik,9124997598,17,1,0,9,1
+125,Volunteer_25,29,Female,Aurangabad,Weekdays,Event Management,Social Media,"marathi, english",3,Helpage India,9201500593,AB+,Yes,Experienced nurse,11,Hope Foundation,Animal Welfare,Mumbai,9913796991,18,1,1,9,5
+126,Volunteer_26,47,Female,Satara,Weekdays,Medical Assistance,First Aid,"hindi, marathi, english",1,Red Cross,9726991059,A+,No,Experienced nurse,47,Seva Ashram,Orphanage,Kolhapur,9542039306,15,0,1,8,2
+127,Volunteer_27,23,Female,Aurangabad,Weekdays,Fundraising,Photography,"english, marathi",5,Helpage India,9198631931,AB+,Yes,Skilled counselor,26,Solapur Care Home,Animal Welfare,Kolhapur,9188113109,17,1,1,5,4
+128,Volunteer_28,19,Male,Sangli,Weekends,Fundraising,Cooking,"hindi, english",3,None,9279238671,A+,Yes,Good with kids,24,Helping Hands,Elderly Care,Aurangabad,9912655953,11,0,1,1,1
+129,Volunteer_29,49,Male,Nagpur,Weekends,Fundraising,Sports Coaching,"hindi, english",4,Helpage India,9384284145,B+,No,Handles crowd well,13,Jeevan Jyot,Orphanage,Sangli,9734262911,5,1,1,9,3
+130,Volunteer_30,45,Male,Kolhapur,Weekends,Medical Assistance,Music Therapy,"marathi, english",4,Helpage India,9045849459,AB+,No,Handles crowd well,32,Solapur Care Home,Orphanage,Kolhapur,9126454242,16,1,0,6,1
+131,Volunteer_31,38,Male,Mumbai,Flexible,Logistics,Music Therapy,"marathi, english",5,Cry Foundation,9721486155,O-,Yes,Experienced nurse,37,Solapur Care Home,Education,Sangli,9082971909,15,1,1,7,1
+132,Volunteer_32,18,Female,Aurangabad,Full-time,Event Management,Cooking,"marathi, hindi",1,None,9201415372,O-,Yes,Experienced nurse,4,Hope Foundation,Education,Sangli,9991992898,10,1,1,8,1
+133,Volunteer_33,29,Male,Mumbai,Full-time,Counseling,Photography,"english, marathi",2,Helpage India,9443604844,O-,No,Skilled counselor,13,Green Maharashtra,Education,Nashik,9008644157,14,1,0,5,1
+134,Volunteer_34,43,Female,Solapur,Evenings,Event Management,Social Media,"marathi, hindi",4,Helpage India,9002695145,AB+,Yes,Great fundraiser,9,Solapur Care Home,Elderly Care,Mumbai,9533657732,2,0,0,6,4
+135,Volunteer_35,39,Male,Aurangabad,Weekends,Teaching,Sports Coaching,"hindi, english",0,None,9455926310,AB+,Yes,Good with kids,49,Hope Foundation,Child Care,Aurangabad,9379278984,16,0,0,7,3
+136,Volunteer_36,46,Female,Nagpur,Flexible,IT Support,Music Therapy,"hindi, marathi, english",1,None,9915232344,AB+,Yes,Great fundraiser,34,Helping Hands,Healthcare,Nagpur,9734486043,19,1,1,7,1
+137,Volunteer_37,29,Female,Mumbai,Flexible,Fundraising,Cooking,"hindi, marathi, english",3,Red Cross,9426222509,A+,No,Great fundraiser,37,Helping Hands,Elderly Care,Aurangabad,9400949759,8,1,1,2,4
+138,Volunteer_38,42,Male,Amravati,Full-time,Event Management,Driving,"marathi, english",3,Cry Foundation,9719599871,B+,Yes,Experienced nurse,48,Jeevan Jyot,Animal Welfare,Sangli,9755349714,15,0,1,1,2
+139,Volunteer_39,34,Male,Aurangabad,Weekends,Counseling,Cooking,"hindi, marathi, english",0,None,9389643231,O-,Yes,Experienced nurse,7,Green Maharashtra,Education,Amravati,9723123163,10,1,1,8,1
+140,Volunteer_40,44,Male,Pune,Evenings,Teaching,Music Therapy,"hindi, marathi, english",4,None,9062570237,A+,No,Experienced nurse,1,Hope Foundation,Orphanage,Amravati,9803902426,5,1,1,5,4
+141,Volunteer_41,44,Male,Kolhapur,Weekends,Medical Assistance,Social Media,"hindi, marathi, english",1,Childline,9054526679,O-,No,Great fundraiser,12,Seva Ashram,Elderly Care,Mumbai,9980015820,16,1,1,2,5
+142,Volunteer_42,48,Female,Nagpur,Weekdays,Logistics,Driving,"hindi, english",0,None,9339628911,A+,No,Good with kids,21,Helping Hands,Orphanage,Nashik,9100090108,12,1,1,3,2
+143,Volunteer_43,27,Male,Mumbai,Weekends,Medical Assistance,Photography,"hindi, marathi, english",4,Cry Foundation,9535866158,AB+,Yes,Experienced nurse,11,Green Maharashtra,Animal Welfare,Nashik,9289361957,13,1,1,6,3
+144,Volunteer_44,49,Male,Nagpur,Weekdays,Counseling,Sports Coaching,"hindi, marathi, english",1,Helpage India,9848268459,O-,No,Handles crowd well,44,Jeevan Jyot,Orphanage,Sangli,9963673130,9,1,1,6,1
+145,Volunteer_45,45,Female,Satara,Weekdays,Teaching,Photography,"hindi, marathi, english",3,Helpage India,9553632392,AB+,Yes,Good with kids,44,Seva Ashram,Orphanage,Sangli,9913777268,17,1,1,8,1
+146,Volunteer_46,45,Male,Kolhapur,Evenings,Fundraising,Photography,"marathi, hindi",1,Helpage India,9437621735,O-,No,Handles crowd well,44,Helping Hands,Environment,Satara,9434408852,12,1,1,5,4
+147,Volunteer_47,33,Male,Amravati,Full-time,Event Management,Cooking,"hindi, english",5,Helpage India,9944879089,O+,Yes,Good with kids,14,Helping Hands,Child Care,Satara,9421209050,5,1,1,5,3
+148,Volunteer_48,32,Male,Aurangabad,Weekends,Teaching,Sports Coaching,"marathi, english",2,Childline,9068377046,A+,No,Experienced nurse,34,Jeevan Jyot,Healthcare,Sangli,9477169341,12,1,1,7,5
+149,Volunteer_49,47,Male,Aurangabad,Weekdays,Logistics,Sports Coaching,"marathi, hindi",1,None,9434503039,O+,Yes,Skilled counselor,34,Jeevan Jyot,Healthcare,Kolhapur,9414468141,1,0,1,5,2
+150,Volunteer_50,47,Male,Aurangabad,Weekends,Medical Assistance,Music Therapy,"english, marathi",2,Helpage India,9499002033,A+,Yes,Experienced nurse,25,Anathalaya,Education,Aurangabad,9439006661,16,0,1,9,3
+151,Volunteer_51,32,Female,Kolhapur,Full-time,Logistics,Music Therapy,"hindi, english",1,Red Cross,9528873036,B+,No,Great fundraiser,4,Solapur Care Home,Environment,Kolhapur,9410945189,12,1,1,6,1
+152,Volunteer_52,47,Male,Pune,Full-time,Logistics,Sports Coaching,"hindi, english",2,Helpage India,9905505467,O-,No,Great fundraiser,26,Solapur Care Home,Elderly Care,Nashik,9230957360,9,1,1,7,4
+153,Volunteer_53,36,Male,Solapur,Flexible,Counseling,Driving,"english, marathi",5,None,9455555578,B+,Yes,Good with kids,16,Seva Ashram,Elderly Care,Nagpur,9949081802,13,1,1,8,5
+154,Volunteer_54,29,Male,Nashik,Full-time,Counseling,First Aid,"english, marathi",3,Helpage India,9656563167,B+,No,Great fundraiser,10,Solapur Care Home,Healthcare,Aurangabad,9935735278,17,0,0,5,4
+155,Volunteer_55,40,Male,Sangli,Evenings,Event Management,Music Therapy,"english, marathi",4,Childline,9167134193,A+,Yes,Experienced nurse,45,Seva Ashram,Child Care,Kolhapur,9631525620,17,0,0,4,2
+156,Volunteer_56,37,Male,Mumbai,Weekdays,Counseling,First Aid,"marathi, english",2,Cry Foundation,9845055502,O+,No,Handles crowd well,2,Green Maharashtra,Orphanage,Kolhapur,9342128336,4,1,1,8,3
+157,Volunteer_57,49,Female,Pune,Flexible,Counseling,Cooking,"hindi, marathi, english",5,Cry Foundation,9415068144,AB+,No,Experienced nurse,35,Helping Hands,Animal Welfare,Pune,9651725559,14,0,1,9,4
+158,Volunteer_58,42,Male,Amravati,Evenings,Teaching,Driving,"hindi, english",2,None,9597867326,A+,Yes,Good with kids,19,Anathalaya,Education,Aurangabad,9004668710,19,0,1,1,4
+159,Volunteer_59,20,Female,Mumbai,Weekends,Fundraising,Sports Coaching,"hindi, marathi, english",3,Cry Foundation,9103783748,AB+,No,Great fundraiser,6,Anathalaya,Child Care,Nagpur,9337193798,7,1,0,3,1
+160,Volunteer_60,22,Female,Aurangabad,Weekdays,Event Management,Driving,"hindi, marathi, english",2,Cry Foundation,9300891343,B+,No,Handles crowd well,19,Helping Hands,Healthcare,Mumbai,9647064958,3,0,0,4,4
+161,Volunteer_61,36,Male,Nagpur,Full-time,Teaching,Music Therapy,"english, marathi",5,Red Cross,9917663912,AB+,Yes,Skilled counselor,8,Jeevan Jyot,Environment,Mumbai,9869521565,1,1,0,7,5
+162,Volunteer_62,24,Male,Amravati,Weekdays,Fundraising,Photography,"marathi, english",5,None,9056479049,O+,Yes,Handles crowd well,14,Hope Foundation,Education,Kolhapur,9301669780,12,1,0,6,3
+163,Volunteer_63,38,Male,Mumbai,Weekends,Logistics,Cooking,"marathi, hindi",0,None,9531193111,A+,No,Handles crowd well,10,Hope Foundation,Healthcare,Sangli,9106841088,15,0,1,1,2
+164,Volunteer_64,26,Male,Aurangabad,Flexible,Teaching,Sports Coaching,"marathi, english",3,Cry Foundation,9224408529,O+,Yes,Experienced nurse,3,Solapur Care Home,Elderly Care,Nagpur,9498200792,11,1,0,4,4
+165,Volunteer_65,24,Female,Mumbai,Flexible,IT Support,Social Media,"hindi, marathi, english",0,Cry Foundation,9544609584,O+,No,Skilled counselor,38,Jeevan Jyot,Education,Nagpur,9544754591,10,1,1,6,5
+166,Volunteer_66,35,Male,Nagpur,Flexible,Teaching,Cooking,"marathi, english",3,Cry Foundation,9580276369,A+,No,Good with kids,29,Seva Ashram,Healthcare,Nashik,9340140538,2,1,1,3,2
+167,Volunteer_67,21,Male,Aurangabad,Full-time,Counseling,First Aid,"english, marathi",2,Childline,9500774662,O+,Yes,Good with kids,15,Green Maharashtra,Elderly Care,Amravati,9626201336,4,1,1,2,5
+168,Volunteer_68,42,Male,Solapur,Evenings,Fundraising,Driving,"marathi, hindi",5,Helpage India,9721056259,O-,Yes,Handles crowd well,23,Anathalaya,Animal Welfare,Pune,9643525511,17,1,1,2,4
+169,Volunteer_69,45,Male,Pune,Evenings,Event Management,Sports Coaching,"english, marathi",0,Childline,9401902681,O-,Yes,Handles crowd well,23,Solapur Care Home,Elderly Care,Nashik,9105814596,17,1,1,4,4
+170,Volunteer_70,31,Male,Satara,Weekdays,Event Management,Cooking,"marathi, hindi",2,None,9191164868,O-,Yes,Great fundraiser,18,Helping Hands,Orphanage,Nagpur,9146220061,8,1,0,1,3
+171,Volunteer_71,35,Male,Sangli,Full-time,Fundraising,Driving,"hindi, marathi, english",5,Red Cross,9545935419,AB+,Yes,Skilled counselor,46,Jeevan Jyot,Environment,Solapur,9099134066,14,1,1,2,1
+172,Volunteer_72,43,Female,Kolhapur,Flexible,Counseling,Sports Coaching,"marathi, hindi",3,Helpage India,9168090934,O+,Yes,Handles crowd well,19,Anathalaya,Orphanage,Sangli,9305252871,4,0,1,2,5
+173,Volunteer_73,26,Female,Sangli,Flexible,Medical Assistance,Music Therapy,"marathi, hindi",5,Red Cross,9762536463,A+,No,Great fundraiser,28,Seva Ashram,Healthcare,Nagpur,9226010992,6,0,0,4,1
+174,Volunteer_74,43,Male,Amravati,Weekends,Teaching,Cooking,"marathi, hindi",2,None,9864513250,A+,No,Skilled counselor,26,Seva Ashram,Animal Welfare,Pune,9196964626,19,0,0,4,1
+175,Volunteer_75,38,Male,Sangli,Weekends,Counseling,Music Therapy,"marathi, english",0,None,9690889727,AB+,Yes,Good with kids,10,Hope Foundation,Child Care,Nagpur,9482382315,4,1,0,1,2
+176,Volunteer_76,19,Male,Aurangabad,Flexible,IT Support,Cooking,"marathi, english",0,Red Cross,9502438361,A+,No,Great fundraiser,47,Solapur Care Home,Animal Welfare,Aurangabad,9378573626,3,0,0,7,2
+177,Volunteer_77,37,Female,Solapur,Flexible,Logistics,Music Therapy,"hindi, marathi, english",5,Red Cross,9860487633,O-,No,Skilled counselor,4,Helping Hands,Animal Welfare,Aurangabad,9808883126,6,1,1,7,5
+178,Volunteer_78,45,Male,Satara,Full-time,Fundraising,Driving,"marathi, hindi",2,Red Cross,9873027100,O+,No,Great fundraiser,2,Anathalaya,Animal Welfare,Satara,9003832733,7,1,1,1,1
+179,Volunteer_79,32,Female,Pune,Evenings,Teaching,Social Media,"hindi, english",1,None,9038088342,A+,No,Handles crowd well,3,Green Maharashtra,Orphanage,Pune,9973818702,14,0,0,8,3
+180,Volunteer_80,45,Male,Pune,Weekends,Event Management,Cooking,"hindi, marathi, english",3,Cry Foundation,9443136756,A+,Yes,Experienced nurse,7,Seva Ashram,Child Care,Kolhapur,9402856995,12,1,1,7,1
+181,Volunteer_81,24,Male,Nagpur,Evenings,Logistics,Cooking,"marathi, hindi",3,Red Cross,9454392589,B+,No,Good with kids,16,Anathalaya,Elderly Care,Amravati,9622386486,16,1,1,7,2
+182,Volunteer_82,29,Male,Kolhapur,Full-time,Medical Assistance,Music Therapy,"marathi, hindi",2,Helpage India,9349271118,B+,No,Handles crowd well,31,Helping Hands,Healthcare,Kolhapur,9893565995,8,0,0,6,1
+183,Volunteer_83,46,Male,Mumbai,Flexible,IT Support,Sports Coaching,"marathi, english",1,None,9026370480,B+,Yes,Handles crowd well,10,Anathalaya,Environment,Amravati,9748180634,2,1,1,4,4
+184,Volunteer_84,25,Female,Solapur,Evenings,Event Management,Cooking,"hindi, marathi, english",0,Childline,9339001120,O+,Yes,Skilled counselor,19,Solapur Care Home,Child Care,Amravati,9317187148,13,1,1,8,4
+185,Volunteer_85,32,Female,Mumbai,Flexible,Fundraising,Music Therapy,"marathi, hindi",4,Childline,9277562520,O-,Yes,Great fundraiser,28,Hope Foundation,Healthcare,Amravati,9878177869,8,1,1,2,3
+186,Volunteer_86,20,Male,Satara,Flexible,Teaching,Photography,"marathi, hindi",4,Helpage India,9823222036,O-,Yes,Good with kids,17,Anathalaya,Child Care,Mumbai,9586393188,16,0,1,7,5
+187,Volunteer_87,31,Male,Sangli,Weekdays,Fundraising,Music Therapy,"hindi, marathi, english",2,Cry Foundation,9799564176,O-,No,Handles crowd well,28,Jeevan Jyot,Orphanage,Amravati,9784612789,4,1,1,3,1
+188,Volunteer_88,34,Female,Pune,Evenings,Logistics,Driving,"hindi, english",1,Red Cross,9964410646,O+,Yes,Skilled counselor,19,Hope Foundation,Healthcare,Nagpur,9564979119,16,1,0,3,4
+189,Volunteer_89,21,Female,Satara,Evenings,Teaching,Social Media,"hindi, marathi, english",1,None,9058058808,O+,No,Good with kids,37,Helping Hands,Orphanage,Solapur,9062246429,6,1,1,7,5
+190,Volunteer_90,35,Female,Sangli,Flexible,Counseling,Photography,"hindi, marathi, english",3,Red Cross,9478833642,B+,No,Great fundraiser,23,Hope Foundation,Education,Pune,9141262886,4,0,1,3,4
+191,Volunteer_91,25,Female,Pune,Full-time,Medical Assistance,Driving,"hindi, english",0,None,9860192720,A+,Yes,Handles crowd well,20,Anathalaya,Healthcare,Solapur,9643791086,16,1,0,5,5
+192,Volunteer_92,21,Male,Sangli,Weekdays,Counseling,Driving,"hindi, marathi, english",5,Childline,9466979001,AB+,Yes,Handles crowd well,13,Anathalaya,Child Care,Satara,9039111692,13,1,1,8,5
+193,Volunteer_93,19,Female,Kolhapur,Flexible,Counseling,Driving,"marathi, hindi",1,Red Cross,9153282957,AB+,Yes,Handles crowd well,13,Jeevan Jyot,Education,Nagpur,9386406521,5,1,1,4,4
+194,Volunteer_94,47,Male,Solapur,Weekends,Fundraising,Sports Coaching,"hindi, marathi, english",5,Helpage India,9125702748,A+,Yes,Good with kids,43,Seva Ashram,Orphanage,Amravati,9056094863,15,1,0,7,2
+195,Volunteer_95,23,Female,Amravati,Weekends,Logistics,Driving,"hindi, english",4,Cry Foundation,9619293459,B+,Yes,Good with kids,11,Jeevan Jyot,Orphanage,Mumbai,9272231083,8,1,1,7,5
+196,Volunteer_96,39,Female,Satara,Weekdays,Medical Assistance,Sports Coaching,"english, marathi",5,Helpage India,9362477725,A+,Yes,Good with kids,48,Anathalaya,Child Care,Nashik,9705894854,7,1,0,2,1
+197,Volunteer_97,27,Female,Satara,Full-time,Teaching,Driving,"hindi, marathi, english",0,Cry Foundation,9421779218,A+,No,Good with kids,15,Green Maharashtra,Education,Kolhapur,9488606063,14,1,1,8,4
+198,Volunteer_98,21,Female,Nashik,Flexible,Teaching,First Aid,"marathi, english",0,Red Cross,9201268916,AB+,No,Skilled counselor,17,Hope Foundation,Animal Welfare,Aurangabad,9596037878,7,1,0,9,2
+199,Volunteer_99,39,Female,Aurangabad,Evenings,IT Support,Photography,"marathi, hindi",5,Red Cross,9390698423,B+,No,Experienced nurse,28,Jeevan Jyot,Elderly Care,Pune,9501603226,7,0,1,6,4
+200,Volunteer_100,46,Male,Kolhapur,Weekdays,Event Management,First Aid,"marathi, hindi",2,Cry Foundation,9953064012,O+,No,Skilled counselor,19,Jeevan Jyot,Environment,Solapur,9214879276,18,1,0,5,3
+201,Volunteer_101,48,Male,Kolhapur,Full-time,IT Support,Driving,"marathi, english",1,Childline,9238225873,AB+,Yes,Handles crowd well,4,Green Maharashtra,Child Care,Nagpur,9800047868,10,1,0,1,1
+202,Volunteer_102,35,Female,Mumbai,Evenings,IT Support,Photography,"marathi, english",2,None,9380582333,O+,Yes,Skilled counselor,22,Green Maharashtra,Orphanage,Nashik,9135948662,18,0,0,1,3
+203,Volunteer_103,43,Female,Sangli,Weekends,Teaching,Photography,"hindi, marathi, english",5,Helpage India,9415688429,B+,No,Great fundraiser,22,Green Maharashtra,Healthcare,Sangli,9189883682,14,1,1,9,5
+204,Volunteer_104,29,Male,Aurangabad,Weekends,Fundraising,Cooking,"marathi, english",1,Helpage India,9238082848,A+,No,Good with kids,37,Seva Ashram,Education,Sangli,9447705294,10,0,1,4,5
+205,Volunteer_105,19,Female,Solapur,Evenings,Counseling,Social Media,"english, marathi",3,Helpage India,9351936230,O-,No,Great fundraiser,39,Anathalaya,Elderly Care,Aurangabad,9286668770,7,1,1,1,3
+206,Volunteer_106,27,Female,Solapur,Weekdays,Logistics,First Aid,"hindi, english",2,Red Cross,9232734183,O-,Yes,Great fundraiser,34,Anathalaya,Environment,Sangli,9066779654,7,1,1,3,3
+207,Volunteer_107,47,Male,Kolhapur,Weekends,Counseling,Social Media,"marathi, english",2,Helpage India,9659363345,B+,Yes,Handles crowd well,33,Helping Hands,Healthcare,Kolhapur,9048746429,7,0,1,6,5
+208,Volunteer_108,21,Female,Solapur,Flexible,Counseling,Photography,"marathi, english",5,None,9377537608,O-,Yes,Good with kids,44,Seva Ashram,Education,Satara,9296925425,5,1,0,8,2
+209,Volunteer_109,31,Female,Nashik,Evenings,Medical Assistance,Sports Coaching,"english, marathi",4,None,9357770144,O+,No,Great fundraiser,42,Helping Hands,Elderly Care,Sangli,9053620333,1,0,1,2,1
+210,Volunteer_110,48,Male,Satara,Evenings,Teaching,Photography,"marathi, hindi",5,Cry Foundation,9792594335,O-,No,Handles crowd well,40,Helping Hands,Child Care,Aurangabad,9632925297,14,1,0,8,4
+211,Volunteer_111,33,Male,Nagpur,Weekends,Logistics,Social Media,"marathi, hindi",2,Red Cross,9970926005,B+,Yes,Good with kids,33,Helping Hands,Elderly Care,Satara,9834197805,18,1,1,1,3
+212,Volunteer_112,32,Male,Amravati,Weekdays,Fundraising,First Aid,"hindi, marathi, english",1,None,9312555536,B+,Yes,Experienced nurse,12,Solapur Care Home,Child Care,Kolhapur,9926817555,13,1,1,2,1
+213,Volunteer_113,25,Female,Mumbai,Flexible,Medical Assistance,Driving,"english, marathi",4,Childline,9720578066,O+,No,Handles crowd well,2,Helping Hands,Animal Welfare,Aurangabad,9612465759,8,0,1,8,4
+214,Volunteer_114,31,Male,Sangli,Weekdays,Event Management,Cooking,"hindi, english",5,Red Cross,9680096069,O-,No,Skilled counselor,28,Jeevan Jyot,Education,Sangli,9035374373,8,0,0,7,4
+215,Volunteer_115,40,Male,Amravati,Full-time,Fundraising,Cooking,"hindi, english",5,Red Cross,9188785634,O-,Yes,Good with kids,10,Hope Foundation,Elderly Care,Amravati,9574374588,10,1,1,5,3
+216,Volunteer_116,45,Male,Sangli,Full-time,IT Support,Cooking,"english, marathi",2,None,9449142391,A+,No,Great fundraiser,22,Jeevan Jyot,Environment,Pune,9557145447,17,1,0,2,2
+217,Volunteer_117,42,Male,Pune,Weekends,Fundraising,Driving,"hindi, english",2,Childline,9119237153,AB+,Yes,Great fundraiser,17,Jeevan Jyot,Elderly Care,Sangli,9954732831,6,0,0,9,2
+218,Volunteer_118,47,Male,Amravati,Weekends,Fundraising,Cooking,"marathi, hindi",3,Cry Foundation,9360972883,B+,Yes,Skilled counselor,26,Anathalaya,Education,Aurangabad,9857827481,15,0,0,5,1
+219,Volunteer_119,25,Male,Nagpur,Weekends,Counseling,First Aid,"hindi, english",5,None,9246707096,A+,No,Skilled counselor,3,Solapur Care Home,Healthcare,Pune,9229410361,15,0,1,8,1
+220,Volunteer_120,38,Female,Kolhapur,Full-time,Fundraising,Driving,"hindi, english",2,Childline,9458792643,B+,No,Great fundraiser,7,Helping Hands,Healthcare,Pune,9847329702,16,1,1,4,5
+221,Volunteer_121,33,Female,Nashik,Weekdays,IT Support,Cooking,"english, marathi",0,Red Cross,9980673353,A+,No,Good with kids,44,Anathalaya,Elderly Care,Satara,9494464915,8,1,0,9,2
+222,Volunteer_122,30,Male,Satara,Weekdays,IT Support,Driving,"english, marathi",4,Childline,9099504471,AB+,Yes,Handles crowd well,8,Seva Ashram,Elderly Care,Kolhapur,9396456785,19,0,0,7,1
+223,Volunteer_123,35,Male,Satara,Weekends,Teaching,Social Media,"hindi, english",0,Red Cross,9855906132,A+,No,Skilled counselor,20,Seva Ashram,Child Care,Sangli,9203575345,15,1,1,2,5
+224,Volunteer_124,32,Male,Nashik,Flexible,Fundraising,First Aid,"marathi, english",4,None,9456408586,B+,No,Skilled counselor,12,Anathalaya,Education,Nashik,9817554638,3,0,1,3,4
+225,Volunteer_125,38,Female,Aurangabad,Weekdays,Counseling,Music Therapy,"english, marathi",5,None,9236651354,O-,Yes,Skilled counselor,35,Hope Foundation,Child Care,Amravati,9484137523,6,1,0,2,1
+226,Volunteer_126,41,Female,Pune,Full-time,Fundraising,Sports Coaching,"hindi, marathi, english",3,Helpage India,9122099087,B+,Yes,Experienced nurse,17,Anathalaya,Environment,Kolhapur,9889576277,8,1,0,5,5
+227,Volunteer_127,43,Female,Sangli,Evenings,Event Management,Cooking,"hindi, marathi, english",2,Helpage India,9725245145,O+,No,Good with kids,28,Anathalaya,Animal Welfare,Nashik,9968858482,16,1,1,2,2
+228,Volunteer_128,42,Female,Nagpur,Evenings,Event Management,Sports Coaching,"marathi, hindi",2,Helpage India,9732455356,O+,Yes,Good with kids,41,Solapur Care Home,Healthcare,Nashik,9376535701,15,1,1,5,4
+229,Volunteer_129,45,Female,Solapur,Evenings,Counseling,Driving,"hindi, english",2,None,9904832764,O+,Yes,Good with kids,10,Seva Ashram,Orphanage,Solapur,9664242740,13,1,1,9,1
+230,Volunteer_130,45,Female,Amravati,Flexible,Teaching,Sports Coaching,"marathi, english",5,Cry Foundation,9847614173,O+,Yes,Good with kids,22,Seva Ashram,Orphanage,Satara,9291797204,15,1,1,2,2
+231,Volunteer_131,45,Female,Pune,Weekends,Teaching,First Aid,"marathi, hindi",4,None,9245190014,AB+,No,Good with kids,38,Helping Hands,Education,Mumbai,9966765633,18,1,0,9,4
+232,Volunteer_132,30,Female,Amravati,Full-time,IT Support,First Aid,"hindi, english",2,Childline,9903917424,O-,No,Great fundraiser,33,Jeevan Jyot,Education,Nagpur,9231202023,13,1,0,7,3
+233,Volunteer_133,26,Female,Nagpur,Flexible,IT Support,Photography,"english, marathi",0,None,9151007823,O-,Yes,Skilled counselor,22,Anathalaya,Orphanage,Nagpur,9961808244,8,0,0,7,2
+234,Volunteer_134,46,Male,Mumbai,Full-time,Medical Assistance,Cooking,"hindi, marathi, english",2,None,9814253062,B+,Yes,Great fundraiser,44,Anathalaya,Education,Satara,9990878506,14,1,0,5,3
+235,Volunteer_135,32,Male,Mumbai,Full-time,Counseling,Photography,"marathi, english",5,Red Cross,9314156303,A+,Yes,Experienced nurse,37,Hope Foundation,Healthcare,Satara,9443005777,11,1,1,8,1
+236,Volunteer_136,30,Male,Pune,Weekends,Fundraising,Sports Coaching,"hindi, marathi, english",3,Red Cross,9546791138,B+,No,Handles crowd well,13,Green Maharashtra,Environment,Nashik,9181827222,6,0,1,7,5
+237,Volunteer_137,18,Male,Kolhapur,Evenings,Logistics,Music Therapy,"english, marathi",0,Red Cross,9189445113,B+,Yes,Skilled counselor,27,Green Maharashtra,Environment,Satara,9017331916,1,0,1,6,1
+238,Volunteer_138,42,Female,Nagpur,Weekends,Counseling,Photography,"hindi, english",2,None,9173352975,B+,Yes,Experienced nurse,15,Seva Ashram,Child Care,Nashik,9048100671,2,1,0,2,2
+239,Volunteer_139,24,Female,Nagpur,Flexible,Medical Assistance,Photography,"english, marathi",2,Cry Foundation,9222102951,B+,No,Great fundraiser,22,Hope Foundation,Healthcare,Kolhapur,9243091198,13,0,1,6,3
+240,Volunteer_140,26,Male,Nashik,Flexible,IT Support,First Aid,"english, marathi",1,Childline,9352233469,O-,Yes,Handles crowd well,30,Solapur Care Home,Animal Welfare,Mumbai,9893640680,1,1,1,2,3
+241,Volunteer_141,41,Female,Kolhapur,Flexible,Counseling,Music Therapy,"hindi, marathi, english",4,Childline,9457667083,A+,No,Experienced nurse,43,Helping Hands,Education,Solapur,9361970824,4,1,0,1,4
+242,Volunteer_142,18,Male,Sangli,Weekends,Counseling,Driving,"marathi, english",0,Cry Foundation,9208276258,B+,No,Handles crowd well,40,Hope Foundation,Education,Nashik,9566233968,2,1,1,9,1
+243,Volunteer_143,29,Female,Sangli,Full-time,IT Support,Sports Coaching,"english, marathi",1,Cry Foundation,9847408880,O-,No,Experienced nurse,37,Seva Ashram,Animal Welfare,Satara,9252509830,16,1,0,5,1
+244,Volunteer_144,25,Male,Solapur,Full-time,Medical Assistance,Photography,"hindi, marathi, english",3,Childline,9740288532,B+,Yes,Great fundraiser,34,Solapur Care Home,Child Care,Pune,9705853352,3,1,0,4,2
+245,Volunteer_145,41,Female,Satara,Weekdays,IT Support,Music Therapy,"marathi, english",4,Helpage India,9925642417,O+,Yes,Handles crowd well,44,Anathalaya,Child Care,Sangli,9687898165,17,1,1,8,3
+246,Volunteer_146,48,Female,Mumbai,Flexible,Teaching,Cooking,"hindi, english",0,Red Cross,9338272170,B+,No,Experienced nurse,34,Solapur Care Home,Education,Nagpur,9919348288,5,0,1,5,2
+247,Volunteer_147,28,Male,Sangli,Full-time,Fundraising,Music Therapy,"hindi, english",2,Red Cross,9546957539,B+,Yes,Great fundraiser,48,Jeevan Jyot,Education,Mumbai,9419470849,8,1,0,7,2
+248,Volunteer_148,36,Female,Kolhapur,Weekdays,IT Support,Sports Coaching,"marathi, hindi",0,Childline,9120740847,AB+,No,Skilled counselor,35,Hope Foundation,Animal Welfare,Sangli,9785339523,12,0,0,3,3
+249,Volunteer_149,34,Male,Nagpur,Full-time,Medical Assistance,Music Therapy,"hindi, marathi, english",2,Cry Foundation,9035333904,O+,Yes,Great fundraiser,42,Seva Ashram,Healthcare,Aurangabad,9499935565,12,0,1,8,2
+250,Volunteer_150,25,Male,Sangli,Flexible,Event Management,Music Therapy,"marathi, english",4,Helpage India,9792143135,A+,No,Great fundraiser,19,Hope Foundation,Animal Welfare,Satara,9848990239,1,1,1,8,3
+251,Volunteer_151,20,Male,Nagpur,Evenings,Teaching,Music Therapy,"english, marathi",2,Childline,9892342231,B+,No,Skilled counselor,8,Anathalaya,Child Care,Nashik,9167056227,1,0,1,3,2
+252,Volunteer_152,20,Male,Sangli,Flexible,Event Management,Cooking,"hindi, english",3,Red Cross,9111449370,A+,Yes,Great fundraiser,39,Green Maharashtra,Animal Welfare,Solapur,9208235393,15,1,0,9,5
+253,Volunteer_153,18,Female,Mumbai,Weekends,Logistics,Photography,"marathi, english",5,None,9040888723,O+,Yes,Skilled counselor,33,Anathalaya,Animal Welfare,Pune,9964394855,17,0,0,8,2
+254,Volunteer_154,44,Female,Amravati,Full-time,IT Support,Sports Coaching,"hindi, marathi, english",2,Cry Foundation,9992181912,B+,Yes,Skilled counselor,44,Seva Ashram,Animal Welfare,Solapur,9498445809,2,0,0,1,2
+255,Volunteer_155,22,Female,Sangli,Full-time,Teaching,Cooking,"marathi, hindi",3,None,9884712513,AB+,Yes,Skilled counselor,28,Jeevan Jyot,Healthcare,Sangli,9623359218,17,0,0,8,5
+256,Volunteer_156,27,Male,Kolhapur,Weekends,Fundraising,Music Therapy,"hindi, english",5,Childline,9329090696,O-,No,Experienced nurse,37,Helping Hands,Elderly Care,Pune,9099243199,9,0,0,4,1
+257,Volunteer_157,24,Female,Sangli,Weekends,IT Support,Music Therapy,"marathi, english",4,Red Cross,9898920027,AB+,No,Handles crowd well,48,Solapur Care Home,Education,Amravati,9139011213,12,1,0,6,3
+258,Volunteer_158,43,Male,Satara,Evenings,Fundraising,Photography,"marathi, english",4,Helpage India,9704516532,AB+,Yes,Experienced nurse,25,Solapur Care Home,Orphanage,Nagpur,9219608723,4,1,1,9,4
+259,Volunteer_159,26,Female,Mumbai,Full-time,Counseling,Sports Coaching,"marathi, english",0,None,9090837820,O-,Yes,Skilled counselor,36,Anathalaya,Animal Welfare,Satara,9195846744,13,1,0,5,5
+260,Volunteer_160,45,Female,Kolhapur,Full-time,Event Management,First Aid,"hindi, marathi, english",3,Helpage India,9725561602,O-,No,Handles crowd well,17,Hope Foundation,Orphanage,Aurangabad,9877283305,4,1,1,7,1
+261,Volunteer_161,24,Female,Nashik,Evenings,Teaching,Cooking,"hindi, marathi, english",3,Red Cross,9111089605,O-,Yes,Handles crowd well,24,Green Maharashtra,Elderly Care,Sangli,9837543472,7,0,0,1,2
+262,Volunteer_162,26,Male,Kolhapur,Weekdays,Fundraising,Photography,"hindi, marathi, english",1,None,9155005030,B+,Yes,Skilled counselor,21,Hope Foundation,Education,Nashik,9611114631,14,1,1,9,1
+263,Volunteer_163,25,Female,Satara,Evenings,Medical Assistance,Sports Coaching,"english, marathi",1,Helpage India,9381105120,A+,Yes,Handles crowd well,2,Jeevan Jyot,Child Care,Nagpur,9895407294,9,0,0,6,5
+264,Volunteer_164,29,Female,Amravati,Flexible,Fundraising,Cooking,"marathi, english",5,Helpage India,9956784182,A+,Yes,Handles crowd well,31,Helping Hands,Orphanage,Aurangabad,9959645613,1,1,1,4,2
+265,Volunteer_165,19,Male,Mumbai,Full-time,Medical Assistance,Music Therapy,"hindi, english",5,None,9273748736,O-,No,Experienced nurse,44,Hope Foundation,Child Care,Solapur,9291740820,1,1,0,6,1
+266,Volunteer_166,18,Female,Nashik,Weekends,IT Support,Sports Coaching,"hindi, marathi, english",1,Red Cross,9838837348,AB+,No,Handles crowd well,33,Solapur Care Home,Orphanage,Nagpur,9225278550,4,1,1,5,4
+267,Volunteer_167,33,Male,Satara,Flexible,Teaching,Sports Coaching,"hindi, marathi, english",5,Helpage India,9880379077,O+,Yes,Skilled counselor,30,Green Maharashtra,Child Care,Aurangabad,9464545183,1,1,1,3,3
+268,Volunteer_168,40,Female,Satara,Full-time,Fundraising,Driving,"marathi, english",2,Childline,9717589292,O-,No,Good with kids,12,Hope Foundation,Animal Welfare,Aurangabad,9038123230,10,1,1,7,3
+269,Volunteer_169,40,Male,Pune,Evenings,Logistics,Sports Coaching,"hindi, marathi, english",1,None,9358312878,AB+,Yes,Good with kids,44,Green Maharashtra,Orphanage,Solapur,9203228004,2,1,0,3,5
+270,Volunteer_170,47,Male,Mumbai,Flexible,Fundraising,First Aid,"english, marathi",3,Cry Foundation,9224537038,AB+,Yes,Good with kids,12,Helping Hands,Child Care,Aurangabad,9922863631,15,1,1,2,2
+271,Volunteer_171,41,Female,Kolhapur,Full-time,Logistics,Sports Coaching,"english, marathi",2,Cry Foundation,9913154284,B+,Yes,Skilled counselor,49,Solapur Care Home,Elderly Care,Mumbai,9251524903,3,0,1,4,2
+272,Volunteer_172,22,Male,Nagpur,Weekdays,Teaching,First Aid,"hindi, marathi, english",5,Red Cross,9440417305,B+,No,Good with kids,24,Green Maharashtra,Healthcare,Pune,9865780841,9,1,0,7,3
+273,Volunteer_173,20,Male,Amravati,Weekdays,Fundraising,Music Therapy,"marathi, english",4,Childline,9293348472,A+,No,Experienced nurse,24,Hope Foundation,Child Care,Mumbai,9612274458,17,1,1,5,1
+274,Volunteer_174,29,Male,Nagpur,Weekends,Medical Assistance,First Aid,"marathi, english",0,Helpage India,9851246989,A+,No,Skilled counselor,11,Solapur Care Home,Healthcare,Solapur,9836811879,13,1,1,9,2
+275,Volunteer_175,25,Male,Kolhapur,Full-time,Fundraising,Cooking,"marathi, english",1,Cry Foundation,9787380729,O+,No,Skilled counselor,13,Anathalaya,Healthcare,Kolhapur,9379220328,3,0,1,7,4
+276,Volunteer_176,39,Male,Kolhapur,Weekdays,Event Management,Music Therapy,"marathi, hindi",4,Red Cross,9534285493,O+,No,Skilled counselor,27,Anathalaya,Education,Nagpur,9127168145,4,1,1,9,4
+277,Volunteer_177,44,Male,Mumbai,Evenings,IT Support,Music Therapy,"hindi, marathi, english",5,Childline,9788401862,O+,Yes,Handles crowd well,8,Jeevan Jyot,Animal Welfare,Amravati,9993055778,4,1,1,9,2
+278,Volunteer_178,20,Female,Kolhapur,Full-time,Counseling,First Aid,"marathi, english",3,Childline,9440359725,O+,Yes,Handles crowd well,10,Anathalaya,Elderly Care,Nashik,9438524016,11,1,1,2,2
+279,Volunteer_179,18,Male,Pune,Evenings,Medical Assistance,Photography,"english, marathi",0,Red Cross,9304595710,AB+,No,Handles crowd well,8,Hope Foundation,Healthcare,Nashik,9705812787,7,0,1,1,3
+280,Volunteer_180,20,Male,Nashik,Evenings,Event Management,Social Media,"hindi, english",4,Red Cross,9956418681,AB+,No,Great fundraiser,20,Helping Hands,Environment,Sangli,9880297870,11,1,1,4,5
+281,Volunteer_181,22,Female,Kolhapur,Weekdays,Logistics,Sports Coaching,"hindi, english",0,Helpage India,9768302622,A+,No,Experienced nurse,8,Solapur Care Home,Animal Welfare,Sangli,9561132478,11,1,1,4,3
+282,Volunteer_182,32,Female,Nagpur,Full-time,IT Support,Driving,"marathi, english",1,Red Cross,9297320407,B+,Yes,Skilled counselor,9,Green Maharashtra,Healthcare,Solapur,9456033332,10,1,1,2,5
+283,Volunteer_183,31,Female,Kolhapur,Flexible,Teaching,Social Media,"hindi, english",5,Helpage India,9811687226,B+,No,Skilled counselor,7,Seva Ashram,Child Care,Sangli,9600997722,5,1,1,3,4
+284,Volunteer_184,20,Female,Pune,Weekdays,Medical Assistance,Sports Coaching,"hindi, english",3,Helpage India,9669635550,O-,Yes,Handles crowd well,14,Anathalaya,Healthcare,Nashik,9846484560,13,1,0,3,5
+285,Volunteer_185,18,Female,Sangli,Weekdays,Counseling,Sports Coaching,"marathi, hindi",5,None,9136568604,AB+,Yes,Skilled counselor,28,Anathalaya,Child Care,Mumbai,9095143527,12,0,0,5,3
+286,Volunteer_186,22,Female,Sangli,Full-time,IT Support,Music Therapy,"english, marathi",0,Childline,9543902313,O+,No,Skilled counselor,2,Seva Ashram,Child Care,Amravati,9441989953,10,0,0,1,2
+287,Volunteer_187,43,Female,Satara,Full-time,Logistics,Sports Coaching,"english, marathi",4,Childline,9075278047,O+,Yes,Good with kids,43,Green Maharashtra,Environment,Nashik,9475030896,7,1,0,9,5
+288,Volunteer_188,40,Male,Amravati,Evenings,Counseling,Driving,"marathi, hindi",1,Childline,9766736656,O-,Yes,Skilled counselor,8,Green Maharashtra,Healthcare,Mumbai,9339613937,19,1,0,8,3
+289,Volunteer_189,48,Male,Solapur,Full-time,Teaching,Sports Coaching,"marathi, hindi",1,None,9082493325,B+,No,Great fundraiser,13,Seva Ashram,Healthcare,Kolhapur,9056827934,19,0,1,8,4
+290,Volunteer_190,31,Female,Nashik,Evenings,Teaching,First Aid,"hindi, english",5,Helpage India,9351922943,O+,Yes,Handles crowd well,21,Green Maharashtra,Orphanage,Solapur,9996007740,19,1,0,3,5
+291,Volunteer_191,24,Male,Aurangabad,Weekdays,Logistics,Social Media,"hindi, marathi, english",4,Helpage India,9530714041,B+,No,Experienced nurse,47,Hope Foundation,Animal Welfare,Satara,9792314559,12,1,1,2,4
+292,Volunteer_192,44,Male,Satara,Weekends,Medical Assistance,First Aid,"hindi, english",4,Red Cross,9841728495,O-,Yes,Experienced nurse,28,Green Maharashtra,Orphanage,Kolhapur,9200565604,15,1,1,1,4
+293,Volunteer_193,26,Male,Amravati,Flexible,Logistics,Driving,"marathi, hindi",0,None,9531248151,B+,No,Good with kids,35,Solapur Care Home,Education,Kolhapur,9082023784,5,0,0,6,1
+294,Volunteer_194,32,Female,Sangli,Weekdays,Fundraising,Sports Coaching,"english, marathi",5,Red Cross,9832220268,B+,No,Experienced nurse,23,Green Maharashtra,Child Care,Nashik,9838328552,14,0,0,1,5
+295,Volunteer_195,32,Female,Nagpur,Full-time,Teaching,Cooking,"hindi, english",5,None,9357668542,B+,Yes,Experienced nurse,46,Anathalaya,Environment,Solapur,9888512097,12,1,1,5,3
+296,Volunteer_196,43,Male,Aurangabad,Flexible,IT Support,Driving,"hindi, marathi, english",2,Red Cross,9972765685,O+,No,Handles crowd well,15,Helping Hands,Orphanage,Pune,9273740833,11,1,1,9,5
+297,Volunteer_197,27,Female,Amravati,Weekends,Fundraising,Music Therapy,"hindi, english",5,Cry Foundation,9542279704,A+,Yes,Handles crowd well,2,Hope Foundation,Healthcare,Aurangabad,9582489330,5,1,1,9,5
+298,Volunteer_198,45,Male,Amravati,Weekends,Event Management,First Aid,"marathi, english",1,Childline,9307231930,AB+,Yes,Great fundraiser,12,Hope Foundation,Education,Kolhapur,9827163574,16,1,1,4,4
+299,Volunteer_199,30,Male,Satara,Evenings,Counseling,First Aid,"hindi, english",0,Childline,9744257823,B+,No,Good with kids,36,Green Maharashtra,Environment,Sangli,9637149242,18,1,1,7,4
+300,Volunteer_200,36,Male,Aurangabad,Flexible,Fundraising,Photography,"marathi, hindi",4,Helpage India,9148823667,B+,Yes,Experienced nurse,3,Helping Hands,Elderly Care,Mumbai,9492374786,12,1,1,7,4
+301,Volunteer_201,48,Male,Mumbai,Evenings,Counseling,Sports Coaching,"english, marathi",5,Cry Foundation,9192520529,B+,No,Great fundraiser,5,Helping Hands,Healthcare,Pune,9069242384,5,1,1,4,4
+302,Volunteer_202,49,Female,Solapur,Weekdays,Logistics,Music Therapy,"english, marathi",0,Childline,9546426733,A+,Yes,Good with kids,3,Jeevan Jyot,Healthcare,Solapur,9373337165,16,1,1,5,3
+303,Volunteer_203,24,Female,Mumbai,Flexible,Fundraising,Cooking,"marathi, hindi",5,Helpage India,9084793233,O-,Yes,Experienced nurse,47,Helping Hands,Elderly Care,Satara,9293550797,12,1,1,9,2
+304,Volunteer_204,34,Female,Aurangabad,Weekdays,Logistics,First Aid,"marathi, english",4,Cry Foundation,9707357732,O+,No,Experienced nurse,19,Green Maharashtra,Child Care,Amravati,9118677805,2,0,0,7,1
+305,Volunteer_205,37,Male,Mumbai,Evenings,Event Management,First Aid,"marathi, hindi",3,Childline,9869295897,A+,Yes,Handles crowd well,2,Green Maharashtra,Child Care,Pune,9328130213,6,1,1,7,4
+306,Volunteer_206,46,Female,Pune,Flexible,Teaching,Music Therapy,"hindi, english",4,Red Cross,9682478075,B+,Yes,Skilled counselor,44,Seva Ashram,Orphanage,Satara,9360737570,4,0,1,7,4
+307,Volunteer_207,49,Male,Sangli,Evenings,Event Management,Driving,"marathi, hindi",4,None,9874338530,A+,Yes,Good with kids,37,Anathalaya,Orphanage,Nashik,9051235712,13,1,1,9,1
+308,Volunteer_208,21,Female,Pune,Flexible,Teaching,Driving,"marathi, hindi",4,Cry Foundation,9163419975,A+,Yes,Experienced nurse,17,Jeevan Jyot,Healthcare,Nagpur,9602519549,10,1,0,5,4
+309,Volunteer_209,47,Male,Kolhapur,Evenings,Logistics,Sports Coaching,"marathi, english",5,Helpage India,9064627603,A+,Yes,Good with kids,14,Green Maharashtra,Animal Welfare,Aurangabad,9811112559,17,0,0,6,2
+310,Volunteer_210,22,Male,Mumbai,Weekends,Teaching,Photography,"hindi, english",2,Cry Foundation,9981988533,O-,Yes,Great fundraiser,28,Seva Ashram,Healthcare,Nashik,9586538396,14,1,0,3,5
+311,Volunteer_211,40,Male,Kolhapur,Evenings,Counseling,First Aid,"hindi, marathi, english",4,Helpage India,9738989929,AB+,Yes,Great fundraiser,27,Jeevan Jyot,Orphanage,Solapur,9745990019,15,1,0,1,1
+312,Volunteer_212,24,Female,Nagpur,Weekends,IT Support,Photography,"hindi, marathi, english",1,Cry Foundation,9120551509,O+,Yes,Skilled counselor,10,Anathalaya,Elderly Care,Nagpur,9986865980,8,1,0,2,3
+313,Volunteer_213,30,Female,Nashik,Evenings,Event Management,Driving,"english, marathi",1,Helpage India,9223440338,O-,No,Experienced nurse,3,Jeevan Jyot,Orphanage,Satara,9385804128,18,0,1,8,1
+314,Volunteer_214,32,Female,Nagpur,Flexible,Fundraising,Driving,"marathi, hindi",0,Childline,9867931037,O-,Yes,Handles crowd well,36,Seva Ashram,Healthcare,Nagpur,9707253392,3,1,0,1,2
+315,Volunteer_215,28,Female,Aurangabad,Flexible,Event Management,Social Media,"english, marathi",2,Red Cross,9488106036,AB+,Yes,Experienced nurse,38,Solapur Care Home,Environment,Amravati,9012429979,17,0,0,7,3
+316,Volunteer_216,46,Male,Amravati,Flexible,Counseling,Cooking,"marathi, english",0,Childline,9472763227,O-,No,Good with kids,25,Green Maharashtra,Healthcare,Sangli,9282686129,7,0,0,5,5
+317,Volunteer_217,21,Female,Sangli,Full-time,Teaching,Sports Coaching,"hindi, marathi, english",1,Red Cross,9016829282,A+,No,Great fundraiser,22,Anathalaya,Environment,Sangli,9915335001,13,0,1,6,4
+318,Volunteer_218,30,Female,Mumbai,Weekdays,Counseling,Social Media,"marathi, hindi",1,Childline,9572896490,A+,No,Good with kids,48,Hope Foundation,Environment,Nashik,9269106823,16,0,0,8,1
+319,Volunteer_219,49,Male,Satara,Flexible,Medical Assistance,Cooking,"marathi, english",3,Childline,9374357770,B+,Yes,Skilled counselor,39,Anathalaya,Healthcare,Nashik,9676935585,5,1,0,4,3
+320,Volunteer_220,24,Male,Nashik,Weekends,Medical Assistance,Social Media,"marathi, english",4,Cry Foundation,9224513822,O-,No,Great fundraiser,47,Anathalaya,Animal Welfare,Solapur,9765505338,4,1,1,6,1
+321,Volunteer_221,44,Male,Solapur,Flexible,Fundraising,Social Media,"marathi, hindi",1,None,9495186352,B+,No,Handles crowd well,30,Anathalaya,Animal Welfare,Solapur,9387887121,10,1,1,3,5
+322,Volunteer_222,36,Female,Solapur,Full-time,Counseling,Sports Coaching,"marathi, english",5,Helpage India,9157724143,O+,Yes,Great fundraiser,21,Solapur Care Home,Education,Mumbai,9468933982,13,1,0,7,1
+323,Volunteer_223,39,Male,Solapur,Weekends,Logistics,Sports Coaching,"marathi, hindi",5,Helpage India,9441721830,A+,Yes,Experienced nurse,30,Green Maharashtra,Orphanage,Amravati,9659375258,10,0,0,2,3
+324,Volunteer_224,45,Male,Mumbai,Full-time,Fundraising,Music Therapy,"marathi, hindi",0,Helpage India,9041773155,O+,No,Experienced nurse,28,Seva Ashram,Animal Welfare,Solapur,9716721935,14,1,0,8,2
+325,Volunteer_225,19,Male,Solapur,Weekends,Logistics,Photography,"hindi, english",0,Red Cross,9977261533,AB+,No,Great fundraiser,31,Green Maharashtra,Child Care,Kolhapur,9637990393,12,0,1,7,3
+326,Volunteer_226,27,Female,Pune,Evenings,Fundraising,Photography,"english, marathi",4,Helpage India,9215036502,A+,Yes,Skilled counselor,26,Hope Foundation,Healthcare,Amravati,9432943881,1,1,0,8,1
+327,Volunteer_227,30,Male,Nashik,Weekdays,Medical Assistance,Music Therapy,"marathi, english",4,Helpage India,9494590354,O+,Yes,Experienced nurse,43,Seva Ashram,Environment,Mumbai,9729657703,7,1,1,2,5
+328,Volunteer_228,47,Female,Pune,Weekdays,Fundraising,Music Therapy,"marathi, english",3,Cry Foundation,9649675147,AB+,Yes,Experienced nurse,22,Jeevan Jyot,Healthcare,Sangli,9043032907,9,0,0,3,4
+329,Volunteer_229,42,Female,Amravati,Full-time,Medical Assistance,Driving,"hindi, english",2,Childline,9378498574,O+,Yes,Handles crowd well,21,Jeevan Jyot,Orphanage,Pune,9571512725,8,1,1,4,4
+330,Volunteer_230,38,Male,Nashik,Weekdays,Teaching,Cooking,"hindi, english",0,Helpage India,9148926878,AB+,Yes,Great fundraiser,1,Jeevan Jyot,Elderly Care,Mumbai,9940671503,13,0,0,9,5
+331,Volunteer_231,23,Male,Pune,Full-time,Logistics,Social Media,"hindi, english",4,None,9717112234,AB+,No,Experienced nurse,37,Seva Ashram,Animal Welfare,Mumbai,9522340363,14,1,0,5,1
+332,Volunteer_232,45,Female,Nashik,Full-time,Counseling,Music Therapy,"hindi, marathi, english",0,Helpage India,9541042276,A+,Yes,Skilled counselor,13,Helping Hands,Animal Welfare,Nashik,9218113098,12,0,1,6,5
+333,Volunteer_233,45,Male,Amravati,Full-time,Fundraising,First Aid,"hindi, marathi, english",4,Red Cross,9862055076,B+,Yes,Good with kids,21,Solapur Care Home,Animal Welfare,Aurangabad,9485884115,8,1,0,1,1
+334,Volunteer_234,29,Male,Kolhapur,Weekdays,Medical Assistance,Photography,"hindi, marathi, english",1,Red Cross,9027101646,AB+,Yes,Great fundraiser,46,Helping Hands,Environment,Nagpur,9865880704,18,0,0,4,3
+335,Volunteer_235,29,Female,Mumbai,Full-time,Event Management,Music Therapy,"marathi, hindi",0,Red Cross,9559010332,AB+,Yes,Handles crowd well,9,Green Maharashtra,Child Care,Sangli,9495757594,16,1,1,4,2
+336,Volunteer_236,37,Female,Mumbai,Weekdays,Logistics,First Aid,"marathi, english",1,Helpage India,9170346097,A+,Yes,Experienced nurse,17,Jeevan Jyot,Child Care,Satara,9843140290,11,1,1,8,1
+337,Volunteer_237,47,Male,Solapur,Full-time,Fundraising,First Aid,"english, marathi",0,Cry Foundation,9837504618,B+,No,Skilled counselor,47,Solapur Care Home,Animal Welfare,Satara,9807156491,16,1,0,8,4
+338,Volunteer_238,47,Female,Nagpur,Flexible,IT Support,First Aid,"marathi, hindi",2,None,9332789657,O-,Yes,Great fundraiser,21,Seva Ashram,Child Care,Solapur,9622335005,14,1,1,6,4
+339,Volunteer_239,28,Male,Solapur,Full-time,Teaching,Driving,"marathi, english",3,Helpage India,9272633195,O-,No,Skilled counselor,31,Jeevan Jyot,Elderly Care,Sangli,9397190152,3,1,1,8,2
+340,Volunteer_240,49,Male,Aurangabad,Weekends,Teaching,Driving,"marathi, english",5,Cry Foundation,9077433985,B+,Yes,Skilled counselor,39,Seva Ashram,Animal Welfare,Kolhapur,9761546036,2,1,1,9,1
+341,Volunteer_241,43,Male,Pune,Full-time,Event Management,First Aid,"hindi, english",5,Cry Foundation,9517787731,O+,No,Handles crowd well,22,Solapur Care Home,Education,Solapur,9415071676,3,0,1,5,2
+342,Volunteer_242,40,Female,Nashik,Evenings,Medical Assistance,Cooking,"hindi, english",5,Helpage India,9439513358,A+,No,Great fundraiser,12,Seva Ashram,Environment,Solapur,9483931445,4,0,1,1,3
+343,Volunteer_243,45,Male,Nagpur,Full-time,Fundraising,Driving,"marathi, hindi",1,Helpage India,9594209011,B+,Yes,Experienced nurse,6,Seva Ashram,Elderly Care,Mumbai,9964041380,5,1,0,1,2
+344,Volunteer_244,42,Male,Amravati,Weekends,Logistics,Social Media,"hindi, english",4,Cry Foundation,9689336707,O-,Yes,Handles crowd well,16,Hope Foundation,Environment,Sangli,9613153472,10,1,1,2,3
+345,Volunteer_245,24,Male,Aurangabad,Weekends,Medical Assistance,First Aid,"marathi, english",5,Cry Foundation,9856350933,AB+,Yes,Experienced nurse,26,Green Maharashtra,Animal Welfare,Nagpur,9795720105,2,1,0,2,4
+346,Volunteer_246,47,Female,Amravati,Weekdays,Teaching,Social Media,"hindi, english",2,Cry Foundation,9786807601,O-,Yes,Good with kids,5,Helping Hands,Elderly Care,Solapur,9018786096,12,0,0,5,3
+347,Volunteer_247,18,Female,Mumbai,Flexible,Medical Assistance,Social Media,"hindi, marathi, english",5,Helpage India,9481086629,AB+,Yes,Skilled counselor,9,Helping Hands,Animal Welfare,Aurangabad,9920573699,5,1,1,7,1
+348,Volunteer_248,18,Female,Mumbai,Full-time,Teaching,First Aid,"hindi, english",0,Cry Foundation,9590139158,A+,No,Good with kids,46,Helping Hands,Elderly Care,Amravati,9102528703,5,0,0,7,1
+349,Volunteer_249,42,Female,Solapur,Weekdays,Medical Assistance,Photography,"marathi, english",1,Red Cross,9427196474,AB+,Yes,Skilled counselor,40,Anathalaya,Animal Welfare,Kolhapur,9661770830,1,1,1,4,1
+350,Volunteer_250,44,Female,Pune,Flexible,Event Management,Cooking,"marathi, hindi",0,Helpage India,9222590553,B+,Yes,Handles crowd well,14,Hope Foundation,Education,Kolhapur,9419313330,4,1,1,4,1
+351,Volunteer_251,47,Male,Nagpur,Full-time,Counseling,First Aid,"english, marathi",0,Red Cross,9141077362,AB+,No,Experienced nurse,44,Jeevan Jyot,Environment,Solapur,9659859546,12,0,1,3,5
+352,Volunteer_252,42,Female,Sangli,Evenings,Event Management,First Aid,"hindi, english",0,Childline,9929321802,O+,Yes,Experienced nurse,42,Jeevan Jyot,Elderly Care,Aurangabad,9211595719,12,1,0,2,3
+353,Volunteer_253,37,Female,Aurangabad,Full-time,Event Management,Driving,"marathi, english",3,Helpage India,9950569883,B+,No,Handles crowd well,30,Jeevan Jyot,Education,Amravati,9081055739,16,0,0,3,1
+354,Volunteer_254,30,Female,Aurangabad,Weekends,Counseling,First Aid,"english, marathi",3,Childline,9479602167,A+,Yes,Great fundraiser,26,Helping Hands,Healthcare,Pune,9572899771,17,1,1,8,2
+355,Volunteer_255,26,Male,Solapur,Weekends,Counseling,Photography,"english, marathi",4,Cry Foundation,9992556737,B+,No,Good with kids,45,Green Maharashtra,Animal Welfare,Nashik,9546832086,10,1,1,1,2
+356,Volunteer_256,20,Female,Mumbai,Evenings,Fundraising,Driving,"hindi, marathi, english",1,Cry Foundation,9465576058,O+,Yes,Good with kids,29,Helping Hands,Orphanage,Nashik,9474771534,17,1,0,4,5
+357,Volunteer_257,24,Female,Solapur,Weekdays,Logistics,Sports Coaching,"english, marathi",2,None,9540878236,A+,No,Experienced nurse,19,Green Maharashtra,Elderly Care,Nashik,9137586138,17,1,0,7,3
+358,Volunteer_258,23,Male,Nashik,Flexible,Logistics,Sports Coaching,"marathi, english",2,Cry Foundation,9506832010,O-,No,Experienced nurse,47,Hope Foundation,Child Care,Mumbai,9739132318,18,0,1,5,3
+359,Volunteer_259,25,Female,Nagpur,Full-time,Fundraising,Social Media,"marathi, english",2,Childline,9142421220,O+,Yes,Experienced nurse,8,Green Maharashtra,Education,Kolhapur,9936171622,2,1,0,2,3
+360,Volunteer_260,44,Male,Pune,Weekends,Event Management,Cooking,"hindi, english",0,Cry Foundation,9028085521,A+,Yes,Handles crowd well,23,Seva Ashram,Education,Satara,9004932206,4,1,1,1,5
+361,Volunteer_261,26,Male,Kolhapur,Weekdays,Event Management,Social Media,"hindi, english",3,Helpage India,9722061750,AB+,Yes,Great fundraiser,42,Helping Hands,Elderly Care,Satara,9300885447,19,1,1,6,3
+362,Volunteer_262,47,Male,Satara,Evenings,Teaching,Photography,"hindi, english",1,Cry Foundation,9409091069,B+,No,Good with kids,35,Jeevan Jyot,Education,Mumbai,9385600477,11,0,1,5,3
+363,Volunteer_263,22,Male,Satara,Weekends,Teaching,Music Therapy,"english, marathi",0,None,9052658737,A+,No,Skilled counselor,31,Seva Ashram,Healthcare,Solapur,9159690041,17,1,0,3,1
+364,Volunteer_264,18,Male,Solapur,Evenings,Logistics,Cooking,"english, marathi",3,Cry Foundation,9117985165,B+,No,Handles crowd well,35,Helping Hands,Education,Sangli,9082406646,12,1,0,9,3
+365,Volunteer_265,36,Female,Nashik,Full-time,Fundraising,Sports Coaching,"hindi, marathi, english",3,Childline,9659818185,AB+,Yes,Good with kids,32,Solapur Care Home,Orphanage,Sangli,9476168425,2,1,0,3,1
+366,Volunteer_266,27,Male,Nagpur,Flexible,IT Support,Social Media,"hindi, english",5,Childline,9537264098,A+,Yes,Great fundraiser,5,Anathalaya,Orphanage,Nashik,9768173649,6,1,1,2,1
+367,Volunteer_267,29,Male,Sangli,Weekends,IT Support,Sports Coaching,"marathi, hindi",5,Cry Foundation,9842616290,O-,No,Handles crowd well,16,Helping Hands,Animal Welfare,Sangli,9075025027,9,1,1,5,3
+368,Volunteer_268,41,Female,Satara,Weekends,Fundraising,Photography,"hindi, marathi, english",1,Childline,9751120778,O+,Yes,Good with kids,17,Solapur Care Home,Animal Welfare,Solapur,9036317166,5,1,1,9,2
+369,Volunteer_269,32,Male,Nagpur,Full-time,Teaching,Photography,"marathi, hindi",1,Childline,9342615742,A+,No,Handles crowd well,32,Hope Foundation,Child Care,Pune,9826236138,9,1,1,8,4
+370,Volunteer_270,44,Female,Pune,Weekdays,Logistics,Music Therapy,"english, marathi",1,None,9741501803,AB+,Yes,Good with kids,38,Solapur Care Home,Healthcare,Mumbai,9523139861,8,0,0,6,2
+371,Volunteer_271,39,Female,Amravati,Flexible,Logistics,Music Therapy,"hindi, marathi, english",0,Helpage India,9172731851,A+,Yes,Good with kids,32,Hope Foundation,Orphanage,Pune,9010617218,8,1,1,3,3
+372,Volunteer_272,49,Female,Nashik,Weekends,Teaching,Driving,"hindi, marathi, english",4,None,9744730434,B+,No,Great fundraiser,20,Helping Hands,Elderly Care,Kolhapur,9803538530,6,1,1,6,3
+373,Volunteer_273,49,Male,Mumbai,Flexible,IT Support,Cooking,"marathi, english",1,Red Cross,9216135348,A+,Yes,Skilled counselor,48,Hope Foundation,Environment,Sangli,9983605166,3,1,1,5,2
+374,Volunteer_274,41,Male,Nagpur,Weekends,Medical Assistance,Photography,"english, marathi",5,None,9965452710,O-,Yes,Great fundraiser,2,Solapur Care Home,Environment,Amravati,9375590949,5,1,0,1,3
+375,Volunteer_275,26,Male,Pune,Flexible,Medical Assistance,Social Media,"english, marathi",4,Cry Foundation,9270185549,A+,Yes,Good with kids,20,Green Maharashtra,Environment,Nashik,9728736928,9,1,1,5,1
+376,Volunteer_276,37,Female,Sangli,Evenings,Teaching,Sports Coaching,"hindi, marathi, english",0,Helpage India,9022993847,O+,Yes,Handles crowd well,47,Anathalaya,Animal Welfare,Mumbai,9248681933,7,0,1,7,5
+377,Volunteer_277,34,Male,Kolhapur,Weekends,Medical Assistance,First Aid,"english, marathi",4,Cry Foundation,9804648347,A+,Yes,Great fundraiser,18,Seva Ashram,Elderly Care,Nashik,9993757103,4,1,1,9,3
+378,Volunteer_278,47,Male,Mumbai,Flexible,Counseling,Music Therapy,"hindi, marathi, english",2,Red Cross,9772972618,B+,No,Skilled counselor,1,Seva Ashram,Education,Sangli,9016668096,7,1,0,1,3
+379,Volunteer_279,34,Male,Kolhapur,Weekdays,Fundraising,First Aid,"marathi, english",4,Helpage India,9139460902,A+,Yes,Good with kids,29,Anathalaya,Elderly Care,Nagpur,9427285620,5,1,1,3,2
+380,Volunteer_280,43,Female,Sangli,Evenings,Fundraising,Social Media,"hindi, marathi, english",1,Childline,9871333656,O-,No,Great fundraiser,29,Jeevan Jyot,Education,Sangli,9597254384,11,1,0,8,1
+381,Volunteer_281,37,Female,Pune,Evenings,Teaching,Music Therapy,"english, marathi",0,None,9959196330,AB+,Yes,Great fundraiser,19,Seva Ashram,Environment,Mumbai,9737563673,15,1,1,6,2
+382,Volunteer_282,29,Male,Satara,Weekdays,Event Management,First Aid,"english, marathi",1,Cry Foundation,9584357074,A+,Yes,Great fundraiser,44,Helping Hands,Child Care,Satara,9940512903,2,0,1,5,2
+383,Volunteer_283,47,Male,Kolhapur,Flexible,IT Support,Cooking,"hindi, marathi, english",5,Red Cross,9711463471,A+,No,Great fundraiser,40,Jeevan Jyot,Child Care,Mumbai,9785818161,13,1,1,2,3
+384,Volunteer_284,24,Male,Mumbai,Full-time,Teaching,Social Media,"hindi, marathi, english",2,Childline,9369706069,O+,No,Handles crowd well,6,Helping Hands,Education,Aurangabad,9333989839,16,1,1,3,1
+385,Volunteer_285,19,Male,Solapur,Weekdays,Medical Assistance,Sports Coaching,"hindi, marathi, english",5,None,9664800955,O-,Yes,Skilled counselor,44,Solapur Care Home,Environment,Amravati,9279750537,7,1,1,2,3
+386,Volunteer_286,20,Female,Aurangabad,Flexible,IT Support,Cooking,"hindi, english",1,Childline,9743776627,AB+,Yes,Skilled counselor,39,Solapur Care Home,Elderly Care,Sangli,9207108393,8,1,0,1,3
+387,Volunteer_287,34,Female,Nagpur,Weekdays,Event Management,Social Media,"english, marathi",1,None,9219797483,B+,No,Good with kids,46,Jeevan Jyot,Child Care,Aurangabad,9791212836,6,0,0,7,3
+388,Volunteer_288,22,Female,Satara,Weekdays,Medical Assistance,Driving,"english, marathi",1,Helpage India,9068083167,A+,No,Experienced nurse,8,Jeevan Jyot,Education,Satara,9786299033,7,0,1,3,3
+389,Volunteer_289,34,Female,Kolhapur,Weekends,Logistics,Music Therapy,"hindi, english",3,Childline,9987514006,AB+,No,Handles crowd well,24,Jeevan Jyot,Elderly Care,Solapur,9580799195,18,1,1,7,5
+390,Volunteer_290,41,Male,Amravati,Flexible,Counseling,Photography,"hindi, marathi, english",2,Childline,9525304972,B+,No,Good with kids,20,Jeevan Jyot,Environment,Solapur,9719513227,7,1,0,7,4
+391,Volunteer_291,34,Male,Nagpur,Full-time,Medical Assistance,Sports Coaching,"marathi, english",1,Childline,9595911748,O-,Yes,Good with kids,14,Hope Foundation,Healthcare,Amravati,9097397203,3,1,0,8,1
+392,Volunteer_292,44,Male,Solapur,Weekends,Counseling,Cooking,"hindi, marathi, english",1,Helpage India,9020030723,O-,Yes,Great fundraiser,5,Green Maharashtra,Environment,Kolhapur,9859527216,5,1,1,1,5
+393,Volunteer_293,34,Female,Sangli,Weekdays,IT Support,Cooking,"hindi, marathi, english",5,Red Cross,9264890331,AB+,Yes,Experienced nurse,41,Jeevan Jyot,Animal Welfare,Amravati,9819283597,1,1,1,5,4
+394,Volunteer_294,19,Male,Aurangabad,Weekdays,Counseling,First Aid,"hindi, english",5,None,9859269063,B+,Yes,Experienced nurse,40,Green Maharashtra,Environment,Amravati,9571125410,15,1,1,9,4
+395,Volunteer_295,19,Female,Pune,Weekdays,IT Support,Music Therapy,"english, marathi",1,Childline,9676061704,O-,Yes,Handles crowd well,34,Jeevan Jyot,Elderly Care,Amravati,9931867932,3,0,0,7,4
+396,Volunteer_296,45,Female,Solapur,Flexible,IT Support,Photography,"hindi, marathi, english",0,Helpage India,9879263352,AB+,No,Experienced nurse,16,Solapur Care Home,Elderly Care,Amravati,9893401867,8,1,1,1,5
+397,Volunteer_297,39,Male,Solapur,Flexible,IT Support,Social Media,"english, marathi",3,Red Cross,9285693346,O-,No,Good with kids,45,Helping Hands,Orphanage,Amravati,9978396787,9,1,1,8,1
+398,Volunteer_298,40,Male,Sangli,Weekends,IT Support,Photography,"marathi, hindi",5,None,9240201828,O-,No,Experienced nurse,7,Green Maharashtra,Orphanage,Pune,9508792913,15,0,1,3,2
+399,Volunteer_299,22,Male,Nashik,Full-time,IT Support,Music Therapy,"english, marathi",0,Helpage India,9642282132,O-,Yes,Experienced nurse,16,Solapur Care Home,Elderly Care,Satara,9856202283,10,1,1,4,4
+400,Volunteer_300,49,Female,Sangli,Weekends,Medical Assistance,Music Therapy,"marathi, english",3,None,9610664377,O+,No,Skilled counselor,7,Seva Ashram,Elderly Care,Mumbai,9573218497,2,1,0,4,2
+401,Volunteer_301,18,Male,Nashik,Evenings,IT Support,Driving,"marathi, english",1,Childline,9226014865,B+,Yes,Good with kids,27,Hope Foundation,Healthcare,Sangli,9753471233,5,1,1,8,2
+402,Volunteer_302,18,Female,Nashik,Weekdays,Medical Assistance,Driving,"hindi, marathi, english",2,Red Cross,9226885472,AB+,Yes,Experienced nurse,14,Hope Foundation,Healthcare,Aurangabad,9272358330,19,0,0,1,3
+403,Volunteer_303,36,Male,Satara,Weekdays,IT Support,Photography,"english, marathi",4,Helpage India,9901864391,AB+,Yes,Experienced nurse,14,Helping Hands,Environment,Amravati,9023599376,13,1,0,8,2
+404,Volunteer_304,47,Female,Satara,Weekdays,Counseling,Social Media,"hindi, marathi, english",4,Red Cross,9540483826,B+,No,Great fundraiser,44,Jeevan Jyot,Animal Welfare,Kolhapur,9560867721,11,0,1,9,3
+405,Volunteer_305,19,Female,Mumbai,Weekends,Logistics,Photography,"hindi, english",1,Childline,9126012144,B+,Yes,Experienced nurse,33,Solapur Care Home,Child Care,Nashik,9451278609,1,0,1,9,1
+406,Volunteer_306,38,Male,Kolhapur,Weekends,IT Support,Music Therapy,"marathi, english",5,Red Cross,9234115583,B+,Yes,Experienced nurse,33,Seva Ashram,Animal Welfare,Sangli,9079663893,15,1,1,5,1
+407,Volunteer_307,29,Female,Kolhapur,Weekdays,Event Management,Music Therapy,"hindi, marathi, english",0,Red Cross,9512781136,B+,No,Skilled counselor,44,Solapur Care Home,Healthcare,Nashik,9810156626,18,1,1,4,3
+408,Volunteer_308,43,Female,Pune,Weekends,IT Support,First Aid,"hindi, english",2,Cry Foundation,9371255850,A+,Yes,Good with kids,20,Jeevan Jyot,Environment,Aurangabad,9965097529,16,1,0,4,1
+409,Volunteer_309,49,Male,Kolhapur,Flexible,IT Support,Driving,"hindi, marathi, english",3,Red Cross,9685218910,AB+,No,Handles crowd well,47,Jeevan Jyot,Animal Welfare,Aurangabad,9138840628,9,1,1,9,4
+410,Volunteer_310,23,Female,Satara,Flexible,Counseling,First Aid,"english, marathi",1,None,9051276001,A+,Yes,Good with kids,36,Anathalaya,Education,Sangli,9428519424,1,1,0,8,1
+411,Volunteer_311,49,Male,Mumbai,Weekends,Fundraising,Sports Coaching,"english, marathi",2,Helpage India,9582223365,O-,No,Great fundraiser,7,Solapur Care Home,Orphanage,Kolhapur,9994007255,11,1,1,7,3
+412,Volunteer_312,40,Female,Mumbai,Weekdays,Counseling,Music Therapy,"english, marathi",2,Cry Foundation,9115996885,O-,Yes,Good with kids,32,Helping Hands,Animal Welfare,Pune,9271973692,9,1,0,3,4
+413,Volunteer_313,21,Male,Nashik,Weekends,Event Management,First Aid,"english, marathi",5,Helpage India,9042994381,AB+,Yes,Experienced nurse,48,Solapur Care Home,Child Care,Solapur,9190676195,11,1,1,4,2
+414,Volunteer_314,40,Male,Sangli,Weekends,Fundraising,Photography,"marathi, hindi",3,Helpage India,9264546370,O-,No,Great fundraiser,3,Hope Foundation,Environment,Aurangabad,9421512664,13,1,0,9,2
+415,Volunteer_315,28,Female,Pune,Weekends,Teaching,Driving,"hindi, english",2,Childline,9568693131,B+,Yes,Good with kids,39,Seva Ashram,Animal Welfare,Kolhapur,9290049507,2,1,1,8,2
+416,Volunteer_316,41,Female,Nashik,Evenings,Teaching,Driving,"hindi, english",5,Childline,9733639267,A+,No,Great fundraiser,29,Green Maharashtra,Elderly Care,Aurangabad,9799937277,14,0,1,1,3
+417,Volunteer_317,44,Female,Sangli,Flexible,Event Management,Social Media,"english, marathi",0,Cry Foundation,9307858443,B+,Yes,Handles crowd well,24,Helping Hands,Education,Nagpur,9991464734,6,1,1,3,2
+418,Volunteer_318,34,Female,Kolhapur,Full-time,Counseling,Photography,"marathi, hindi",5,Childline,9849073388,O-,No,Good with kids,22,Anathalaya,Orphanage,Solapur,9673790462,8,1,1,2,1
+419,Volunteer_319,48,Female,Nashik,Full-time,Medical Assistance,Social Media,"english, marathi",0,Childline,9350717761,A+,Yes,Experienced nurse,6,Seva Ashram,Education,Aurangabad,9456353345,18,1,1,2,2
+420,Volunteer_320,23,Male,Nagpur,Evenings,Event Management,First Aid,"marathi, hindi",0,Childline,9295568129,B+,Yes,Great fundraiser,48,Seva Ashram,Environment,Kolhapur,9047088530,16,1,1,8,5
+421,Volunteer_321,41,Female,Kolhapur,Weekends,Logistics,Cooking,"english, marathi",2,Helpage India,9958023054,AB+,Yes,Skilled counselor,24,Green Maharashtra,Healthcare,Aurangabad,9489178932,12,0,1,6,5
+422,Volunteer_322,22,Male,Sangli,Evenings,Fundraising,Sports Coaching,"marathi, english",5,Cry Foundation,9401564054,B+,No,Great fundraiser,40,Hope Foundation,Orphanage,Nashik,9729253835,11,1,1,6,2
+423,Volunteer_323,37,Male,Pune,Evenings,Fundraising,Photography,"marathi, english",0,Helpage India,9033295260,O-,No,Skilled counselor,23,Hope Foundation,Education,Sangli,9264789449,6,1,0,4,2
+424,Volunteer_324,19,Female,Sangli,Weekdays,IT Support,Photography,"hindi, marathi, english",3,None,9902448976,A+,No,Experienced nurse,38,Hope Foundation,Healthcare,Sangli,9655097950,3,0,0,1,5
+425,Volunteer_325,23,Male,Nashik,Flexible,Teaching,Photography,"english, marathi",2,Helpage India,9499640966,AB+,No,Handles crowd well,10,Helping Hands,Child Care,Aurangabad,9481377020,14,1,0,7,2
+426,Volunteer_326,39,Male,Nashik,Full-time,Fundraising,Social Media,"hindi, english",5,None,9473057501,A+,No,Skilled counselor,16,Solapur Care Home,Environment,Kolhapur,9837995517,2,1,0,8,4
+427,Volunteer_327,28,Male,Solapur,Weekends,Event Management,First Aid,"hindi, marathi, english",5,Red Cross,9945394843,AB+,Yes,Handles crowd well,11,Seva Ashram,Environment,Nashik,9162627733,11,1,1,2,5
+428,Volunteer_328,48,Male,Pune,Full-time,Fundraising,Photography,"marathi, english",4,Red Cross,9599216781,A+,Yes,Great fundraiser,32,Solapur Care Home,Orphanage,Pune,9576078870,3,1,0,2,3
+429,Volunteer_329,33,Female,Amravati,Full-time,Event Management,Cooking,"english, marathi",5,None,9094411179,O-,Yes,Experienced nurse,45,Solapur Care Home,Education,Pune,9016681715,18,1,0,1,5
+430,Volunteer_330,33,Male,Kolhapur,Flexible,Medical Assistance,Photography,"hindi, marathi, english",2,None,9226333648,AB+,Yes,Skilled counselor,6,Hope Foundation,Child Care,Nashik,9544265430,1,1,0,4,1
+431,Volunteer_331,18,Female,Mumbai,Full-time,IT Support,Driving,"english, marathi",3,Helpage India,9067413407,O+,Yes,Great fundraiser,24,Solapur Care Home,Elderly Care,Mumbai,9058548622,1,1,1,6,4
+432,Volunteer_332,26,Female,Pune,Full-time,Teaching,Sports Coaching,"marathi, english",5,None,9163359725,A+,No,Good with kids,33,Seva Ashram,Orphanage,Kolhapur,9807385218,12,1,1,5,3
+433,Volunteer_333,45,Male,Mumbai,Evenings,Fundraising,Driving,"hindi, marathi, english",4,Cry Foundation,9472874309,A+,Yes,Great fundraiser,12,Seva Ashram,Elderly Care,Pune,9082506582,15,1,0,4,2
+434,Volunteer_334,44,Female,Pune,Flexible,Event Management,Driving,"marathi, english",2,Red Cross,9202783090,B+,No,Handles crowd well,27,Jeevan Jyot,Orphanage,Mumbai,9312735891,5,1,1,4,1
+435,Volunteer_335,23,Female,Pune,Weekdays,Counseling,Sports Coaching,"marathi, hindi",0,Red Cross,9385783127,AB+,Yes,Experienced nurse,38,Anathalaya,Education,Kolhapur,9853037436,6,1,0,7,1
+436,Volunteer_336,33,Female,Sangli,Weekends,Teaching,Cooking,"marathi, english",1,None,9582511877,O+,No,Experienced nurse,18,Helping Hands,Child Care,Nashik,9195370092,16,1,1,7,4
+437,Volunteer_337,46,Male,Pune,Full-time,Medical Assistance,First Aid,"english, marathi",1,Childline,9029334810,O-,No,Great fundraiser,45,Solapur Care Home,Education,Amravati,9571802151,12,1,1,2,3
+438,Volunteer_338,20,Female,Solapur,Weekends,Event Management,Driving,"hindi, english",0,Childline,9625470289,B+,No,Good with kids,39,Helping Hands,Environment,Mumbai,9632536184,12,1,0,7,1
+439,Volunteer_339,37,Female,Amravati,Weekdays,Logistics,First Aid,"marathi, english",5,None,9397355863,O+,Yes,Handles crowd well,13,Helping Hands,Elderly Care,Mumbai,9947265830,3,1,1,2,3
+440,Volunteer_340,45,Female,Nashik,Weekends,Logistics,Driving,"hindi, english",1,Cry Foundation,9847962340,AB+,Yes,Great fundraiser,40,Helping Hands,Healthcare,Aurangabad,9870007927,2,0,1,4,3
+441,Volunteer_341,44,Male,Aurangabad,Weekdays,IT Support,Music Therapy,"marathi, hindi",1,Childline,9433540983,O+,Yes,Great fundraiser,30,Green Maharashtra,Animal Welfare,Satara,9749781447,7,0,1,1,1
+442,Volunteer_342,21,Female,Mumbai,Evenings,IT Support,Sports Coaching,"hindi, marathi, english",0,None,9613349655,A+,Yes,Experienced nurse,49,Jeevan Jyot,Environment,Satara,9563488273,2,0,1,5,3
+443,Volunteer_343,36,Male,Nashik,Full-time,Medical Assistance,Driving,"hindi, marathi, english",5,Cry Foundation,9854746981,A+,No,Handles crowd well,41,Helping Hands,Environment,Kolhapur,9364224680,7,0,0,1,4
+444,Volunteer_344,43,Male,Aurangabad,Weekdays,Medical Assistance,Music Therapy,"hindi, english",5,Cry Foundation,9140641569,B+,No,Good with kids,13,Jeevan Jyot,Elderly Care,Aurangabad,9735261381,11,1,0,4,1
+445,Volunteer_345,20,Male,Amravati,Weekends,IT Support,Social Media,"hindi, marathi, english",0,Helpage India,9805225518,AB+,No,Experienced nurse,34,Seva Ashram,Orphanage,Sangli,9229132186,11,0,0,9,4
+446,Volunteer_346,48,Male,Amravati,Full-time,Fundraising,Music Therapy,"marathi, english",5,Cry Foundation,9009380814,AB+,No,Great fundraiser,36,Green Maharashtra,Environment,Solapur,9384686051,14,1,0,8,4
+447,Volunteer_347,36,Male,Mumbai,Evenings,Fundraising,Photography,"hindi, english",5,Childline,9824321738,O+,Yes,Experienced nurse,30,Solapur Care Home,Animal Welfare,Amravati,9419077262,3,0,0,6,3
+448,Volunteer_348,37,Male,Mumbai,Full-time,Event Management,Driving,"english, marathi",2,Childline,9595594453,B+,No,Experienced nurse,25,Jeevan Jyot,Child Care,Solapur,9387635236,14,1,1,8,3
+449,Volunteer_349,49,Female,Amravati,Weekdays,Counseling,Music Therapy,"marathi, english",2,None,9669377269,AB+,Yes,Skilled counselor,2,Anathalaya,Environment,Mumbai,9556242617,11,1,0,5,1
+450,Volunteer_350,24,Male,Aurangabad,Evenings,Event Management,First Aid,"marathi, english",0,None,9606637079,A+,No,Experienced nurse,36,Helping Hands,Child Care,Nagpur,9824104196,4,0,1,7,2
+451,Volunteer_351,37,Female,Pune,Weekends,Counseling,Social Media,"marathi, english",3,Cry Foundation,9732842257,O+,No,Experienced nurse,18,Green Maharashtra,Education,Pune,9348348669,17,1,1,8,1
+452,Volunteer_352,26,Female,Kolhapur,Evenings,Medical Assistance,Cooking,"english, marathi",1,Red Cross,9395969067,O-,No,Handles crowd well,5,Anathalaya,Orphanage,Pune,9601139528,16,0,1,7,4
+453,Volunteer_353,18,Male,Nagpur,Evenings,Teaching,Driving,"marathi, hindi",2,Helpage India,9402150219,A+,Yes,Experienced nurse,19,Seva Ashram,Child Care,Aurangabad,9025698182,3,1,1,4,3
+454,Volunteer_354,25,Female,Nashik,Flexible,Event Management,Photography,"hindi, marathi, english",1,Red Cross,9898962744,B+,Yes,Good with kids,42,Seva Ashram,Environment,Satara,9409470248,10,1,1,5,4
+455,Volunteer_355,49,Female,Sangli,Evenings,Event Management,Cooking,"hindi, english",4,Cry Foundation,9880739690,AB+,No,Great fundraiser,18,Hope Foundation,Orphanage,Nagpur,9638409683,15,1,1,6,5
+456,Volunteer_356,24,Female,Nashik,Evenings,Counseling,Music Therapy,"marathi, hindi",0,Cry Foundation,9311480987,A+,No,Handles crowd well,32,Helping Hands,Animal Welfare,Aurangabad,9201627657,8,0,1,6,5
+457,Volunteer_357,35,Female,Sangli,Full-time,Medical Assistance,Cooking,"hindi, english",3,Red Cross,9476425191,O-,No,Experienced nurse,21,Hope Foundation,Orphanage,Mumbai,9513808829,18,1,1,9,4
+458,Volunteer_358,25,Male,Aurangabad,Weekends,Medical Assistance,Cooking,"hindi, marathi, english",4,Helpage India,9873081211,O-,Yes,Good with kids,10,Green Maharashtra,Child Care,Nagpur,9178191257,3,1,1,2,2
+459,Volunteer_359,18,Female,Sangli,Full-time,Logistics,Social Media,"english, marathi",4,Red Cross,9005446342,B+,Yes,Great fundraiser,37,Anathalaya,Child Care,Pune,9716008259,7,1,0,6,2
+460,Volunteer_360,28,Male,Mumbai,Full-time,Counseling,Cooking,"marathi, english",5,None,9655095702,A+,Yes,Handles crowd well,49,Solapur Care Home,Healthcare,Kolhapur,9427310309,10,1,1,3,1
+461,Volunteer_361,45,Female,Kolhapur,Weekdays,Medical Assistance,Cooking,"marathi, english",4,Childline,9618506196,O+,No,Good with kids,22,Hope Foundation,Healthcare,Mumbai,9312512023,9,1,1,2,1
+462,Volunteer_362,42,Female,Kolhapur,Full-time,IT Support,Driving,"english, marathi",0,None,9730316449,A+,Yes,Experienced nurse,13,Seva Ashram,Orphanage,Aurangabad,9312518733,14,1,0,6,1
+463,Volunteer_363,42,Male,Mumbai,Flexible,Fundraising,Social Media,"marathi, hindi",2,Childline,9093251466,O-,No,Skilled counselor,17,Helping Hands,Elderly Care,Sangli,9424209832,14,0,0,4,3
+464,Volunteer_364,35,Female,Solapur,Flexible,Logistics,Photography,"marathi, hindi",0,Cry Foundation,9645340629,B+,Yes,Skilled counselor,9,Anathalaya,Elderly Care,Nashik,9753576128,11,0,1,5,2
+465,Volunteer_365,40,Female,Aurangabad,Weekdays,IT Support,Music Therapy,"hindi, english",2,Helpage India,9054416105,B+,No,Handles crowd well,24,Jeevan Jyot,Healthcare,Mumbai,9712606096,1,1,1,5,4
+466,Volunteer_366,48,Female,Solapur,Weekends,Teaching,Social Media,"english, marathi",4,Red Cross,9388346530,O+,No,Good with kids,44,Green Maharashtra,Environment,Mumbai,9377383020,4,0,0,3,5
+467,Volunteer_367,47,Male,Solapur,Weekends,Event Management,Social Media,"marathi, hindi",4,Helpage India,9074213491,B+,Yes,Great fundraiser,14,Green Maharashtra,Education,Sangli,9237861655,6,0,1,4,2
+468,Volunteer_368,27,Female,Nashik,Full-time,Logistics,Sports Coaching,"english, marathi",3,Red Cross,9849787484,B+,No,Good with kids,46,Seva Ashram,Orphanage,Amravati,9786323354,5,0,1,3,2
+469,Volunteer_369,20,Male,Amravati,Full-time,Teaching,Social Media,"hindi, marathi, english",2,None,9758772777,B+,No,Skilled counselor,8,Jeevan Jyot,Education,Kolhapur,9753957126,3,1,1,7,2
+470,Volunteer_370,24,Female,Nashik,Full-time,Event Management,Sports Coaching,"marathi, english",4,None,9036753179,B+,No,Handles crowd well,37,Green Maharashtra,Healthcare,Sangli,9345827656,2,1,1,1,1
+471,Volunteer_371,45,Male,Amravati,Weekends,Fundraising,Music Therapy,"marathi, english",5,Red Cross,9374574801,B+,Yes,Experienced nurse,19,Solapur Care Home,Child Care,Solapur,9539902314,3,1,1,6,3
+472,Volunteer_372,33,Male,Nagpur,Evenings,Medical Assistance,Cooking,"marathi, english",1,Helpage India,9281550029,O-,No,Good with kids,28,Helping Hands,Animal Welfare,Solapur,9406089570,9,0,1,4,4
+473,Volunteer_373,43,Female,Sangli,Flexible,IT Support,Driving,"english, marathi",3,Red Cross,9653953489,A+,Yes,Skilled counselor,46,Solapur Care Home,Orphanage,Mumbai,9033750393,19,1,0,1,1
+474,Volunteer_374,33,Female,Amravati,Evenings,Counseling,Driving,"english, marathi",0,Cry Foundation,9167268059,AB+,Yes,Great fundraiser,41,Green Maharashtra,Healthcare,Amravati,9175509259,19,1,1,1,3
+475,Volunteer_375,42,Male,Mumbai,Evenings,IT Support,Music Therapy,"hindi, english",3,None,9220006679,B+,No,Handles crowd well,30,Solapur Care Home,Environment,Pune,9129912148,17,1,1,5,2
+476,Volunteer_376,37,Male,Nashik,Weekends,Fundraising,Music Therapy,"marathi, english",1,Cry Foundation,9780762759,AB+,Yes,Experienced nurse,7,Green Maharashtra,Animal Welfare,Amravati,9070854914,18,1,1,5,3
+477,Volunteer_377,45,Female,Aurangabad,Evenings,Teaching,First Aid,"hindi, english",2,None,9595937397,AB+,No,Good with kids,26,Helping Hands,Orphanage,Solapur,9876541262,11,1,1,7,1
+478,Volunteer_378,34,Male,Sangli,Weekdays,Counseling,Cooking,"marathi, english",0,None,9529648876,O-,Yes,Great fundraiser,40,Helping Hands,Orphanage,Amravati,9053837908,12,1,0,4,2
+479,Volunteer_379,19,Female,Nagpur,Full-time,Medical Assistance,Music Therapy,"hindi, english",0,Childline,9826841396,B+,No,Experienced nurse,46,Jeevan Jyot,Elderly Care,Amravati,9043447817,3,0,1,9,1
+480,Volunteer_380,18,Female,Amravati,Weekdays,Fundraising,Social Media,"hindi, english",2,Cry Foundation,9648412615,AB+,Yes,Skilled counselor,46,Solapur Care Home,Child Care,Kolhapur,9029263648,18,0,0,4,4
+481,Volunteer_381,33,Female,Nagpur,Flexible,Counseling,Driving,"hindi, marathi, english",3,Cry Foundation,9432545242,B+,No,Skilled counselor,11,Anathalaya,Orphanage,Mumbai,9824225581,6,0,0,7,2
+482,Volunteer_382,47,Female,Aurangabad,Full-time,Fundraising,Photography,"hindi, english",4,Childline,9780220515,O+,No,Great fundraiser,14,Jeevan Jyot,Child Care,Kolhapur,9842939962,7,1,0,5,3
+483,Volunteer_383,29,Male,Solapur,Evenings,Fundraising,Driving,"english, marathi",3,Helpage India,9098097412,O+,No,Skilled counselor,21,Helping Hands,Healthcare,Pune,9129229107,1,0,0,5,1
+484,Volunteer_384,22,Female,Kolhapur,Flexible,Medical Assistance,Sports Coaching,"hindi, english",1,Cry Foundation,9450266080,O+,No,Handles crowd well,8,Seva Ashram,Environment,Pune,9836612357,6,1,1,6,5
+485,Volunteer_385,22,Male,Aurangabad,Full-time,Logistics,Driving,"marathi, english",5,Red Cross,9228365616,AB+,Yes,Great fundraiser,3,Green Maharashtra,Animal Welfare,Solapur,9349284225,18,0,0,8,3
+486,Volunteer_386,49,Female,Satara,Evenings,Event Management,First Aid,"hindi, english",4,Childline,9077063521,O+,Yes,Skilled counselor,28,Jeevan Jyot,Animal Welfare,Aurangabad,9341949212,13,1,0,5,3
+487,Volunteer_387,44,Male,Aurangabad,Weekdays,Counseling,Cooking,"marathi, hindi",3,Cry Foundation,9658903325,O-,No,Good with kids,29,Hope Foundation,Environment,Sangli,9494117494,19,1,1,3,2
+488,Volunteer_388,40,Female,Nagpur,Full-time,Medical Assistance,Music Therapy,"marathi, english",5,Helpage India,9086735175,O-,Yes,Skilled counselor,23,Anathalaya,Orphanage,Satara,9406082215,7,1,0,6,3
+489,Volunteer_389,26,Male,Mumbai,Evenings,Fundraising,Cooking,"marathi, hindi",5,Cry Foundation,9500583526,AB+,No,Handles crowd well,18,Green Maharashtra,Orphanage,Mumbai,9430404448,19,1,0,2,1
+490,Volunteer_390,26,Male,Nashik,Weekdays,Medical Assistance,Music Therapy,"marathi, english",2,None,9282359870,B+,No,Experienced nurse,35,Jeevan Jyot,Healthcare,Aurangabad,9383868604,9,0,0,8,5
+491,Volunteer_391,20,Female,Mumbai,Flexible,Logistics,Driving,"english, marathi",1,Red Cross,9529797806,A+,Yes,Experienced nurse,13,Helping Hands,Elderly Care,Mumbai,9746085827,3,1,0,8,4
+492,Volunteer_392,36,Female,Nagpur,Flexible,Event Management,Photography,"english, marathi",1,Childline,9065758489,B+,Yes,Skilled counselor,12,Helping Hands,Elderly Care,Sangli,9791256314,12,0,0,3,5
+493,Volunteer_393,33,Female,Nashik,Flexible,IT Support,Photography,"english, marathi",1,None,9650302904,B+,No,Experienced nurse,47,Anathalaya,Elderly Care,Sangli,9033327427,18,1,0,8,1
+494,Volunteer_394,33,Female,Satara,Flexible,Counseling,First Aid,"marathi, hindi",4,Helpage India,9131308836,B+,Yes,Skilled counselor,5,Hope Foundation,Child Care,Nagpur,9515087260,8,1,1,9,2
+495,Volunteer_395,20,Male,Kolhapur,Weekends,Event Management,Sports Coaching,"hindi, marathi, english",0,None,9208106209,B+,No,Handles crowd well,39,Jeevan Jyot,Elderly Care,Kolhapur,9967625956,9,0,0,5,1
+496,Volunteer_396,37,Female,Sangli,Full-time,Teaching,Driving,"marathi, english",4,None,9479349766,A+,Yes,Experienced nurse,11,Jeevan Jyot,Environment,Solapur,9854611645,13,0,0,5,3
+497,Volunteer_397,41,Male,Nagpur,Full-time,Counseling,Music Therapy,"english, marathi",3,Helpage India,9890038910,O+,Yes,Good with kids,11,Solapur Care Home,Animal Welfare,Nagpur,9828077883,8,1,1,6,2
+498,Volunteer_398,39,Male,Amravati,Weekends,Event Management,Driving,"marathi, english",5,None,9671812519,B+,Yes,Skilled counselor,47,Seva Ashram,Animal Welfare,Pune,9343465595,10,1,1,7,4
+499,Volunteer_399,41,Female,Nagpur,Evenings,Fundraising,First Aid,"marathi, hindi",5,Childline,9817683547,O-,Yes,Experienced nurse,42,Helping Hands,Child Care,Satara,9547073619,17,1,1,3,4
+500,Volunteer_400,18,Male,Nagpur,Evenings,Counseling,Social Media,"hindi, marathi, english",0,Cry Foundation,9254990246,AB+,Yes,Handles crowd well,47,Jeevan Jyot,Healthcare,Solapur,9249830696,7,1,1,5,1
+501,Volunteer_401,41,Male,Nashik,Flexible,Counseling,Social Media,"marathi, hindi",3,None,9501316797,AB+,No,Handles crowd well,31,Jeevan Jyot,Environment,Pune,9985350870,17,1,0,1,3
+502,Volunteer_402,37,Male,Pune,Weekdays,Medical Assistance,First Aid,"marathi, english",0,Childline,9555267942,O-,Yes,Good with kids,31,Green Maharashtra,Animal Welfare,Amravati,9560968940,18,0,1,5,4
+503,Volunteer_403,28,Male,Aurangabad,Evenings,Fundraising,Music Therapy,"hindi, marathi, english",5,Cry Foundation,9454429147,B+,Yes,Handles crowd well,13,Green Maharashtra,Environment,Kolhapur,9920853457,2,1,0,4,5
+504,Volunteer_404,34,Female,Pune,Weekdays,Teaching,Cooking,"hindi, marathi, english",4,Cry Foundation,9202829310,A+,No,Handles crowd well,14,Jeevan Jyot,Animal Welfare,Kolhapur,9914630256,3,0,0,1,2
+505,Volunteer_405,25,Female,Satara,Full-time,IT Support,First Aid,"marathi, hindi",1,None,9550643149,O+,No,Experienced nurse,49,Hope Foundation,Education,Kolhapur,9289902808,19,1,1,7,5
+506,Volunteer_406,21,Female,Amravati,Weekdays,Logistics,Music Therapy,"english, marathi",5,Childline,9757803060,AB+,No,Skilled counselor,45,Seva Ashram,Healthcare,Nagpur,9579116864,1,1,1,1,4
+507,Volunteer_407,23,Female,Kolhapur,Full-time,Event Management,Photography,"marathi, english",2,None,9521288433,O+,Yes,Great fundraiser,42,Jeevan Jyot,Healthcare,Nashik,9033432821,10,0,1,8,4
+508,Volunteer_408,25,Male,Solapur,Weekends,Medical Assistance,First Aid,"hindi, english",1,Helpage India,9884347365,A+,Yes,Handles crowd well,25,Anathalaya,Education,Aurangabad,9588009919,14,1,1,2,1
+509,Volunteer_409,37,Male,Satara,Weekends,Event Management,Music Therapy,"hindi, english",5,Cry Foundation,9302388713,AB+,No,Handles crowd well,33,Helping Hands,Child Care,Sangli,9756908350,13,1,0,5,1
+510,Volunteer_410,47,Female,Solapur,Flexible,Teaching,First Aid,"marathi, hindi",4,None,9131778513,O+,No,Great fundraiser,33,Solapur Care Home,Animal Welfare,Satara,9774912993,9,1,1,6,2
+511,Volunteer_411,20,Female,Solapur,Evenings,Teaching,First Aid,"marathi, english",0,Cry Foundation,9450676075,A+,No,Handles crowd well,15,Green Maharashtra,Animal Welfare,Sangli,9353385903,6,0,1,9,1
+512,Volunteer_412,33,Female,Kolhapur,Flexible,Counseling,Cooking,"marathi, english",1,Childline,9602319983,O+,No,Experienced nurse,16,Anathalaya,Animal Welfare,Nashik,9601148819,6,0,1,7,3
+513,Volunteer_413,47,Male,Mumbai,Full-time,Logistics,Cooking,"marathi, hindi",4,Red Cross,9013654424,B+,Yes,Experienced nurse,44,Helping Hands,Elderly Care,Amravati,9647362421,19,1,1,6,2
+514,Volunteer_414,42,Female,Pune,Flexible,Teaching,Music Therapy,"marathi, english",3,None,9337429510,A+,Yes,Great fundraiser,38,Green Maharashtra,Elderly Care,Amravati,9153761828,10,1,1,5,3
+515,Volunteer_415,20,Female,Nagpur,Weekdays,Event Management,Music Therapy,"english, marathi",2,None,9692957851,O+,Yes,Handles crowd well,6,Hope Foundation,Elderly Care,Amravati,9424656447,3,1,0,6,1
+516,Volunteer_416,42,Female,Sangli,Full-time,Fundraising,Sports Coaching,"marathi, hindi",1,Cry Foundation,9017007812,B+,Yes,Handles crowd well,44,Green Maharashtra,Elderly Care,Solapur,9198666970,18,0,1,4,2
+517,Volunteer_417,46,Male,Solapur,Weekends,Fundraising,First Aid,"english, marathi",0,Childline,9232354626,B+,Yes,Skilled counselor,25,Seva Ashram,Elderly Care,Pune,9502971733,19,1,0,1,4
+518,Volunteer_418,35,Male,Amravati,Evenings,Counseling,Social Media,"marathi, english",3,Helpage India,9004993899,A+,No,Handles crowd well,15,Seva Ashram,Education,Pune,9193309682,5,1,0,9,5
+519,Volunteer_419,49,Male,Satara,Full-time,IT Support,First Aid,"marathi, hindi",4,Childline,9749465310,O-,Yes,Experienced nurse,4,Helping Hands,Healthcare,Amravati,9211942788,11,1,1,5,4
+520,Volunteer_420,31,Male,Mumbai,Full-time,Event Management,First Aid,"marathi, english",2,None,9574548334,AB+,No,Good with kids,4,Anathalaya,Child Care,Satara,9961631265,10,1,0,8,3
+521,Volunteer_421,35,Male,Solapur,Weekdays,Event Management,Music Therapy,"marathi, hindi",0,Helpage India,9552776681,A+,No,Good with kids,30,Solapur Care Home,Environment,Nagpur,9900976678,17,1,1,7,4
+522,Volunteer_422,19,Male,Mumbai,Evenings,Teaching,First Aid,"marathi, english",4,Childline,9953823481,B+,No,Good with kids,34,Hope Foundation,Elderly Care,Satara,9832865858,4,1,0,8,4
+523,Volunteer_423,39,Male,Mumbai,Weekends,Logistics,Driving,"english, marathi",4,Red Cross,9400054163,B+,Yes,Good with kids,27,Helping Hands,Education,Satara,9571525328,18,1,1,1,5
+524,Volunteer_424,20,Male,Solapur,Full-time,Event Management,First Aid,"english, marathi",1,Cry Foundation,9683583058,A+,No,Handles crowd well,31,Hope Foundation,Animal Welfare,Pune,9232760151,18,1,0,9,5
+525,Volunteer_425,33,Female,Nashik,Full-time,Medical Assistance,Driving,"marathi, english",1,Childline,9619390191,O-,Yes,Handles crowd well,32,Seva Ashram,Child Care,Kolhapur,9350641303,1,1,0,1,4
+526,Volunteer_426,46,Female,Aurangabad,Weekdays,IT Support,Cooking,"marathi, hindi",0,Childline,9447338875,AB+,No,Skilled counselor,44,Jeevan Jyot,Child Care,Satara,9881998722,14,1,0,3,5
+527,Volunteer_427,26,Male,Amravati,Flexible,Teaching,Social Media,"hindi, english",5,Red Cross,9647356298,O+,Yes,Handles crowd well,39,Jeevan Jyot,Child Care,Satara,9627187052,8,1,1,8,4
+528,Volunteer_428,21,Male,Nagpur,Weekends,Medical Assistance,Music Therapy,"english, marathi",5,None,9727917415,A+,No,Good with kids,9,Solapur Care Home,Education,Sangli,9719297734,2,0,0,1,2
+529,Volunteer_429,18,Female,Nagpur,Evenings,Counseling,First Aid,"english, marathi",4,Cry Foundation,9501744450,AB+,Yes,Great fundraiser,41,Hope Foundation,Environment,Kolhapur,9707037784,19,0,1,1,4
+530,Volunteer_430,21,Male,Amravati,Full-time,Fundraising,Driving,"hindi, english",1,Childline,9604274134,AB+,No,Great fundraiser,8,Helping Hands,Elderly Care,Pune,9034675447,15,0,0,6,1
+531,Volunteer_431,18,Male,Nashik,Full-time,Counseling,Driving,"marathi, english",2,Helpage India,9618359558,B+,No,Experienced nurse,14,Solapur Care Home,Child Care,Nagpur,9076040002,2,0,0,5,5
+532,Volunteer_432,31,Male,Nagpur,Weekends,Fundraising,Cooking,"marathi, hindi",2,Childline,9712237974,O+,No,Experienced nurse,33,Green Maharashtra,Education,Aurangabad,9615171150,4,0,0,6,5
+533,Volunteer_433,38,Female,Mumbai,Flexible,Counseling,Driving,"marathi, english",4,Cry Foundation,9729253564,A+,No,Handles crowd well,23,Green Maharashtra,Animal Welfare,Pune,9480064988,1,1,1,3,3
+534,Volunteer_434,33,Female,Kolhapur,Full-time,Event Management,Photography,"hindi, marathi, english",1,Childline,9925620678,B+,Yes,Great fundraiser,21,Anathalaya,Healthcare,Pune,9327977393,19,1,1,6,3
+535,Volunteer_435,37,Female,Satara,Weekends,Medical Assistance,Sports Coaching,"english, marathi",0,Red Cross,9407374189,B+,Yes,Good with kids,12,Jeevan Jyot,Animal Welfare,Satara,9748521244,10,1,1,2,1
+536,Volunteer_436,41,Female,Pune,Weekdays,Fundraising,Social Media,"hindi, marathi, english",0,Childline,9949495073,O-,Yes,Good with kids,2,Helping Hands,Education,Sangli,9074281801,1,0,0,8,5
+537,Volunteer_437,49,Female,Nagpur,Flexible,Teaching,Cooking,"english, marathi",0,Childline,9189519721,AB+,No,Good with kids,13,Hope Foundation,Education,Nashik,9523479071,15,0,1,6,5
+538,Volunteer_438,25,Male,Amravati,Evenings,Medical Assistance,Cooking,"english, marathi",2,Helpage India,9984453522,A+,No,Handles crowd well,4,Solapur Care Home,Education,Amravati,9118312022,4,1,1,4,3
+539,Volunteer_439,24,Female,Kolhapur,Full-time,Teaching,First Aid,"hindi, marathi, english",1,Red Cross,9001247752,A+,No,Handles crowd well,20,Helping Hands,Child Care,Mumbai,9107249190,7,1,0,4,3
+540,Volunteer_440,20,Male,Solapur,Weekends,Medical Assistance,Photography,"hindi, marathi, english",1,Red Cross,9029750575,A+,No,Skilled counselor,48,Solapur Care Home,Education,Sangli,9096135560,7,1,1,7,4
+541,Volunteer_441,34,Male,Aurangabad,Weekdays,Medical Assistance,First Aid,"marathi, english",2,Childline,9709338226,B+,No,Good with kids,14,Solapur Care Home,Healthcare,Nashik,9642125412,18,1,1,3,5
+542,Volunteer_442,49,Female,Amravati,Evenings,Counseling,First Aid,"hindi, marathi, english",0,Helpage India,9458342609,O-,No,Good with kids,30,Solapur Care Home,Child Care,Satara,9776363251,13,1,0,3,5
+543,Volunteer_443,18,Female,Mumbai,Weekends,Fundraising,Music Therapy,"marathi, english",0,Childline,9726721576,O+,Yes,Handles crowd well,29,Hope Foundation,Animal Welfare,Satara,9636152717,10,1,0,6,4
+544,Volunteer_444,33,Male,Aurangabad,Weekends,Fundraising,Music Therapy,"marathi, english",4,Childline,9716346159,B+,Yes,Handles crowd well,8,Helping Hands,Healthcare,Nagpur,9432475715,8,1,0,9,5
+545,Volunteer_445,29,Male,Satara,Evenings,Logistics,Music Therapy,"marathi, english",5,Cry Foundation,9805423276,O+,Yes,Skilled counselor,12,Seva Ashram,Orphanage,Nashik,9490875071,10,1,1,1,1
+546,Volunteer_446,44,Male,Satara,Weekdays,Medical Assistance,Photography,"english, marathi",3,Cry Foundation,9203669737,O-,Yes,Skilled counselor,41,Seva Ashram,Animal Welfare,Solapur,9746006419,14,1,0,5,3
+547,Volunteer_447,36,Female,Nashik,Weekdays,Event Management,First Aid,"english, marathi",5,Helpage India,9045318936,AB+,Yes,Experienced nurse,38,Hope Foundation,Education,Amravati,9990207515,14,1,0,1,3
+548,Volunteer_448,39,Female,Sangli,Flexible,Event Management,Sports Coaching,"hindi, marathi, english",1,None,9945370995,A+,Yes,Great fundraiser,26,Green Maharashtra,Elderly Care,Mumbai,9245457165,11,1,0,1,3
+549,Volunteer_449,40,Female,Nashik,Full-time,Teaching,Social Media,"english, marathi",1,Cry Foundation,9392672845,O+,Yes,Good with kids,2,Hope Foundation,Elderly Care,Nagpur,9944070571,6,0,0,3,2
+550,Volunteer_450,39,Female,Kolhapur,Evenings,Teaching,Music Therapy,"hindi, marathi, english",1,None,9369950315,B+,Yes,Good with kids,40,Jeevan Jyot,Child Care,Sangli,9666098401,1,1,0,3,1
+551,Volunteer_451,31,Female,Aurangabad,Evenings,Counseling,Music Therapy,"english, marathi",5,Red Cross,9244120344,O+,No,Skilled counselor,14,Solapur Care Home,Elderly Care,Sangli,9261806156,19,1,1,4,1
+552,Volunteer_452,47,Male,Sangli,Evenings,Medical Assistance,Cooking,"marathi, hindi",3,Cry Foundation,9918306194,AB+,No,Skilled counselor,6,Helping Hands,Animal Welfare,Nashik,9512561886,7,1,0,3,4
+553,Volunteer_453,23,Female,Solapur,Weekdays,Teaching,First Aid,"marathi, hindi",4,Cry Foundation,9609340454,A+,No,Experienced nurse,42,Helping Hands,Child Care,Amravati,9612462560,18,1,1,6,2
+554,Volunteer_454,23,Male,Mumbai,Full-time,Teaching,First Aid,"hindi, marathi, english",5,Helpage India,9747227254,O+,No,Great fundraiser,40,Anathalaya,Animal Welfare,Amravati,9243604646,3,1,0,4,5
+555,Volunteer_455,30,Male,Aurangabad,Flexible,IT Support,Photography,"english, marathi",3,None,9159621454,AB+,No,Experienced nurse,31,Anathalaya,Education,Sangli,9348698907,11,1,1,8,1
+556,Volunteer_456,36,Male,Nashik,Weekends,Medical Assistance,Photography,"english, marathi",0,Cry Foundation,9375711055,B+,No,Great fundraiser,17,Seva Ashram,Environment,Solapur,9297455295,5,1,1,1,2
+557,Volunteer_457,39,Female,Pune,Weekends,Counseling,Music Therapy,"marathi, english",0,Cry Foundation,9333921818,O-,No,Good with kids,25,Anathalaya,Environment,Satara,9546055256,19,0,0,8,2
+558,Volunteer_458,25,Female,Sangli,Evenings,Teaching,First Aid,"hindi, english",1,Helpage India,9077657703,B+,Yes,Experienced nurse,32,Anathalaya,Healthcare,Amravati,9611826207,2,1,1,1,1
+559,Volunteer_459,44,Female,Sangli,Full-time,Counseling,Sports Coaching,"hindi, marathi, english",2,Helpage India,9496522313,A+,Yes,Skilled counselor,12,Seva Ashram,Education,Nashik,9370950792,4,0,1,1,4
+560,Volunteer_460,44,Male,Mumbai,Weekdays,Fundraising,Social Media,"hindi, english",1,None,9645661886,B+,No,Experienced nurse,49,Jeevan Jyot,Elderly Care,Sangli,9125920411,10,0,1,7,2
+561,Volunteer_461,19,Male,Nagpur,Full-time,Counseling,First Aid,"hindi, english",2,Red Cross,9595415363,B+,Yes,Experienced nurse,13,Green Maharashtra,Education,Satara,9739096825,2,1,1,1,3
+562,Volunteer_462,38,Male,Satara,Full-time,Event Management,Cooking,"hindi, marathi, english",3,Red Cross,9214219762,B+,Yes,Good with kids,19,Seva Ashram,Orphanage,Kolhapur,9779151454,8,0,1,9,2
+563,Volunteer_463,47,Male,Satara,Weekdays,Event Management,First Aid,"english, marathi",0,Childline,9159866002,B+,Yes,Skilled counselor,44,Green Maharashtra,Environment,Pune,9137953296,1,1,1,8,5
+564,Volunteer_464,18,Male,Pune,Evenings,Counseling,Driving,"hindi, marathi, english",5,Cry Foundation,9513603326,A+,Yes,Skilled counselor,48,Anathalaya,Elderly Care,Satara,9787423348,6,0,1,1,1
+565,Volunteer_465,45,Male,Kolhapur,Full-time,Event Management,Photography,"hindi, english",2,None,9719839515,AB+,Yes,Handles crowd well,25,Helping Hands,Animal Welfare,Amravati,9572945366,11,0,1,2,5
+566,Volunteer_466,32,Female,Kolhapur,Weekends,Fundraising,Cooking,"english, marathi",3,Cry Foundation,9702185684,O+,No,Handles crowd well,31,Anathalaya,Animal Welfare,Pune,9053516620,10,1,1,2,4
+567,Volunteer_467,49,Female,Solapur,Weekdays,Medical Assistance,Social Media,"marathi, hindi",0,None,9743507578,O-,Yes,Handles crowd well,37,Solapur Care Home,Environment,Amravati,9800462646,13,1,1,2,3
+568,Volunteer_468,18,Female,Aurangabad,Flexible,Event Management,Music Therapy,"hindi, marathi, english",5,None,9370618350,O+,No,Good with kids,25,Green Maharashtra,Education,Nashik,9622904841,1,1,1,6,1
+569,Volunteer_469,22,Female,Amravati,Evenings,Event Management,Cooking,"hindi, marathi, english",2,None,9925406112,O+,No,Experienced nurse,16,Green Maharashtra,Elderly Care,Aurangabad,9912125007,2,1,1,4,2
+570,Volunteer_470,45,Male,Nagpur,Weekdays,Counseling,First Aid,"english, marathi",1,Cry Foundation,9570471151,O-,No,Skilled counselor,38,Solapur Care Home,Healthcare,Satara,9423365253,3,1,0,8,3
+571,Volunteer_471,46,Male,Nashik,Flexible,Fundraising,Music Therapy,"marathi, hindi",1,Helpage India,9517465481,A+,Yes,Skilled counselor,43,Solapur Care Home,Animal Welfare,Pune,9462085551,9,1,1,1,2
+572,Volunteer_472,33,Female,Amravati,Flexible,Logistics,First Aid,"marathi, hindi",1,Cry Foundation,9957737298,O-,No,Experienced nurse,49,Jeevan Jyot,Education,Nashik,9651246794,5,1,0,4,4
+573,Volunteer_473,36,Male,Amravati,Full-time,Logistics,Music Therapy,"english, marathi",3,None,9436098845,A+,No,Skilled counselor,23,Hope Foundation,Healthcare,Amravati,9251645945,10,1,1,5,1
+574,Volunteer_474,21,Female,Sangli,Full-time,Logistics,Social Media,"marathi, english",1,Childline,9084546581,O+,No,Experienced nurse,14,Solapur Care Home,Elderly Care,Satara,9343414899,10,1,0,9,4
+575,Volunteer_475,20,Female,Pune,Full-time,Logistics,Photography,"hindi, marathi, english",4,Red Cross,9672646914,A+,No,Good with kids,6,Green Maharashtra,Environment,Nashik,9925488066,12,0,0,5,4
+576,Volunteer_476,49,Female,Satara,Weekdays,Medical Assistance,Social Media,"hindi, marathi, english",0,None,9818517860,AB+,Yes,Good with kids,25,Helping Hands,Orphanage,Amravati,9663207131,18,1,1,3,4
+577,Volunteer_477,34,Male,Solapur,Weekdays,Counseling,Driving,"hindi, english",3,Childline,9965337192,O-,No,Good with kids,23,Green Maharashtra,Child Care,Aurangabad,9312593576,1,1,0,4,4
+578,Volunteer_478,49,Female,Kolhapur,Evenings,Counseling,Sports Coaching,"english, marathi",5,Helpage India,9910702033,AB+,No,Experienced nurse,43,Green Maharashtra,Environment,Aurangabad,9786305870,3,1,1,7,2
+579,Volunteer_479,34,Female,Pune,Full-time,IT Support,Photography,"hindi, english",1,None,9397448650,O+,No,Experienced nurse,12,Jeevan Jyot,Healthcare,Mumbai,9173062459,5,1,1,1,5
+580,Volunteer_480,29,Female,Sangli,Flexible,Fundraising,Social Media,"hindi, english",0,Childline,9657249711,O-,No,Great fundraiser,13,Hope Foundation,Education,Nagpur,9871730892,17,1,0,6,2
+581,Volunteer_481,45,Male,Nashik,Weekends,Logistics,Driving,"marathi, hindi",2,None,9003764993,O+,Yes,Skilled counselor,36,Hope Foundation,Animal Welfare,Nashik,9957668137,8,1,0,8,3
+582,Volunteer_482,47,Male,Solapur,Evenings,Medical Assistance,Sports Coaching,"hindi, marathi, english",1,Cry Foundation,9218413771,AB+,No,Skilled counselor,39,Solapur Care Home,Elderly Care,Nagpur,9784531827,17,1,1,1,4
+583,Volunteer_483,46,Female,Sangli,Weekdays,Fundraising,Driving,"hindi, english",0,Childline,9993947445,O+,No,Great fundraiser,34,Anathalaya,Environment,Mumbai,9674917111,9,0,0,8,3
+584,Volunteer_484,31,Male,Satara,Evenings,Logistics,First Aid,"marathi, hindi",4,Cry Foundation,9487722757,O-,No,Great fundraiser,6,Green Maharashtra,Animal Welfare,Solapur,9471882604,6,0,1,7,2
+585,Volunteer_485,38,Male,Satara,Evenings,Medical Assistance,First Aid,"english, marathi",2,Cry Foundation,9418229866,O-,No,Good with kids,38,Seva Ashram,Animal Welfare,Satara,9971118150,17,1,1,1,4
+586,Volunteer_486,23,Male,Satara,Evenings,Fundraising,Music Therapy,"hindi, english",4,Childline,9390617850,O+,No,Great fundraiser,40,Anathalaya,Orphanage,Amravati,9144122011,8,1,0,9,2
+587,Volunteer_487,20,Male,Pune,Evenings,Counseling,Photography,"hindi, marathi, english",5,Red Cross,9227915687,O-,No,Experienced nurse,8,Anathalaya,Elderly Care,Sangli,9276925029,7,0,0,3,4
+588,Volunteer_488,45,Male,Pune,Weekends,Counseling,First Aid,"hindi, english",0,Childline,9642152427,O-,Yes,Handles crowd well,8,Hope Foundation,Healthcare,Nagpur,9322493452,7,0,1,2,2
+589,Volunteer_489,26,Male,Kolhapur,Full-time,Teaching,Cooking,"english, marathi",4,Red Cross,9593669340,O+,No,Experienced nurse,40,Hope Foundation,Elderly Care,Nagpur,9338860539,15,1,1,7,1
+590,Volunteer_490,22,Male,Kolhapur,Flexible,Event Management,Driving,"hindi, english",5,None,9819822970,AB+,Yes,Great fundraiser,33,Jeevan Jyot,Elderly Care,Nashik,9494625232,7,1,0,3,5
+591,Volunteer_491,41,Male,Nashik,Evenings,Logistics,Photography,"hindi, marathi, english",0,None,9429526237,O-,Yes,Skilled counselor,34,Jeevan Jyot,Education,Satara,9444175118,8,1,0,1,5
+592,Volunteer_492,46,Male,Solapur,Evenings,IT Support,Cooking,"marathi, hindi",0,Childline,9733859073,O-,No,Experienced nurse,44,Hope Foundation,Child Care,Nashik,9720745251,9,1,1,3,4
+593,Volunteer_493,34,Male,Mumbai,Evenings,Fundraising,First Aid,"hindi, marathi, english",4,None,9766104264,O-,Yes,Skilled counselor,15,Helping Hands,Animal Welfare,Aurangabad,9597528795,15,0,1,6,1
+594,Volunteer_494,31,Female,Mumbai,Full-time,IT Support,Music Therapy,"marathi, hindi",0,Helpage India,9706194798,O-,No,Experienced nurse,36,Helping Hands,Healthcare,Nagpur,9056055822,2,1,0,3,3
+595,Volunteer_495,38,Female,Sangli,Weekdays,Teaching,Social Media,"marathi, english",1,Cry Foundation,9281861889,O+,Yes,Skilled counselor,35,Seva Ashram,Education,Satara,9247572205,7,0,1,5,1
+596,Volunteer_496,48,Male,Satara,Weekdays,Event Management,Music Therapy,"hindi, marathi, english",0,Cry Foundation,9870823260,AB+,No,Experienced nurse,46,Hope Foundation,Animal Welfare,Kolhapur,9304947316,15,0,1,9,4
+597,Volunteer_497,20,Female,Solapur,Weekends,Fundraising,Cooking,"hindi, marathi, english",3,Red Cross,9212222176,AB+,Yes,Skilled counselor,22,Solapur Care Home,Child Care,Solapur,9329685322,18,1,1,7,1
+598,Volunteer_498,45,Female,Amravati,Weekdays,Medical Assistance,Sports Coaching,"english, marathi",5,None,9367392457,A+,Yes,Handles crowd well,23,Jeevan Jyot,Education,Amravati,9181266487,18,1,1,2,3
+599,Volunteer_499,18,Male,Pune,Evenings,Logistics,First Aid,"hindi, english",0,Red Cross,9390267617,O-,No,Good with kids,40,Hope Foundation,Child Care,Mumbai,9710968670,10,0,1,1,4
+600,Volunteer_500,37,Male,Aurangabad,Evenings,Event Management,Cooking,"marathi, hindi",3,Cry Foundation,9908869867,O-,Yes,Experienced nurse,45,Helping Hands,Child Care,Solapur,9597798019,18,0,1,7,5
+601,Volunteer_501,48,Male,Nagpur,Evenings,Counseling,Sports Coaching,"marathi, hindi",0,Cry Foundation,9655962294,A+,Yes,Handles crowd well,22,Hope Foundation,Child Care,Mumbai,9655980514,1,1,1,4,1
+602,Volunteer_502,46,Female,Nashik,Weekends,Teaching,Sports Coaching,"english, marathi",0,None,9107725511,AB+,Yes,Good with kids,5,Helping Hands,Education,Nagpur,9754195681,7,1,1,7,5
+603,Volunteer_503,38,Female,Satara,Evenings,Event Management,Driving,"english, marathi",4,Helpage India,9024336228,B+,Yes,Experienced nurse,31,Hope Foundation,Elderly Care,Solapur,9401281331,3,0,1,6,5
+604,Volunteer_504,49,Male,Satara,Weekdays,Logistics,Photography,"hindi, english",1,Helpage India,9523714293,B+,Yes,Handles crowd well,13,Green Maharashtra,Child Care,Solapur,9648122249,14,1,1,7,2
+605,Volunteer_505,40,Male,Satara,Full-time,Event Management,Driving,"hindi, english",5,None,9492059067,AB+,No,Handles crowd well,28,Solapur Care Home,Elderly Care,Amravati,9316043485,12,0,0,4,3
+606,Volunteer_506,18,Male,Pune,Full-time,Logistics,First Aid,"hindi, marathi, english",1,None,9458671968,O-,Yes,Handles crowd well,20,Seva Ashram,Animal Welfare,Sangli,9047719596,14,1,0,3,1
+607,Volunteer_507,49,Female,Pune,Flexible,Counseling,Sports Coaching,"marathi, english",2,Red Cross,9402354798,B+,Yes,Great fundraiser,33,Green Maharashtra,Animal Welfare,Amravati,9829934931,4,1,1,5,5
+608,Volunteer_508,20,Female,Nagpur,Weekdays,Fundraising,Cooking,"hindi, english",4,None,9427219973,O+,No,Skilled counselor,16,Solapur Care Home,Healthcare,Nashik,9998744860,13,1,0,3,5
+609,Volunteer_509,49,Female,Amravati,Evenings,Medical Assistance,Social Media,"english, marathi",4,Helpage India,9837272811,O+,No,Good with kids,29,Helping Hands,Orphanage,Sangli,9957412857,16,1,1,3,3
+610,Volunteer_510,35,Female,Solapur,Full-time,Counseling,Sports Coaching,"hindi, english",1,None,9176968830,A+,No,Skilled counselor,23,Jeevan Jyot,Elderly Care,Solapur,9817401652,16,1,0,4,5
+611,Volunteer_511,42,Male,Satara,Weekdays,Medical Assistance,Cooking,"marathi, hindi",4,Red Cross,9330144871,AB+,Yes,Skilled counselor,24,Jeevan Jyot,Animal Welfare,Sangli,9813784220,5,1,1,8,5
+612,Volunteer_512,27,Male,Mumbai,Full-time,Fundraising,Social Media,"marathi, english",1,Red Cross,9231326444,AB+,Yes,Skilled counselor,34,Anathalaya,Orphanage,Sangli,9187588758,6,0,0,2,5
+613,Volunteer_513,48,Male,Kolhapur,Evenings,Event Management,Driving,"hindi, marathi, english",4,Red Cross,9269102994,B+,Yes,Handles crowd well,7,Solapur Care Home,Child Care,Nashik,9936982200,6,0,1,4,5
+614,Volunteer_514,39,Male,Mumbai,Full-time,Medical Assistance,Driving,"marathi, hindi",0,Red Cross,9038161887,O-,Yes,Skilled counselor,38,Hope Foundation,Orphanage,Satara,9711691441,18,1,1,3,2
+615,Volunteer_515,43,Female,Sangli,Flexible,Teaching,Photography,"marathi, hindi",1,Childline,9052344986,AB+,No,Great fundraiser,37,Seva Ashram,Orphanage,Nagpur,9209909268,6,0,0,7,2
+616,Volunteer_516,20,Female,Mumbai,Flexible,Teaching,Cooking,"marathi, english",1,None,9268196096,B+,No,Experienced nurse,4,Hope Foundation,Child Care,Satara,9158728303,7,1,1,2,4
+617,Volunteer_517,25,Male,Sangli,Full-time,Logistics,Sports Coaching,"hindi, marathi, english",3,Cry Foundation,9917436650,B+,Yes,Handles crowd well,34,Hope Foundation,Elderly Care,Nagpur,9586793642,16,1,0,1,1
+618,Volunteer_518,31,Male,Aurangabad,Weekdays,Counseling,Music Therapy,"english, marathi",4,None,9575298035,AB+,Yes,Good with kids,42,Solapur Care Home,Child Care,Satara,9197674121,9,1,0,1,3
+619,Volunteer_519,41,Female,Kolhapur,Weekdays,Fundraising,Driving,"hindi, marathi, english",4,Childline,9891255072,B+,Yes,Experienced nurse,22,Seva Ashram,Healthcare,Satara,9419339496,13,1,0,6,4
+620,Volunteer_520,35,Male,Mumbai,Weekdays,Logistics,Driving,"hindi, english",1,Red Cross,9835117565,A+,Yes,Experienced nurse,5,Anathalaya,Environment,Mumbai,9201984331,12,1,0,3,2
+621,Volunteer_521,49,Female,Aurangabad,Full-time,Counseling,Photography,"marathi, hindi",0,Childline,9295548455,A+,No,Experienced nurse,42,Green Maharashtra,Education,Sangli,9924022301,19,1,1,7,2
+622,Volunteer_522,32,Male,Nashik,Weekdays,Counseling,Social Media,"hindi, english",0,Helpage India,9608241439,AB+,No,Skilled counselor,23,Hope Foundation,Child Care,Aurangabad,9229094268,1,0,0,8,2
+623,Volunteer_523,39,Male,Solapur,Evenings,Logistics,Photography,"english, marathi",5,Helpage India,9505617092,O-,Yes,Skilled counselor,15,Seva Ashram,Child Care,Nashik,9638230688,8,1,1,5,4
+624,Volunteer_524,40,Male,Aurangabad,Flexible,IT Support,Sports Coaching,"hindi, english",0,None,9440218384,A+,No,Handles crowd well,31,Anathalaya,Orphanage,Satara,9479479185,4,0,0,5,2
+625,Volunteer_525,19,Male,Solapur,Evenings,Counseling,Cooking,"hindi, marathi, english",4,None,9782183293,A+,Yes,Skilled counselor,9,Green Maharashtra,Healthcare,Solapur,9089050701,19,0,1,2,4
+626,Volunteer_526,48,Male,Mumbai,Weekdays,IT Support,First Aid,"hindi, english",3,Cry Foundation,9152320775,AB+,Yes,Skilled counselor,43,Hope Foundation,Animal Welfare,Kolhapur,9895951125,5,1,0,8,2
+627,Volunteer_527,44,Male,Amravati,Evenings,Teaching,First Aid,"english, marathi",1,Cry Foundation,9930250296,O+,No,Skilled counselor,25,Seva Ashram,Animal Welfare,Mumbai,9846079508,17,0,1,1,5
+628,Volunteer_528,27,Male,Aurangabad,Weekdays,Teaching,Cooking,"english, marathi",2,Helpage India,9365689129,B+,Yes,Handles crowd well,25,Green Maharashtra,Orphanage,Kolhapur,9250633088,3,0,1,9,5
+629,Volunteer_529,19,Female,Kolhapur,Full-time,Counseling,Social Media,"english, marathi",3,Red Cross,9868507233,A+,No,Handles crowd well,49,Solapur Care Home,Elderly Care,Pune,9577658218,19,0,1,1,1
+630,Volunteer_530,43,Female,Mumbai,Evenings,Teaching,Driving,"hindi, marathi, english",2,Childline,9227397768,O+,Yes,Great fundraiser,21,Jeevan Jyot,Child Care,Amravati,9317420915,1,1,0,1,2
+631,Volunteer_531,34,Female,Satara,Full-time,Fundraising,Social Media,"english, marathi",3,Cry Foundation,9613259639,O-,No,Great fundraiser,9,Jeevan Jyot,Child Care,Pune,9756918139,1,1,1,1,1
+632,Volunteer_532,25,Female,Pune,Full-time,IT Support,Driving,"marathi, hindi",0,Cry Foundation,9598867362,O+,Yes,Great fundraiser,48,Hope Foundation,Orphanage,Nagpur,9060502670,9,0,0,7,4
+633,Volunteer_533,18,Female,Aurangabad,Weekends,IT Support,Driving,"english, marathi",4,Red Cross,9920979185,AB+,No,Great fundraiser,38,Hope Foundation,Child Care,Satara,9390482979,5,1,0,4,1
+634,Volunteer_534,26,Male,Kolhapur,Weekdays,Counseling,First Aid,"hindi, english",2,Red Cross,9866305222,O-,Yes,Experienced nurse,22,Green Maharashtra,Elderly Care,Nashik,9556974382,7,0,1,7,2
+635,Volunteer_535,28,Male,Nashik,Flexible,Teaching,Social Media,"hindi, english",3,None,9935747022,O-,Yes,Experienced nurse,43,Seva Ashram,Environment,Solapur,9186978741,6,1,1,5,4
+636,Volunteer_536,39,Female,Satara,Weekdays,Medical Assistance,Photography,"hindi, english",4,Childline,9299448756,O+,No,Great fundraiser,23,Jeevan Jyot,Education,Aurangabad,9452119253,17,1,1,7,4
+637,Volunteer_537,33,Male,Nashik,Flexible,Logistics,Driving,"hindi, marathi, english",2,Red Cross,9507227731,AB+,Yes,Great fundraiser,49,Hope Foundation,Education,Aurangabad,9388848671,17,1,1,7,5
+638,Volunteer_538,24,Female,Mumbai,Weekdays,Logistics,Music Therapy,"hindi, english",1,Cry Foundation,9851855089,A+,No,Good with kids,4,Anathalaya,Education,Mumbai,9469274809,13,1,0,4,4
+639,Volunteer_539,46,Female,Pune,Full-time,IT Support,Music Therapy,"hindi, marathi, english",3,Cry Foundation,9563717400,O+,No,Experienced nurse,29,Hope Foundation,Environment,Mumbai,9572812461,12,1,0,2,4
+640,Volunteer_540,27,Male,Aurangabad,Evenings,Counseling,Photography,"hindi, marathi, english",1,Helpage India,9188095810,A+,Yes,Good with kids,15,Jeevan Jyot,Child Care,Mumbai,9854423093,4,0,0,8,1
+641,Volunteer_541,40,Male,Aurangabad,Evenings,Counseling,Music Therapy,"english, marathi",0,Red Cross,9430297851,O+,Yes,Good with kids,1,Helping Hands,Orphanage,Mumbai,9688886432,8,1,1,2,4
+642,Volunteer_542,43,Male,Amravati,Weekends,Fundraising,Sports Coaching,"marathi, hindi",1,None,9738960061,A+,Yes,Skilled counselor,30,Jeevan Jyot,Animal Welfare,Sangli,9384713704,5,0,1,9,3
+643,Volunteer_543,20,Female,Amravati,Flexible,Event Management,Driving,"english, marathi",1,Childline,9357588918,O+,Yes,Handles crowd well,29,Anathalaya,Healthcare,Satara,9011955962,5,1,0,5,5
+644,Volunteer_544,35,Male,Mumbai,Flexible,Event Management,Photography,"english, marathi",5,None,9868256685,O-,No,Experienced nurse,20,Seva Ashram,Child Care,Kolhapur,9366030758,13,0,1,9,5
+645,Volunteer_545,42,Female,Mumbai,Flexible,IT Support,Social Media,"hindi, marathi, english",3,Cry Foundation,9964468887,B+,Yes,Great fundraiser,33,Anathalaya,Environment,Satara,9520550678,11,1,1,9,4
+646,Volunteer_546,41,Female,Pune,Full-time,Logistics,Driving,"hindi, marathi, english",0,None,9522813409,O-,Yes,Great fundraiser,41,Helping Hands,Elderly Care,Satara,9180581034,8,0,1,8,1
+647,Volunteer_547,30,Female,Amravati,Flexible,Fundraising,Photography,"hindi, english",1,Cry Foundation,9264193325,A+,Yes,Handles crowd well,44,Helping Hands,Environment,Pune,9015189686,8,0,1,8,5
+648,Volunteer_548,45,Male,Kolhapur,Evenings,Fundraising,First Aid,"hindi, english",4,Cry Foundation,9076080405,AB+,No,Experienced nurse,36,Hope Foundation,Animal Welfare,Nashik,9421927937,1,1,1,4,5
+649,Volunteer_549,43,Male,Kolhapur,Full-time,Fundraising,Social Media,"english, marathi",2,Cry Foundation,9141405834,O-,Yes,Great fundraiser,22,Hope Foundation,Education,Solapur,9777952449,13,1,1,4,3
+650,Volunteer_550,24,Female,Pune,Weekdays,IT Support,First Aid,"marathi, english",1,Cry Foundation,9872736431,B+,No,Great fundraiser,13,Jeevan Jyot,Child Care,Nagpur,9450198693,5,1,0,2,4
+651,Volunteer_551,42,Male,Kolhapur,Flexible,Event Management,Driving,"marathi, english",0,Cry Foundation,9827446279,A+,Yes,Skilled counselor,7,Solapur Care Home,Animal Welfare,Nashik,9478678774,8,1,0,4,5
+652,Volunteer_552,21,Male,Sangli,Flexible,Logistics,Social Media,"hindi, english",1,Helpage India,9093201190,O-,No,Good with kids,8,Anathalaya,Education,Mumbai,9565107698,17,1,0,4,5
+653,Volunteer_553,30,Male,Solapur,Weekdays,Fundraising,Music Therapy,"marathi, english",2,None,9563448482,O+,Yes,Great fundraiser,28,Jeevan Jyot,Healthcare,Kolhapur,9631067548,13,0,1,6,5
+654,Volunteer_554,37,Female,Pune,Flexible,Logistics,Photography,"hindi, english",0,Helpage India,9119870000,AB+,Yes,Experienced nurse,45,Solapur Care Home,Elderly Care,Pune,9747793517,9,0,1,3,5
+655,Volunteer_555,18,Female,Pune,Weekdays,Teaching,Driving,"hindi, marathi, english",3,Helpage India,9702727469,A+,No,Handles crowd well,43,Jeevan Jyot,Education,Sangli,9548469115,2,0,1,2,1
+656,Volunteer_556,25,Male,Nagpur,Full-time,Counseling,Sports Coaching,"english, marathi",0,Red Cross,9568496165,O-,Yes,Skilled counselor,9,Helping Hands,Healthcare,Kolhapur,9550406978,19,1,0,8,2
+657,Volunteer_557,49,Female,Satara,Evenings,Counseling,Social Media,"marathi, hindi",3,Red Cross,9281764999,A+,Yes,Experienced nurse,25,Hope Foundation,Environment,Pune,9539657190,17,0,1,2,3
+658,Volunteer_558,31,Male,Satara,Weekdays,Logistics,Social Media,"english, marathi",0,Red Cross,9829475637,O+,Yes,Skilled counselor,16,Hope Foundation,Education,Amravati,9231685702,7,0,1,8,1
+659,Volunteer_559,33,Male,Sangli,Weekends,Medical Assistance,Cooking,"hindi, english",2,Childline,9016806308,B+,No,Good with kids,10,Jeevan Jyot,Education,Sangli,9605847203,3,0,1,7,3
+660,Volunteer_560,31,Male,Amravati,Weekdays,Medical Assistance,Driving,"hindi, english",2,Red Cross,9541983962,O-,Yes,Great fundraiser,11,Hope Foundation,Orphanage,Mumbai,9214712604,19,0,1,3,5
+661,Volunteer_561,29,Male,Mumbai,Flexible,IT Support,Driving,"english, marathi",0,None,9058040667,A+,No,Experienced nurse,31,Seva Ashram,Elderly Care,Nagpur,9899039094,19,1,1,6,3
+662,Volunteer_562,36,Female,Mumbai,Full-time,IT Support,First Aid,"hindi, english",1,Helpage India,9503973671,A+,No,Handles crowd well,12,Jeevan Jyot,Elderly Care,Mumbai,9797991332,9,0,0,6,4
+663,Volunteer_563,40,Female,Nashik,Full-time,Counseling,Cooking,"marathi, english",2,None,9484754977,A+,No,Good with kids,31,Helping Hands,Animal Welfare,Kolhapur,9449103984,10,1,0,5,4
+664,Volunteer_564,32,Female,Sangli,Weekdays,Teaching,Music Therapy,"marathi, english",3,Red Cross,9111439711,B+,Yes,Good with kids,14,Green Maharashtra,Environment,Mumbai,9658115577,14,1,0,8,2
+665,Volunteer_565,45,Male,Pune,Evenings,Event Management,First Aid,"hindi, english",3,Childline,9434183246,A+,No,Skilled counselor,44,Jeevan Jyot,Orphanage,Amravati,9798238947,18,1,1,5,2
+666,Volunteer_566,19,Male,Sangli,Weekends,Event Management,Cooking,"hindi, english",4,Childline,9252541675,AB+,No,Good with kids,32,Jeevan Jyot,Animal Welfare,Mumbai,9896452054,15,0,0,7,3
+667,Volunteer_567,19,Male,Sangli,Full-time,IT Support,First Aid,"marathi, english",5,Helpage India,9423511934,AB+,Yes,Experienced nurse,17,Hope Foundation,Healthcare,Pune,9076787500,1,1,1,6,1
+668,Volunteer_568,49,Female,Sangli,Flexible,Teaching,Music Therapy,"hindi, english",5,None,9480041232,A+,No,Skilled counselor,35,Helping Hands,Animal Welfare,Aurangabad,9031085071,6,0,1,7,1
+669,Volunteer_569,40,Male,Satara,Flexible,IT Support,Cooking,"hindi, english",5,Cry Foundation,9595463328,AB+,No,Good with kids,1,Jeevan Jyot,Healthcare,Mumbai,9928713199,15,1,0,9,5
+670,Volunteer_570,48,Female,Sangli,Evenings,Event Management,Cooking,"english, marathi",3,None,9104173230,O-,Yes,Handles crowd well,29,Hope Foundation,Environment,Amravati,9232026142,6,0,1,3,1
+671,Volunteer_571,39,Female,Solapur,Full-time,Logistics,Sports Coaching,"marathi, hindi",4,Red Cross,9733268275,AB+,Yes,Experienced nurse,4,Anathalaya,Elderly Care,Satara,9298414241,18,1,0,7,2
+672,Volunteer_572,36,Female,Mumbai,Weekdays,IT Support,First Aid,"marathi, english",5,Cry Foundation,9981067125,A+,No,Handles crowd well,23,Helping Hands,Healthcare,Satara,9912860977,1,1,0,3,1
+673,Volunteer_573,42,Female,Nashik,Flexible,Fundraising,First Aid,"english, marathi",5,Childline,9083491791,O+,Yes,Handles crowd well,28,Solapur Care Home,Environment,Nagpur,9302305984,3,1,1,2,5
+674,Volunteer_574,43,Female,Solapur,Evenings,Logistics,Social Media,"marathi, hindi",0,Helpage India,9285420252,O-,Yes,Skilled counselor,16,Seva Ashram,Animal Welfare,Nagpur,9506389201,17,1,0,7,4
+675,Volunteer_575,48,Female,Nashik,Full-time,IT Support,Music Therapy,"hindi, english",0,Helpage India,9118209544,B+,Yes,Great fundraiser,12,Solapur Care Home,Healthcare,Nagpur,9027821433,16,1,1,4,1
+676,Volunteer_576,47,Male,Nagpur,Full-time,Counseling,Photography,"hindi, english",0,Childline,9395937568,A+,No,Skilled counselor,21,Green Maharashtra,Child Care,Nashik,9372261309,8,1,1,1,1
+677,Volunteer_577,46,Male,Nashik,Full-time,IT Support,Sports Coaching,"english, marathi",1,Red Cross,9787753403,B+,No,Experienced nurse,45,Helping Hands,Education,Solapur,9474933991,17,0,1,6,2
+678,Volunteer_578,39,Female,Mumbai,Full-time,Counseling,Cooking,"hindi, english",5,Childline,9835214448,O+,Yes,Experienced nurse,17,Jeevan Jyot,Animal Welfare,Nagpur,9010490282,8,1,1,6,3
+679,Volunteer_579,43,Female,Mumbai,Full-time,Teaching,Cooking,"hindi, marathi, english",1,Red Cross,9960073692,B+,No,Skilled counselor,40,Hope Foundation,Elderly Care,Mumbai,9379408055,17,1,0,6,4
+680,Volunteer_580,43,Male,Sangli,Flexible,Event Management,Cooking,"english, marathi",4,Cry Foundation,9266065100,A+,Yes,Great fundraiser,13,Green Maharashtra,Animal Welfare,Nagpur,9328632823,9,1,1,2,3
+681,Volunteer_581,39,Female,Aurangabad,Evenings,Logistics,Sports Coaching,"marathi, hindi",3,Childline,9331514260,A+,Yes,Skilled counselor,32,Helping Hands,Child Care,Solapur,9238409230,12,0,0,1,5
+682,Volunteer_582,34,Female,Nagpur,Full-time,Logistics,Cooking,"english, marathi",5,Red Cross,9277300921,O+,Yes,Experienced nurse,37,Seva Ashram,Environment,Nashik,9918448047,19,1,0,3,5
+683,Volunteer_583,37,Male,Pune,Weekends,Medical Assistance,Cooking,"marathi, english",3,Cry Foundation,9634452820,A+,Yes,Great fundraiser,15,Helping Hands,Environment,Solapur,9815910704,4,0,0,2,3
+684,Volunteer_584,27,Female,Kolhapur,Weekends,Medical Assistance,Music Therapy,"english, marathi",0,Childline,9362370244,O+,Yes,Experienced nurse,12,Green Maharashtra,Animal Welfare,Kolhapur,9859280080,11,0,0,6,2
+685,Volunteer_585,23,Female,Nashik,Evenings,Event Management,Driving,"hindi, english",5,Helpage India,9125840137,O+,No,Great fundraiser,49,Hope Foundation,Child Care,Nagpur,9950913707,4,0,1,6,2
+686,Volunteer_586,32,Female,Aurangabad,Weekdays,Medical Assistance,Driving,"hindi, english",2,Childline,9794595077,A+,No,Great fundraiser,15,Solapur Care Home,Animal Welfare,Nagpur,9409106185,14,0,0,5,2
+687,Volunteer_587,39,Male,Sangli,Weekdays,Logistics,Social Media,"hindi, marathi, english",1,None,9507248375,AB+,No,Skilled counselor,34,Anathalaya,Education,Nagpur,9359407123,14,1,1,5,4
+688,Volunteer_588,28,Male,Satara,Weekdays,IT Support,Social Media,"hindi, marathi, english",1,Childline,9892293234,O+,No,Skilled counselor,6,Solapur Care Home,Education,Kolhapur,9512821829,6,1,1,9,5
+689,Volunteer_589,45,Male,Pune,Weekends,Teaching,Cooking,"hindi, marathi, english",5,None,9040840312,A+,Yes,Skilled counselor,17,Hope Foundation,Orphanage,Solapur,9649502215,17,0,1,5,5
+690,Volunteer_590,22,Female,Amravati,Weekdays,Teaching,Music Therapy,"marathi, hindi",0,Cry Foundation,9472413836,AB+,Yes,Great fundraiser,48,Green Maharashtra,Healthcare,Pune,9142157740,2,1,1,6,5
+691,Volunteer_591,18,Female,Aurangabad,Flexible,Event Management,Cooking,"hindi, marathi, english",1,Childline,9196493376,O+,No,Great fundraiser,49,Hope Foundation,Orphanage,Mumbai,9541606945,8,1,0,4,4
+692,Volunteer_592,25,Male,Satara,Full-time,Medical Assistance,Social Media,"marathi, hindi",0,Cry Foundation,9329524499,AB+,No,Experienced nurse,20,Seva Ashram,Education,Amravati,9429946876,4,1,1,1,5
+693,Volunteer_593,38,Female,Nagpur,Weekends,IT Support,Sports Coaching,"hindi, marathi, english",4,Cry Foundation,9469971768,O-,Yes,Handles crowd well,9,Helping Hands,Child Care,Mumbai,9614003423,10,1,1,4,3
+694,Volunteer_594,45,Female,Sangli,Evenings,Teaching,Sports Coaching,"marathi, hindi",3,Red Cross,9757192942,O-,Yes,Skilled counselor,5,Helping Hands,Healthcare,Nagpur,9963648178,7,1,0,2,1
+695,Volunteer_595,29,Female,Pune,Evenings,Teaching,Photography,"english, marathi",2,Cry Foundation,9349927725,AB+,Yes,Experienced nurse,23,Solapur Care Home,Child Care,Nashik,9435675893,4,0,1,3,4
+696,Volunteer_596,29,Female,Pune,Full-time,Fundraising,Driving,"english, marathi",3,Cry Foundation,9826074503,O+,No,Experienced nurse,33,Green Maharashtra,Orphanage,Kolhapur,9441712105,16,1,1,7,1
+697,Volunteer_597,22,Female,Pune,Weekends,Fundraising,Music Therapy,"hindi, english",3,Childline,9830385673,A+,Yes,Good with kids,38,Anathalaya,Environment,Pune,9671106819,14,1,0,7,3
+698,Volunteer_598,24,Male,Nagpur,Weekdays,Logistics,First Aid,"marathi, hindi",4,Childline,9724435912,B+,Yes,Skilled counselor,14,Anathalaya,Child Care,Sangli,9624191083,16,1,0,1,2
+699,Volunteer_599,21,Female,Nashik,Weekdays,Teaching,Driving,"marathi, english",1,Helpage India,9862191984,A+,No,Experienced nurse,17,Seva Ashram,Orphanage,Pune,9027366129,9,1,0,8,2
+700,Volunteer_600,23,Male,Amravati,Flexible,Event Management,First Aid,"hindi, english",2,Red Cross,9280961256,B+,No,Good with kids,19,Hope Foundation,Orphanage,Amravati,9200949158,4,1,1,7,2
+701,Volunteer_601,30,Female,Nagpur,Flexible,Counseling,Photography,"english, marathi",1,Cry Foundation,9681609410,B+,No,Skilled counselor,33,Seva Ashram,Orphanage,Mumbai,9404176339,6,1,1,1,4
+702,Volunteer_602,49,Male,Kolhapur,Weekdays,Counseling,Photography,"marathi, hindi",5,Red Cross,9784257930,O+,Yes,Great fundraiser,1,Helping Hands,Environment,Nagpur,9893986007,1,0,1,8,2
+703,Volunteer_603,37,Female,Amravati,Evenings,IT Support,Cooking,"hindi, marathi, english",3,None,9930647051,AB+,Yes,Good with kids,13,Jeevan Jyot,Environment,Aurangabad,9382570550,7,0,1,2,4
+704,Volunteer_604,47,Male,Mumbai,Evenings,Teaching,Social Media,"marathi, english",5,Cry Foundation,9521789321,A+,No,Great fundraiser,46,Jeevan Jyot,Animal Welfare,Sangli,9355445785,1,1,1,8,4
+705,Volunteer_605,32,Female,Sangli,Flexible,Teaching,Photography,"english, marathi",0,Red Cross,9226386840,AB+,Yes,Handles crowd well,27,Jeevan Jyot,Environment,Nagpur,9867706136,19,1,1,3,1
+706,Volunteer_606,20,Male,Nagpur,Full-time,Logistics,Photography,"hindi, english",3,Helpage India,9161345712,O-,Yes,Handles crowd well,6,Hope Foundation,Healthcare,Kolhapur,9521886499,8,1,1,7,2
+707,Volunteer_607,40,Female,Satara,Weekdays,Teaching,First Aid,"marathi, hindi",1,Helpage India,9983202008,O+,Yes,Handles crowd well,6,Seva Ashram,Environment,Sangli,9437950790,3,1,1,6,5
+708,Volunteer_608,25,Male,Amravati,Flexible,Event Management,Social Media,"marathi, english",3,Cry Foundation,9932787210,O+,No,Handles crowd well,33,Green Maharashtra,Environment,Amravati,9257995721,1,1,1,5,2
+709,Volunteer_609,37,Female,Kolhapur,Flexible,Fundraising,Photography,"marathi, hindi",0,None,9585696701,O-,No,Experienced nurse,30,Solapur Care Home,Environment,Aurangabad,9313784505,1,1,1,2,2
+710,Volunteer_610,33,Male,Mumbai,Weekdays,Teaching,Driving,"hindi, marathi, english",4,Helpage India,9163615349,A+,Yes,Handles crowd well,46,Helping Hands,Child Care,Solapur,9993323502,7,1,1,2,2
+711,Volunteer_611,30,Male,Nashik,Weekdays,Teaching,Photography,"hindi, english",5,Helpage India,9074125475,O-,Yes,Experienced nurse,35,Jeevan Jyot,Environment,Solapur,9911629323,13,0,1,1,5
+712,Volunteer_612,35,Female,Satara,Evenings,Logistics,Social Media,"marathi, hindi",5,None,9037391910,A+,Yes,Experienced nurse,23,Green Maharashtra,Healthcare,Solapur,9861671040,1,1,0,9,5
+713,Volunteer_613,45,Female,Amravati,Full-time,Medical Assistance,Cooking,"english, marathi",1,Red Cross,9736634932,B+,Yes,Skilled counselor,10,Anathalaya,Orphanage,Nashik,9221605747,16,1,0,8,4
+714,Volunteer_614,27,Male,Sangli,Full-time,Logistics,Music Therapy,"hindi, english",3,Helpage India,9405434061,O+,No,Experienced nurse,19,Seva Ashram,Child Care,Solapur,9746893745,14,0,1,8,5
+715,Volunteer_615,47,Female,Satara,Weekdays,Logistics,Social Media,"english, marathi",1,Childline,9539902775,A+,No,Experienced nurse,28,Helping Hands,Education,Satara,9484474776,4,0,0,1,4
+716,Volunteer_616,36,Male,Mumbai,Weekends,Event Management,First Aid,"marathi, hindi",4,Helpage India,9722570599,AB+,Yes,Handles crowd well,23,Helping Hands,Environment,Sangli,9039563471,12,1,1,5,1
+717,Volunteer_617,34,Male,Satara,Flexible,IT Support,Music Therapy,"hindi, english",3,Red Cross,9706238848,AB+,Yes,Experienced nurse,4,Anathalaya,Animal Welfare,Aurangabad,9184692868,12,0,0,6,4
+718,Volunteer_618,41,Male,Solapur,Flexible,Teaching,Driving,"english, marathi",3,Red Cross,9815763511,O+,No,Great fundraiser,20,Anathalaya,Animal Welfare,Kolhapur,9837735762,17,1,0,2,2
+719,Volunteer_619,48,Female,Aurangabad,Weekdays,Logistics,Sports Coaching,"hindi, marathi, english",1,Cry Foundation,9053448821,O-,Yes,Handles crowd well,19,Anathalaya,Orphanage,Satara,9522982595,15,1,0,5,3
+720,Volunteer_620,36,Male,Nashik,Weekends,Logistics,Social Media,"hindi, marathi, english",1,Childline,9905001859,O-,No,Good with kids,42,Jeevan Jyot,Orphanage,Satara,9207033605,10,1,0,6,3
+721,Volunteer_621,45,Male,Mumbai,Evenings,Medical Assistance,Cooking,"marathi, hindi",0,Red Cross,9645586172,A+,Yes,Handles crowd well,27,Jeevan Jyot,Child Care,Aurangabad,9494740761,3,1,0,9,2
+722,Volunteer_622,43,Female,Satara,Weekdays,Logistics,First Aid,"hindi, english",4,None,9155820829,O-,No,Experienced nurse,34,Seva Ashram,Animal Welfare,Kolhapur,9872640880,12,1,1,1,4
+723,Volunteer_623,40,Female,Aurangabad,Weekdays,Counseling,Driving,"marathi, english",0,Childline,9707887883,O+,Yes,Great fundraiser,4,Anathalaya,Education,Sangli,9284806246,1,1,1,3,2
+724,Volunteer_624,43,Female,Aurangabad,Flexible,IT Support,Music Therapy,"hindi, english",5,Childline,9451914530,A+,Yes,Handles crowd well,38,Solapur Care Home,Elderly Care,Mumbai,9774340215,1,1,1,9,5
+725,Volunteer_625,22,Female,Satara,Weekdays,Teaching,Driving,"hindi, marathi, english",3,None,9623790924,B+,No,Great fundraiser,7,Helping Hands,Animal Welfare,Nagpur,9910767286,10,1,1,1,4
+726,Volunteer_626,43,Male,Sangli,Weekdays,Teaching,Social Media,"english, marathi",1,Helpage India,9738819251,O-,No,Good with kids,48,Anathalaya,Animal Welfare,Mumbai,9962656678,18,1,1,1,2
+727,Volunteer_627,38,Male,Solapur,Weekdays,Medical Assistance,Photography,"marathi, english",3,None,9648418718,O-,Yes,Good with kids,7,Helping Hands,Healthcare,Amravati,9395017224,15,1,1,1,5
+728,Volunteer_628,47,Male,Nagpur,Flexible,Event Management,Cooking,"marathi, hindi",3,None,9581658469,A+,Yes,Skilled counselor,26,Hope Foundation,Elderly Care,Aurangabad,9267316780,2,0,1,7,5
+729,Volunteer_629,40,Male,Solapur,Evenings,Teaching,Social Media,"marathi, english",2,Helpage India,9320048362,AB+,No,Skilled counselor,26,Green Maharashtra,Orphanage,Mumbai,9918411507,17,1,1,5,4
+730,Volunteer_630,48,Female,Satara,Evenings,Counseling,Sports Coaching,"marathi, hindi",5,Helpage India,9239504214,O-,No,Handles crowd well,19,Hope Foundation,Elderly Care,Mumbai,9769352461,8,1,0,6,1
+731,Volunteer_631,26,Male,Nashik,Weekdays,Teaching,Social Media,"marathi, english",2,Helpage India,9720302787,O+,Yes,Skilled counselor,9,Anathalaya,Animal Welfare,Mumbai,9047503983,9,0,0,8,1
+732,Volunteer_632,29,Male,Nagpur,Flexible,Counseling,Music Therapy,"marathi, hindi",3,Helpage India,9323190579,O-,Yes,Great fundraiser,20,Helping Hands,Orphanage,Solapur,9459227702,11,0,0,2,5
+733,Volunteer_633,38,Female,Mumbai,Evenings,IT Support,Music Therapy,"marathi, hindi",1,Helpage India,9313898063,B+,No,Skilled counselor,42,Green Maharashtra,Elderly Care,Pune,9105594248,6,0,0,2,1
+734,Volunteer_634,18,Male,Solapur,Evenings,IT Support,Social Media,"marathi, english",3,None,9507678342,O-,No,Great fundraiser,45,Hope Foundation,Orphanage,Mumbai,9278368782,14,1,1,3,5
+735,Volunteer_635,43,Male,Satara,Evenings,Fundraising,Music Therapy,"marathi, english",5,Cry Foundation,9101646357,AB+,No,Skilled counselor,16,Anathalaya,Orphanage,Nagpur,9956698660,1,1,0,3,1
+736,Volunteer_636,43,Male,Solapur,Flexible,Fundraising,Photography,"marathi, hindi",2,Cry Foundation,9704939484,O-,No,Skilled counselor,17,Helping Hands,Child Care,Aurangabad,9476442801,7,0,1,3,5
+737,Volunteer_637,18,Male,Nagpur,Flexible,Counseling,Driving,"hindi, marathi, english",1,Red Cross,9987865930,A+,No,Skilled counselor,22,Anathalaya,Education,Amravati,9376480382,9,1,1,4,5
+738,Volunteer_638,32,Male,Kolhapur,Weekdays,Event Management,Social Media,"marathi, english",3,Cry Foundation,9849821111,O-,Yes,Experienced nurse,13,Jeevan Jyot,Orphanage,Pune,9307719796,11,1,1,3,5
+739,Volunteer_639,19,Male,Amravati,Full-time,Teaching,Cooking,"hindi, english",4,Cry Foundation,9413427424,AB+,Yes,Experienced nurse,12,Helping Hands,Healthcare,Nashik,9525226055,16,0,1,2,5
+740,Volunteer_640,49,Female,Solapur,Evenings,Logistics,Photography,"english, marathi",5,None,9078384697,A+,No,Skilled counselor,10,Hope Foundation,Animal Welfare,Nagpur,9287271263,19,1,0,9,3
+741,Volunteer_641,47,Female,Mumbai,Full-time,Teaching,Driving,"marathi, hindi",5,Helpage India,9900813916,O+,Yes,Great fundraiser,1,Anathalaya,Animal Welfare,Nagpur,9423430766,2,1,1,6,1
+742,Volunteer_642,39,Male,Mumbai,Flexible,Fundraising,Cooking,"marathi, hindi",4,Helpage India,9031601658,A+,Yes,Handles crowd well,32,Hope Foundation,Healthcare,Solapur,9367338644,15,1,0,3,5
+743,Volunteer_643,33,Male,Pune,Flexible,Logistics,Cooking,"english, marathi",3,None,9753054822,B+,No,Good with kids,30,Anathalaya,Environment,Solapur,9704669368,3,0,1,9,2
+744,Volunteer_644,42,Female,Solapur,Flexible,Counseling,Cooking,"hindi, marathi, english",5,Cry Foundation,9078193035,A+,Yes,Experienced nurse,8,Seva Ashram,Orphanage,Aurangabad,9375349352,4,0,1,4,4
+745,Volunteer_645,25,Male,Amravati,Full-time,Logistics,Driving,"english, marathi",1,None,9043441158,O+,Yes,Skilled counselor,21,Hope Foundation,Orphanage,Nagpur,9015877778,7,0,1,4,2
+746,Volunteer_646,30,Male,Sangli,Flexible,Teaching,Photography,"marathi, english",3,Red Cross,9161184383,O-,Yes,Good with kids,22,Hope Foundation,Orphanage,Kolhapur,9527593692,12,1,1,8,2
+747,Volunteer_647,38,Male,Aurangabad,Weekdays,Teaching,Cooking,"english, marathi",3,Helpage India,9639128570,A+,No,Experienced nurse,18,Solapur Care Home,Elderly Care,Kolhapur,9514402105,4,1,1,7,3
+748,Volunteer_648,18,Female,Amravati,Flexible,Event Management,Cooking,"marathi, hindi",2,Childline,9297341494,A+,No,Handles crowd well,2,Green Maharashtra,Orphanage,Aurangabad,9363537246,10,1,0,7,1
+749,Volunteer_649,33,Male,Aurangabad,Weekends,Medical Assistance,First Aid,"english, marathi",5,Red Cross,9111120614,A+,Yes,Great fundraiser,48,Jeevan Jyot,Orphanage,Mumbai,9781790581,6,1,0,7,3
+750,Volunteer_650,46,Female,Aurangabad,Full-time,Logistics,Social Media,"hindi, english",5,Red Cross,9733455209,A+,Yes,Skilled counselor,44,Hope Foundation,Healthcare,Satara,9199698949,14,0,1,5,1
+751,Volunteer_651,24,Male,Kolhapur,Weekends,Fundraising,Driving,"marathi, english",4,None,9845179453,O+,Yes,Handles crowd well,9,Helping Hands,Education,Nashik,9250674435,3,1,1,7,5
+752,Volunteer_652,49,Female,Pune,Flexible,Fundraising,Driving,"english, marathi",2,Cry Foundation,9938103023,AB+,Yes,Experienced nurse,3,Green Maharashtra,Education,Amravati,9476553514,17,1,1,4,3
+753,Volunteer_653,48,Female,Amravati,Weekdays,Medical Assistance,Music Therapy,"marathi, hindi",2,Helpage India,9848257113,AB+,Yes,Skilled counselor,26,Anathalaya,Environment,Solapur,9057568092,11,1,0,8,4
+754,Volunteer_654,22,Male,Amravati,Evenings,Teaching,Driving,"marathi, english",5,Childline,9174172391,A+,Yes,Good with kids,21,Seva Ashram,Healthcare,Amravati,9402468905,10,1,1,9,1
+755,Volunteer_655,39,Female,Kolhapur,Flexible,Event Management,Photography,"marathi, hindi",3,Red Cross,9880566728,O+,No,Great fundraiser,30,Helping Hands,Orphanage,Satara,9016876290,10,1,1,3,3
+756,Volunteer_656,46,Male,Solapur,Weekdays,Event Management,Driving,"hindi, marathi, english",2,Childline,9894232808,O+,Yes,Experienced nurse,28,Green Maharashtra,Education,Sangli,9403176320,10,0,1,7,4
+757,Volunteer_657,40,Female,Solapur,Full-time,Fundraising,First Aid,"hindi, english",4,Cry Foundation,9728576353,A+,Yes,Great fundraiser,36,Helping Hands,Child Care,Aurangabad,9808084918,3,0,1,9,2
+758,Volunteer_658,20,Male,Solapur,Weekends,Event Management,Social Media,"hindi, marathi, english",2,Cry Foundation,9837592044,B+,No,Skilled counselor,26,Helping Hands,Child Care,Mumbai,9430477070,15,0,1,1,5
+759,Volunteer_659,29,Male,Nashik,Weekends,IT Support,Social Media,"hindi, english",4,Childline,9262829388,A+,Yes,Handles crowd well,34,Helping Hands,Child Care,Pune,9592743470,17,0,0,2,5
+760,Volunteer_660,43,Female,Aurangabad,Weekends,Medical Assistance,Driving,"english, marathi",2,Helpage India,9745648566,B+,Yes,Great fundraiser,8,Green Maharashtra,Orphanage,Mumbai,9018794580,18,1,1,7,2
+761,Volunteer_661,33,Male,Nashik,Full-time,Teaching,Cooking,"marathi, english",4,Cry Foundation,9897897846,A+,Yes,Good with kids,10,Seva Ashram,Orphanage,Nagpur,9250750637,19,0,0,2,3
+762,Volunteer_662,36,Male,Pune,Weekdays,IT Support,Sports Coaching,"english, marathi",2,Childline,9278740259,B+,Yes,Experienced nurse,48,Solapur Care Home,Environment,Mumbai,9111991865,19,0,0,7,2
+763,Volunteer_663,22,Female,Kolhapur,Full-time,Medical Assistance,Sports Coaching,"hindi, english",2,Red Cross,9422977880,B+,No,Good with kids,43,Jeevan Jyot,Animal Welfare,Nagpur,9088163294,12,1,1,1,4
+764,Volunteer_664,39,Male,Amravati,Weekends,Counseling,Cooking,"hindi, english",1,Childline,9926534295,A+,Yes,Great fundraiser,14,Hope Foundation,Environment,Amravati,9831701702,5,1,1,3,1
+765,Volunteer_665,42,Male,Aurangabad,Flexible,Logistics,Cooking,"hindi, english",4,Childline,9670096811,B+,No,Handles crowd well,40,Green Maharashtra,Environment,Sangli,9962973904,16,1,1,5,3
+766,Volunteer_666,46,Female,Nashik,Evenings,Fundraising,Cooking,"marathi, hindi",4,None,9178657409,O-,Yes,Handles crowd well,15,Helping Hands,Elderly Care,Solapur,9373806327,15,1,1,6,1
+767,Volunteer_667,31,Female,Nashik,Full-time,Event Management,Photography,"marathi, english",4,Cry Foundation,9944052364,AB+,Yes,Good with kids,17,Hope Foundation,Child Care,Sangli,9499627218,15,1,1,9,2
+768,Volunteer_668,45,Male,Satara,Full-time,Counseling,Sports Coaching,"english, marathi",0,Helpage India,9555870622,O+,No,Skilled counselor,18,Green Maharashtra,Orphanage,Nagpur,9157450278,6,1,0,9,5
+769,Volunteer_669,22,Male,Nashik,Weekdays,Event Management,Cooking,"english, marathi",2,Helpage India,9882467932,B+,Yes,Skilled counselor,32,Hope Foundation,Child Care,Pune,9157959419,12,0,1,3,1
+770,Volunteer_670,32,Female,Sangli,Weekdays,IT Support,Photography,"hindi, marathi, english",4,None,9029696625,B+,No,Handles crowd well,38,Helping Hands,Environment,Satara,9135249538,2,1,0,8,1
+771,Volunteer_671,34,Female,Amravati,Full-time,Teaching,Music Therapy,"hindi, english",5,Helpage India,9352809243,O+,No,Good with kids,23,Solapur Care Home,Orphanage,Amravati,9662854557,9,1,1,4,5
+772,Volunteer_672,47,Male,Sangli,Weekends,Teaching,Photography,"hindi, english",0,Childline,9218195899,B+,No,Good with kids,46,Green Maharashtra,Healthcare,Amravati,9651065122,4,1,0,7,1
+773,Volunteer_673,31,Female,Amravati,Evenings,Teaching,Sports Coaching,"hindi, english",1,None,9458575770,O+,Yes,Good with kids,23,Hope Foundation,Education,Mumbai,9548868857,5,0,1,6,1
+774,Volunteer_674,47,Male,Kolhapur,Weekdays,Event Management,Driving,"english, marathi",4,Red Cross,9567461518,A+,Yes,Great fundraiser,35,Anathalaya,Education,Solapur,9632045496,8,1,1,8,5
+775,Volunteer_675,37,Male,Amravati,Weekends,Counseling,Music Therapy,"hindi, marathi, english",4,Cry Foundation,9705536222,O-,Yes,Skilled counselor,39,Hope Foundation,Environment,Mumbai,9850134428,10,0,0,6,5
+776,Volunteer_676,22,Male,Sangli,Flexible,Teaching,Sports Coaching,"marathi, hindi",0,Cry Foundation,9015090407,O-,Yes,Skilled counselor,15,Jeevan Jyot,Animal Welfare,Mumbai,9719088561,7,1,0,4,2
+777,Volunteer_677,29,Male,Amravati,Weekdays,Counseling,Photography,"marathi, english",2,Cry Foundation,9015974862,AB+,No,Great fundraiser,24,Helping Hands,Child Care,Nagpur,9308733373,14,1,0,2,2
+778,Volunteer_678,33,Male,Kolhapur,Weekends,Event Management,First Aid,"marathi, hindi",5,Childline,9258164256,B+,Yes,Experienced nurse,28,Seva Ashram,Healthcare,Satara,9772393011,5,1,0,7,1
+779,Volunteer_679,43,Female,Kolhapur,Weekends,IT Support,Social Media,"english, marathi",1,Red Cross,9344468755,AB+,Yes,Great fundraiser,16,Hope Foundation,Orphanage,Solapur,9238641525,16,1,0,4,3
+780,Volunteer_680,43,Female,Pune,Evenings,Counseling,Sports Coaching,"hindi, english",4,None,9712685225,A+,No,Good with kids,16,Solapur Care Home,Animal Welfare,Mumbai,9262086157,15,1,1,9,2
+781,Volunteer_681,33,Female,Amravati,Evenings,IT Support,Cooking,"marathi, english",2,None,9704427147,O-,No,Great fundraiser,40,Anathalaya,Child Care,Amravati,9468029595,5,1,1,9,2
+782,Volunteer_682,38,Female,Satara,Flexible,Event Management,Photography,"english, marathi",5,Cry Foundation,9495860068,A+,Yes,Good with kids,39,Anathalaya,Environment,Mumbai,9006999993,3,1,1,7,3
+783,Volunteer_683,24,Male,Solapur,Weekends,Event Management,Cooking,"english, marathi",5,Red Cross,9379537096,A+,No,Handles crowd well,6,Seva Ashram,Child Care,Nashik,9003143197,10,1,1,5,3
+784,Volunteer_684,21,Male,Mumbai,Weekends,Fundraising,Cooking,"english, marathi",1,Red Cross,9827601942,B+,No,Good with kids,2,Jeevan Jyot,Environment,Aurangabad,9100017241,5,0,1,3,5
+785,Volunteer_685,18,Male,Kolhapur,Evenings,Event Management,Cooking,"marathi, english",3,Red Cross,9796815303,A+,No,Skilled counselor,13,Seva Ashram,Elderly Care,Amravati,9620789638,15,1,1,3,2
+786,Volunteer_686,47,Male,Nagpur,Weekdays,Event Management,Cooking,"marathi, english",5,Helpage India,9456924895,O-,No,Great fundraiser,44,Jeevan Jyot,Education,Nashik,9452946598,18,0,1,9,4
+787,Volunteer_687,47,Female,Solapur,Weekdays,Medical Assistance,Cooking,"hindi, marathi, english",3,Helpage India,9696676207,AB+,No,Good with kids,47,Hope Foundation,Animal Welfare,Aurangabad,9923871582,8,1,1,9,4
+788,Volunteer_688,22,Male,Aurangabad,Full-time,Teaching,Music Therapy,"hindi, marathi, english",5,Cry Foundation,9762199309,O-,Yes,Experienced nurse,9,Helping Hands,Education,Pune,9599379106,2,1,1,4,1
+789,Volunteer_689,40,Male,Amravati,Evenings,Fundraising,Sports Coaching,"marathi, hindi",1,Red Cross,9899144538,B+,Yes,Handles crowd well,34,Solapur Care Home,Child Care,Nashik,9043246833,8,1,0,1,2
+790,Volunteer_690,43,Female,Sangli,Full-time,Logistics,Sports Coaching,"marathi, english",0,Red Cross,9110682776,O-,Yes,Experienced nurse,17,Anathalaya,Healthcare,Nagpur,9703372782,8,1,1,5,4
+791,Volunteer_691,27,Female,Mumbai,Evenings,Fundraising,Social Media,"marathi, english",1,None,9169297228,O+,Yes,Experienced nurse,27,Seva Ashram,Orphanage,Pune,9705236019,4,0,1,8,2
+792,Volunteer_692,39,Female,Nagpur,Flexible,Fundraising,Photography,"marathi, english",1,None,9936739830,AB+,Yes,Experienced nurse,29,Solapur Care Home,Environment,Kolhapur,9365544077,19,0,0,4,2
+793,Volunteer_693,22,Female,Solapur,Weekends,Logistics,First Aid,"hindi, marathi, english",0,Cry Foundation,9349842028,O+,Yes,Handles crowd well,37,Jeevan Jyot,Orphanage,Solapur,9191369278,18,1,1,4,4
+794,Volunteer_694,21,Male,Amravati,Flexible,Medical Assistance,Music Therapy,"english, marathi",0,Red Cross,9333333534,O+,Yes,Handles crowd well,43,Helping Hands,Education,Amravati,9485564924,1,0,0,9,2
+795,Volunteer_695,19,Male,Pune,Evenings,IT Support,Photography,"hindi, english",2,Cry Foundation,9849413860,B+,No,Handles crowd well,22,Anathalaya,Healthcare,Kolhapur,9147925283,15,1,0,9,3
+796,Volunteer_696,37,Female,Aurangabad,Weekends,Event Management,Music Therapy,"hindi, marathi, english",5,None,9935721199,A+,Yes,Handles crowd well,24,Anathalaya,Healthcare,Amravati,9109735002,18,0,0,7,1
+797,Volunteer_697,48,Male,Mumbai,Weekdays,Teaching,Sports Coaching,"marathi, english",2,None,9230627193,O+,Yes,Experienced nurse,7,Jeevan Jyot,Orphanage,Solapur,9767567511,12,1,1,8,5
+798,Volunteer_698,27,Male,Satara,Weekdays,Counseling,Cooking,"hindi, marathi, english",0,Helpage India,9600592746,O-,Yes,Skilled counselor,34,Helping Hands,Education,Solapur,9121771431,1,0,1,4,4
+799,Volunteer_699,43,Male,Pune,Full-time,Logistics,Social Media,"marathi, hindi",3,Cry Foundation,9456321845,A+,No,Skilled counselor,48,Anathalaya,Orphanage,Amravati,9956937884,7,1,1,8,5
+800,Volunteer_700,36,Female,Nagpur,Evenings,IT Support,Social Media,"marathi, english",3,Cry Foundation,9431793540,O-,Yes,Handles crowd well,12,Helping Hands,Child Care,Solapur,9908245812,19,1,0,6,1
+801,Volunteer_701,43,Male,Mumbai,Evenings,Logistics,Driving,"marathi, hindi",1,Red Cross,9745913996,O-,Yes,Great fundraiser,23,Anathalaya,Healthcare,Nashik,9643212652,1,1,1,3,3
+802,Volunteer_702,49,Female,Pune,Weekdays,Event Management,First Aid,"marathi, english",4,Red Cross,9129073819,A+,No,Good with kids,15,Hope Foundation,Healthcare,Sangli,9304433301,7,0,1,7,3
+803,Volunteer_703,18,Male,Aurangabad,Flexible,Medical Assistance,Social Media,"hindi, marathi, english",1,Helpage India,9816778538,A+,Yes,Great fundraiser,33,Jeevan Jyot,Child Care,Satara,9370052935,2,1,0,3,3
+804,Volunteer_704,41,Male,Satara,Weekends,Logistics,Cooking,"english, marathi",1,Childline,9119576408,O-,Yes,Great fundraiser,13,Helping Hands,Education,Amravati,9985871630,7,0,1,7,3
+805,Volunteer_705,22,Male,Pune,Flexible,Event Management,Sports Coaching,"hindi, english",4,Childline,9625329522,B+,No,Great fundraiser,23,Solapur Care Home,Healthcare,Kolhapur,9190360432,19,1,0,5,4
+806,Volunteer_706,30,Female,Nashik,Flexible,Event Management,First Aid,"marathi, hindi",5,Childline,9610138158,AB+,Yes,Skilled counselor,38,Hope Foundation,Animal Welfare,Kolhapur,9265057860,13,1,0,4,4
+807,Volunteer_707,21,Male,Satara,Weekdays,Medical Assistance,Photography,"hindi, marathi, english",0,Cry Foundation,9900288486,AB+,No,Good with kids,32,Green Maharashtra,Elderly Care,Solapur,9527406195,5,1,1,3,2
+808,Volunteer_708,33,Female,Nagpur,Weekdays,Fundraising,Cooking,"english, marathi",3,Cry Foundation,9551920037,B+,Yes,Great fundraiser,45,Solapur Care Home,Elderly Care,Amravati,9038277823,19,1,1,8,2
+809,Volunteer_709,41,Female,Aurangabad,Weekdays,Fundraising,Cooking,"hindi, marathi, english",1,None,9035886559,A+,Yes,Handles crowd well,35,Jeevan Jyot,Elderly Care,Sangli,9201810435,1,1,0,4,1
+810,Volunteer_710,33,Female,Amravati,Full-time,Teaching,Social Media,"marathi, hindi",4,Cry Foundation,9245894722,O-,Yes,Skilled counselor,1,Anathalaya,Environment,Sangli,9067857994,1,1,0,8,2
+811,Volunteer_711,40,Male,Sangli,Flexible,Teaching,First Aid,"hindi, english",2,Cry Foundation,9069183142,AB+,No,Handles crowd well,47,Green Maharashtra,Animal Welfare,Satara,9064337809,18,1,0,3,1
+812,Volunteer_712,19,Male,Sangli,Evenings,Fundraising,Sports Coaching,"hindi, marathi, english",1,Cry Foundation,9127847972,O-,No,Handles crowd well,45,Solapur Care Home,Environment,Nashik,9648931113,1,1,0,9,1
+813,Volunteer_713,34,Male,Sangli,Weekends,IT Support,Driving,"marathi, english",3,Helpage India,9357305462,B+,No,Great fundraiser,5,Hope Foundation,Education,Satara,9561501424,5,1,0,6,1
+814,Volunteer_714,45,Male,Mumbai,Full-time,Counseling,Music Therapy,"english, marathi",0,Cry Foundation,9278969329,O-,Yes,Handles crowd well,13,Green Maharashtra,Child Care,Nagpur,9862019613,9,1,0,5,3
+815,Volunteer_715,49,Female,Nagpur,Evenings,Event Management,Music Therapy,"hindi, marathi, english",1,Red Cross,9759308885,B+,Yes,Good with kids,5,Green Maharashtra,Orphanage,Kolhapur,9923724942,12,0,1,5,5
+816,Volunteer_716,49,Female,Aurangabad,Flexible,Counseling,Sports Coaching,"english, marathi",1,Red Cross,9378568061,A+,No,Handles crowd well,32,Helping Hands,Animal Welfare,Sangli,9032883013,9,1,1,3,5
+817,Volunteer_717,44,Female,Satara,Weekdays,Event Management,Sports Coaching,"marathi, english",5,None,9638812551,B+,No,Great fundraiser,21,Seva Ashram,Education,Solapur,9670994102,18,1,1,2,4
+818,Volunteer_718,37,Male,Mumbai,Flexible,Fundraising,Music Therapy,"hindi, english",4,Helpage India,9702938064,B+,Yes,Handles crowd well,24,Solapur Care Home,Orphanage,Sangli,9741637044,11,0,1,6,1
+819,Volunteer_719,41,Female,Nagpur,Weekends,Teaching,Driving,"hindi, english",2,Red Cross,9976110643,AB+,Yes,Skilled counselor,18,Seva Ashram,Education,Sangli,9579997711,1,0,0,1,3
+820,Volunteer_720,29,Male,Amravati,Full-time,IT Support,First Aid,"marathi, english",2,Helpage India,9000690778,O-,Yes,Skilled counselor,21,Jeevan Jyot,Environment,Aurangabad,9555114606,19,1,0,7,2
+821,Volunteer_721,35,Female,Nashik,Full-time,Teaching,Music Therapy,"english, marathi",0,Helpage India,9574469408,AB+,Yes,Skilled counselor,10,Solapur Care Home,Elderly Care,Kolhapur,9371399527,10,1,1,5,2
+822,Volunteer_722,20,Male,Aurangabad,Weekends,Counseling,Sports Coaching,"hindi, marathi, english",3,None,9830650349,O+,No,Experienced nurse,24,Solapur Care Home,Child Care,Nagpur,9293411528,2,1,0,4,4
+823,Volunteer_723,45,Male,Sangli,Evenings,Teaching,Social Media,"marathi, english",0,Helpage India,9603474256,B+,Yes,Skilled counselor,40,Helping Hands,Environment,Satara,9858800234,7,1,0,9,4
+824,Volunteer_724,18,Female,Pune,Evenings,Fundraising,Photography,"marathi, hindi",1,Cry Foundation,9828718283,O+,Yes,Skilled counselor,47,Anathalaya,Child Care,Nagpur,9235309434,2,1,0,1,1
+825,Volunteer_725,18,Female,Aurangabad,Full-time,IT Support,Driving,"english, marathi",1,Helpage India,9119791471,AB+,Yes,Experienced nurse,21,Hope Foundation,Animal Welfare,Aurangabad,9238958753,19,1,1,4,1
+826,Volunteer_726,46,Female,Kolhapur,Full-time,Counseling,Cooking,"hindi, english",2,None,9263875821,O-,Yes,Skilled counselor,25,Hope Foundation,Orphanage,Nashik,9873189658,6,1,1,3,2
+827,Volunteer_727,36,Female,Nagpur,Weekdays,IT Support,Driving,"marathi, english",3,None,9425389722,AB+,Yes,Great fundraiser,23,Hope Foundation,Education,Nagpur,9547803404,10,1,1,6,2
+828,Volunteer_728,28,Male,Solapur,Evenings,Event Management,Social Media,"hindi, english",4,None,9341580527,O-,Yes,Skilled counselor,22,Jeevan Jyot,Healthcare,Sangli,9606718435,9,0,1,5,2
+829,Volunteer_729,22,Female,Amravati,Weekends,Teaching,Social Media,"english, marathi",3,Red Cross,9831702151,O-,Yes,Skilled counselor,4,Green Maharashtra,Healthcare,Pune,9166156954,8,1,1,7,2
+830,Volunteer_730,29,Female,Nashik,Evenings,IT Support,Cooking,"hindi, english",1,Cry Foundation,9818634134,A+,No,Experienced nurse,34,Anathalaya,Child Care,Amravati,9583576648,11,0,0,1,5
+831,Volunteer_731,20,Female,Amravati,Weekdays,Medical Assistance,Sports Coaching,"marathi, english",4,Red Cross,9724764155,B+,No,Great fundraiser,6,Seva Ashram,Elderly Care,Nagpur,9435688644,9,1,0,5,1
+832,Volunteer_732,18,Male,Aurangabad,Full-time,Teaching,Music Therapy,"english, marathi",3,Childline,9459347305,AB+,No,Handles crowd well,28,Hope Foundation,Elderly Care,Amravati,9806393074,9,1,0,2,1
+833,Volunteer_733,18,Male,Solapur,Full-time,Event Management,First Aid,"marathi, hindi",3,Cry Foundation,9817651068,O-,Yes,Good with kids,31,Seva Ashram,Child Care,Aurangabad,9717689429,8,0,0,2,2
+834,Volunteer_734,25,Female,Kolhapur,Weekdays,IT Support,Driving,"marathi, english",4,Helpage India,9791171952,AB+,No,Great fundraiser,35,Anathalaya,Environment,Nagpur,9551920414,15,1,0,2,3
+835,Volunteer_735,27,Male,Satara,Weekends,Counseling,Cooking,"hindi, marathi, english",1,None,9209507903,AB+,Yes,Handles crowd well,39,Jeevan Jyot,Healthcare,Nagpur,9143422722,2,1,0,9,2
+836,Volunteer_736,28,Female,Pune,Full-time,Event Management,Driving,"marathi, english",3,Childline,9568830586,O-,Yes,Great fundraiser,42,Anathalaya,Environment,Mumbai,9376814365,1,1,0,3,4
+837,Volunteer_737,29,Male,Solapur,Flexible,Medical Assistance,Social Media,"english, marathi",4,Cry Foundation,9198795517,O+,Yes,Handles crowd well,23,Helping Hands,Orphanage,Sangli,9582898836,9,1,0,4,3
+838,Volunteer_738,46,Male,Nagpur,Full-time,IT Support,Music Therapy,"marathi, english",5,Red Cross,9874073564,B+,Yes,Handles crowd well,6,Green Maharashtra,Healthcare,Solapur,9379729762,9,1,1,5,4
+839,Volunteer_739,30,Male,Sangli,Flexible,Logistics,Driving,"marathi, hindi",5,None,9356772977,B+,No,Great fundraiser,16,Hope Foundation,Orphanage,Amravati,9659532165,13,1,1,4,3
+840,Volunteer_740,29,Male,Kolhapur,Weekdays,Logistics,First Aid,"marathi, hindi",1,Red Cross,9529831955,A+,Yes,Experienced nurse,2,Jeevan Jyot,Education,Nashik,9453167067,8,1,1,4,4
+841,Volunteer_741,48,Female,Pune,Weekdays,Fundraising,Social Media,"hindi, marathi, english",4,Cry Foundation,9902879759,A+,Yes,Great fundraiser,24,Helping Hands,Environment,Mumbai,9348062121,5,1,0,5,2
+842,Volunteer_742,31,Female,Nashik,Full-time,Teaching,First Aid,"hindi, english",5,Cry Foundation,9256677008,A+,No,Great fundraiser,17,Hope Foundation,Child Care,Sangli,9886967268,3,1,1,9,2
+843,Volunteer_743,19,Female,Sangli,Evenings,Counseling,Music Therapy,"english, marathi",4,Childline,9688637135,B+,No,Handles crowd well,45,Anathalaya,Healthcare,Aurangabad,9210302653,4,1,0,9,3
+844,Volunteer_744,46,Male,Aurangabad,Flexible,Fundraising,Driving,"english, marathi",3,Helpage India,9595279378,O+,No,Good with kids,1,Anathalaya,Environment,Amravati,9944123096,17,0,0,6,4
+845,Volunteer_745,36,Female,Solapur,Weekends,IT Support,Photography,"hindi, english",1,Red Cross,9097536375,B+,Yes,Handles crowd well,6,Solapur Care Home,Child Care,Satara,9482017183,16,1,0,3,5
+846,Volunteer_746,35,Female,Pune,Full-time,Logistics,Driving,"marathi, hindi",5,Childline,9339619319,B+,No,Skilled counselor,5,Solapur Care Home,Education,Aurangabad,9107391842,16,1,1,6,3
+847,Volunteer_747,20,Female,Mumbai,Weekends,Logistics,Music Therapy,"marathi, hindi",3,None,9101326727,B+,Yes,Great fundraiser,45,Anathalaya,Healthcare,Solapur,9933992533,3,1,1,4,3
+848,Volunteer_748,40,Male,Satara,Full-time,Logistics,Driving,"marathi, english",0,Helpage India,9277401765,B+,Yes,Great fundraiser,29,Anathalaya,Orphanage,Amravati,9153683159,6,1,0,3,1
+849,Volunteer_749,34,Male,Satara,Evenings,IT Support,Cooking,"hindi, marathi, english",0,Childline,9703227429,O+,No,Experienced nurse,12,Seva Ashram,Education,Aurangabad,9767957414,1,1,0,6,3
+850,Volunteer_750,43,Male,Kolhapur,Evenings,Logistics,Driving,"hindi, marathi, english",1,Red Cross,9051920052,A+,No,Handles crowd well,39,Green Maharashtra,Elderly Care,Mumbai,9306531647,16,0,1,6,5
+851,Volunteer_751,25,Female,Nashik,Evenings,Event Management,Sports Coaching,"hindi, marathi, english",5,Cry Foundation,9211520348,AB+,No,Experienced nurse,47,Seva Ashram,Child Care,Aurangabad,9244813941,15,1,0,2,2
+852,Volunteer_752,46,Female,Kolhapur,Evenings,IT Support,Driving,"marathi, english",5,None,9819008104,A+,Yes,Great fundraiser,3,Green Maharashtra,Healthcare,Solapur,9161009565,7,1,0,9,4
+853,Volunteer_753,43,Female,Mumbai,Weekdays,Counseling,Driving,"hindi, marathi, english",5,Red Cross,9205219417,A+,Yes,Handles crowd well,48,Helping Hands,Healthcare,Solapur,9637406142,2,1,0,8,1
+854,Volunteer_754,27,Male,Nagpur,Weekdays,Fundraising,First Aid,"hindi, english",4,Helpage India,9894545822,AB+,Yes,Handles crowd well,1,Solapur Care Home,Animal Welfare,Pune,9720706417,10,0,1,6,4
+855,Volunteer_755,43,Male,Nashik,Flexible,Counseling,Photography,"marathi, english",3,Helpage India,9439078699,B+,Yes,Skilled counselor,27,Solapur Care Home,Animal Welfare,Nagpur,9857099231,15,1,0,1,2
+856,Volunteer_756,47,Female,Amravati,Weekends,Medical Assistance,First Aid,"hindi, english",5,Cry Foundation,9881413563,O+,Yes,Skilled counselor,48,Anathalaya,Education,Satara,9599759262,6,1,0,2,3
+857,Volunteer_757,19,Male,Nagpur,Full-time,Logistics,First Aid,"marathi, english",3,Cry Foundation,9457723211,O+,Yes,Good with kids,24,Anathalaya,Healthcare,Satara,9186212950,2,0,0,4,5
+858,Volunteer_758,36,Male,Nashik,Full-time,Medical Assistance,Social Media,"hindi, marathi, english",1,None,9813978102,A+,No,Skilled counselor,44,Helping Hands,Child Care,Mumbai,9222390311,17,1,1,7,1
+859,Volunteer_759,26,Male,Nashik,Weekdays,Teaching,Sports Coaching,"hindi, english",5,None,9627299216,AB+,Yes,Handles crowd well,19,Jeevan Jyot,Education,Solapur,9296912032,1,0,1,9,5
+860,Volunteer_760,24,Male,Mumbai,Full-time,Teaching,First Aid,"hindi, english",1,Cry Foundation,9539514958,O-,No,Skilled counselor,8,Jeevan Jyot,Orphanage,Pune,9103312062,1,1,0,5,5
+861,Volunteer_761,21,Female,Aurangabad,Weekdays,Medical Assistance,Cooking,"hindi, english",5,Cry Foundation,9855372360,B+,No,Good with kids,44,Jeevan Jyot,Education,Sangli,9300796440,4,1,1,2,5
+862,Volunteer_762,43,Male,Mumbai,Flexible,IT Support,Music Therapy,"marathi, english",0,Helpage India,9262023078,A+,No,Great fundraiser,47,Solapur Care Home,Education,Pune,9280000931,16,0,1,1,5
+863,Volunteer_763,38,Male,Nashik,Weekends,Counseling,Cooking,"english, marathi",2,Cry Foundation,9750735273,O+,No,Skilled counselor,2,Seva Ashram,Orphanage,Nashik,9176878231,8,0,1,1,2
+864,Volunteer_764,35,Male,Pune,Flexible,Medical Assistance,Music Therapy,"hindi, marathi, english",1,Childline,9583781039,AB+,No,Handles crowd well,30,Jeevan Jyot,Elderly Care,Aurangabad,9214415454,1,1,1,5,5
+865,Volunteer_765,30,Male,Nagpur,Evenings,Teaching,Driving,"hindi, english",5,Red Cross,9582193547,AB+,Yes,Great fundraiser,30,Hope Foundation,Animal Welfare,Nagpur,9437448121,19,1,1,7,5
+866,Volunteer_766,28,Female,Mumbai,Evenings,Medical Assistance,Social Media,"english, marathi",2,Cry Foundation,9107066975,A+,Yes,Handles crowd well,49,Helping Hands,Child Care,Pune,9496312230,11,1,1,9,2
+867,Volunteer_767,46,Female,Aurangabad,Evenings,IT Support,Sports Coaching,"hindi, marathi, english",1,None,9710457176,O-,Yes,Great fundraiser,39,Jeevan Jyot,Elderly Care,Aurangabad,9313505325,17,1,0,9,4
+868,Volunteer_768,41,Male,Solapur,Flexible,Medical Assistance,Cooking,"hindi, marathi, english",4,Childline,9051257745,O+,Yes,Handles crowd well,45,Hope Foundation,Elderly Care,Nagpur,9306518988,10,1,1,8,2
+869,Volunteer_769,21,Male,Kolhapur,Full-time,Counseling,Sports Coaching,"hindi, english",5,None,9203310030,A+,No,Skilled counselor,32,Jeevan Jyot,Elderly Care,Amravati,9894972553,12,0,1,1,3
+870,Volunteer_770,42,Male,Nashik,Weekends,Fundraising,Cooking,"hindi, english",4,Childline,9021971167,O-,No,Skilled counselor,1,Seva Ashram,Animal Welfare,Nashik,9045346774,9,1,1,5,2
+871,Volunteer_771,38,Male,Amravati,Evenings,IT Support,Driving,"marathi, english",0,Cry Foundation,9083399173,AB+,No,Good with kids,38,Seva Ashram,Environment,Nashik,9116159953,7,1,1,6,4
+872,Volunteer_772,46,Male,Solapur,Evenings,Teaching,Music Therapy,"english, marathi",5,Red Cross,9590307563,B+,Yes,Great fundraiser,13,Jeevan Jyot,Animal Welfare,Solapur,9919424864,12,1,1,6,3
+873,Volunteer_773,42,Male,Satara,Evenings,Counseling,Photography,"english, marathi",0,None,9924609962,O+,Yes,Good with kids,11,Hope Foundation,Elderly Care,Nashik,9398968483,15,1,1,4,3
+874,Volunteer_774,21,Female,Sangli,Weekends,Medical Assistance,Social Media,"hindi, english",2,Childline,9589713523,O+,Yes,Experienced nurse,10,Helping Hands,Environment,Amravati,9859115931,8,0,1,1,1
+875,Volunteer_775,27,Male,Aurangabad,Evenings,Medical Assistance,Cooking,"hindi, marathi, english",1,Helpage India,9250129570,O-,Yes,Skilled counselor,48,Hope Foundation,Orphanage,Solapur,9723138959,17,0,1,3,5
+876,Volunteer_776,22,Female,Amravati,Weekends,Fundraising,Cooking,"hindi, english",3,Cry Foundation,9370852065,A+,No,Great fundraiser,26,Helping Hands,Animal Welfare,Kolhapur,9359721487,5,1,1,4,3
+877,Volunteer_777,26,Female,Sangli,Evenings,Teaching,Driving,"hindi, marathi, english",0,Red Cross,9052717797,AB+,No,Good with kids,20,Jeevan Jyot,Child Care,Sangli,9768570385,14,1,1,4,3
+878,Volunteer_778,41,Male,Aurangabad,Flexible,Teaching,Social Media,"hindi, marathi, english",3,Cry Foundation,9372580343,O-,Yes,Good with kids,17,Helping Hands,Elderly Care,Mumbai,9135610503,2,1,1,4,4
+879,Volunteer_779,49,Female,Pune,Flexible,Event Management,Music Therapy,"hindi, english",3,Helpage India,9799166645,B+,Yes,Experienced nurse,17,Anathalaya,Healthcare,Aurangabad,9690423785,16,1,1,5,3
+880,Volunteer_780,20,Female,Kolhapur,Weekends,Teaching,Music Therapy,"marathi, hindi",1,Red Cross,9441974008,B+,No,Good with kids,4,Solapur Care Home,Orphanage,Sangli,9333270479,17,1,1,9,4
+881,Volunteer_781,34,Female,Solapur,Flexible,Fundraising,Cooking,"english, marathi",2,Helpage India,9673891645,B+,No,Handles crowd well,5,Green Maharashtra,Environment,Sangli,9926323446,3,1,0,4,5
+882,Volunteer_782,20,Female,Nagpur,Weekends,Logistics,Photography,"hindi, marathi, english",1,Cry Foundation,9988401604,O-,No,Skilled counselor,23,Solapur Care Home,Animal Welfare,Satara,9623154423,1,1,0,9,1
+883,Volunteer_783,33,Female,Aurangabad,Flexible,Event Management,Photography,"hindi, marathi, english",5,Childline,9848535761,AB+,No,Good with kids,46,Seva Ashram,Child Care,Pune,9578456394,18,0,1,9,1
+884,Volunteer_784,21,Female,Nagpur,Flexible,Event Management,Sports Coaching,"marathi, hindi",0,Cry Foundation,9589467279,O+,Yes,Good with kids,10,Anathalaya,Education,Nashik,9855460549,18,0,1,1,5
+885,Volunteer_785,35,Male,Kolhapur,Weekends,Medical Assistance,Social Media,"marathi, english",3,Cry Foundation,9072365447,A+,No,Experienced nurse,46,Solapur Care Home,Child Care,Kolhapur,9299136000,4,1,0,5,5
+886,Volunteer_786,34,Female,Nashik,Full-time,Medical Assistance,Social Media,"marathi, hindi",1,Cry Foundation,9147771224,O+,No,Handles crowd well,28,Jeevan Jyot,Child Care,Pune,9096603837,15,1,0,9,2
+887,Volunteer_787,24,Female,Satara,Flexible,Teaching,Music Therapy,"marathi, hindi",1,None,9078542943,AB+,No,Good with kids,33,Helping Hands,Elderly Care,Mumbai,9563110268,19,1,1,4,3
+888,Volunteer_788,49,Female,Solapur,Evenings,Event Management,Sports Coaching,"hindi, marathi, english",1,Helpage India,9390002521,O+,No,Skilled counselor,43,Helping Hands,Elderly Care,Pune,9457169404,19,1,1,5,3
+889,Volunteer_789,41,Male,Kolhapur,Full-time,Medical Assistance,Driving,"english, marathi",0,Helpage India,9776850163,O-,Yes,Skilled counselor,26,Hope Foundation,Animal Welfare,Satara,9488390091,10,1,1,4,3
+890,Volunteer_790,40,Female,Kolhapur,Weekends,Fundraising,Social Media,"marathi, hindi",2,Helpage India,9951116885,B+,Yes,Good with kids,48,Hope Foundation,Animal Welfare,Mumbai,9834930168,5,0,1,2,4
+891,Volunteer_791,47,Male,Pune,Full-time,Medical Assistance,Sports Coaching,"marathi, english",1,None,9821536746,AB+,Yes,Handles crowd well,29,Helping Hands,Environment,Amravati,9530969381,19,1,0,2,2
+892,Volunteer_792,49,Female,Sangli,Weekdays,IT Support,Sports Coaching,"hindi, english",0,Childline,9009208201,AB+,Yes,Skilled counselor,27,Jeevan Jyot,Animal Welfare,Amravati,9077681115,11,0,0,2,3
+893,Volunteer_793,22,Male,Satara,Weekdays,IT Support,Cooking,"marathi, hindi",3,Cry Foundation,9565369527,O+,Yes,Skilled counselor,18,Helping Hands,Environment,Solapur,9995143212,7,0,0,1,4
+894,Volunteer_794,29,Male,Solapur,Flexible,Medical Assistance,Music Therapy,"marathi, hindi",5,Childline,9065250123,O-,Yes,Handles crowd well,40,Hope Foundation,Elderly Care,Pune,9369300409,5,1,1,3,4
+895,Volunteer_795,34,Female,Nashik,Flexible,Event Management,Sports Coaching,"marathi, english",4,None,9324412916,O+,No,Handles crowd well,10,Solapur Care Home,Elderly Care,Aurangabad,9647070544,12,0,0,1,1
+896,Volunteer_796,40,Female,Nashik,Evenings,Logistics,Photography,"english, marathi",0,Helpage India,9105882203,O+,No,Good with kids,42,Seva Ashram,Healthcare,Kolhapur,9527037312,19,1,1,4,4
+897,Volunteer_797,30,Male,Mumbai,Full-time,Logistics,Photography,"marathi, hindi",4,Cry Foundation,9506233413,AB+,No,Great fundraiser,5,Hope Foundation,Healthcare,Satara,9311175047,15,0,1,1,5
+898,Volunteer_798,40,Female,Kolhapur,Weekdays,Event Management,First Aid,"marathi, hindi",1,Red Cross,9266909690,O+,No,Experienced nurse,10,Jeevan Jyot,Orphanage,Mumbai,9305473653,12,0,1,4,4
+899,Volunteer_799,42,Male,Aurangabad,Flexible,Counseling,Music Therapy,"english, marathi",1,Red Cross,9712353683,B+,Yes,Great fundraiser,21,Solapur Care Home,Elderly Care,Kolhapur,9019939111,4,1,1,3,5
+900,Volunteer_800,20,Male,Pune,Full-time,Logistics,Cooking,"marathi, english",0,Childline,9226361476,O+,No,Great fundraiser,24,Solapur Care Home,Education,Pune,9794483895,12,1,0,9,5
+901,Volunteer_801,26,Male,Satara,Flexible,IT Support,Driving,"marathi, hindi",4,Helpage India,9552651542,B+,Yes,Skilled counselor,38,Solapur Care Home,Healthcare,Aurangabad,9582070462,18,0,1,1,1
+902,Volunteer_802,47,Male,Nashik,Flexible,Fundraising,First Aid,"english, marathi",1,Red Cross,9492812936,AB+,No,Handles crowd well,3,Anathalaya,Environment,Pune,9976213738,17,0,0,8,1
+903,Volunteer_803,34,Male,Solapur,Weekdays,Event Management,Photography,"marathi, hindi",3,Childline,9877989177,O-,No,Skilled counselor,40,Anathalaya,Child Care,Nashik,9586634989,19,1,0,9,4
+904,Volunteer_804,34,Female,Mumbai,Weekdays,Teaching,Cooking,"hindi, english",2,None,9541757114,B+,No,Experienced nurse,31,Green Maharashtra,Animal Welfare,Nashik,9084016855,16,1,1,7,1
+905,Volunteer_805,47,Male,Solapur,Flexible,IT Support,First Aid,"hindi, marathi, english",2,Childline,9533301468,O-,Yes,Good with kids,41,Solapur Care Home,Animal Welfare,Satara,9103843913,11,1,0,1,1
+906,Volunteer_806,37,Male,Pune,Weekends,Fundraising,Music Therapy,"hindi, english",1,Childline,9126845903,O-,No,Experienced nurse,37,Jeevan Jyot,Orphanage,Mumbai,9430223982,2,1,1,4,3
+907,Volunteer_807,33,Female,Aurangabad,Flexible,Fundraising,Cooking,"marathi, hindi",4,Childline,9893099445,B+,Yes,Skilled counselor,2,Helping Hands,Healthcare,Mumbai,9570651750,16,0,1,1,4
+908,Volunteer_808,42,Male,Mumbai,Flexible,Event Management,Music Therapy,"marathi, english",5,Cry Foundation,9081009709,AB+,Yes,Skilled counselor,2,Jeevan Jyot,Child Care,Sangli,9439937894,1,1,0,4,4
+909,Volunteer_809,39,Female,Mumbai,Evenings,Fundraising,Sports Coaching,"hindi, marathi, english",1,Childline,9917628693,A+,No,Skilled counselor,39,Anathalaya,Child Care,Satara,9113381961,17,1,0,3,4
+910,Volunteer_810,30,Female,Sangli,Evenings,Event Management,Social Media,"hindi, english",5,Childline,9090352831,O-,Yes,Skilled counselor,49,Hope Foundation,Healthcare,Satara,9657013155,18,1,1,2,1
+911,Volunteer_811,44,Female,Satara,Evenings,Logistics,Sports Coaching,"english, marathi",5,Cry Foundation,9010315271,O-,Yes,Great fundraiser,42,Green Maharashtra,Education,Aurangabad,9766050776,13,0,1,1,1
+912,Volunteer_812,36,Male,Mumbai,Weekends,Medical Assistance,Music Therapy,"marathi, english",4,Cry Foundation,9957087098,AB+,No,Good with kids,44,Anathalaya,Education,Nashik,9071026427,5,1,1,6,5
+913,Volunteer_813,34,Male,Sangli,Weekends,IT Support,Cooking,"hindi, english",5,None,9673516307,AB+,No,Great fundraiser,34,Helping Hands,Orphanage,Mumbai,9155418737,6,0,1,7,2
+914,Volunteer_814,21,Male,Sangli,Flexible,Counseling,Photography,"english, marathi",3,Helpage India,9139528882,O+,No,Skilled counselor,42,Seva Ashram,Education,Pune,9278279546,1,0,1,6,2
+915,Volunteer_815,29,Female,Pune,Evenings,Medical Assistance,Driving,"marathi, hindi",4,Red Cross,9851289421,AB+,No,Handles crowd well,20,Green Maharashtra,Orphanage,Satara,9009200952,10,0,1,9,2
+916,Volunteer_816,46,Male,Nagpur,Weekends,IT Support,Photography,"english, marathi",1,Red Cross,9409210918,O-,No,Great fundraiser,33,Anathalaya,Environment,Solapur,9468982089,5,0,0,9,3
+917,Volunteer_817,26,Female,Solapur,Weekdays,Event Management,Cooking,"hindi, english",3,Childline,9618489124,B+,No,Skilled counselor,4,Jeevan Jyot,Healthcare,Nagpur,9563781970,1,1,1,2,1
+918,Volunteer_818,36,Male,Aurangabad,Flexible,IT Support,Sports Coaching,"hindi, english",0,None,9168336049,A+,Yes,Skilled counselor,45,Green Maharashtra,Child Care,Mumbai,9345393389,11,1,1,2,5
+919,Volunteer_819,29,Female,Amravati,Full-time,Logistics,Driving,"marathi, hindi",2,Childline,9939801930,O+,No,Good with kids,44,Jeevan Jyot,Orphanage,Amravati,9004031660,7,0,1,9,5
+920,Volunteer_820,26,Male,Solapur,Flexible,Event Management,Cooking,"english, marathi",1,Red Cross,9525600629,B+,No,Experienced nurse,11,Solapur Care Home,Animal Welfare,Mumbai,9317669454,18,1,1,1,2
+921,Volunteer_821,24,Male,Mumbai,Full-time,Medical Assistance,Music Therapy,"english, marathi",1,Cry Foundation,9777336992,A+,Yes,Great fundraiser,42,Solapur Care Home,Education,Solapur,9863916495,10,1,1,5,3
+922,Volunteer_822,45,Male,Aurangabad,Evenings,Teaching,Photography,"marathi, hindi",1,Helpage India,9273166110,A+,No,Great fundraiser,47,Solapur Care Home,Animal Welfare,Mumbai,9751605633,15,1,0,1,3
+923,Volunteer_823,31,Female,Nashik,Full-time,Teaching,Music Therapy,"english, marathi",3,None,9163915386,A+,Yes,Great fundraiser,5,Green Maharashtra,Orphanage,Solapur,9052005468,4,1,1,7,2
+924,Volunteer_824,48,Female,Nagpur,Evenings,IT Support,Driving,"marathi, hindi",0,Cry Foundation,9221998133,B+,No,Skilled counselor,25,Seva Ashram,Elderly Care,Nagpur,9599979971,16,0,1,9,2
+925,Volunteer_825,49,Male,Nashik,Weekdays,Teaching,Driving,"marathi, english",4,Helpage India,9446334891,O+,No,Good with kids,49,Helping Hands,Orphanage,Sangli,9770178548,15,1,1,6,1
+926,Volunteer_826,37,Male,Nashik,Full-time,Event Management,Photography,"hindi, english",0,None,9391255073,O+,Yes,Skilled counselor,37,Green Maharashtra,Education,Aurangabad,9466809393,15,1,0,2,3
+927,Volunteer_827,36,Female,Satara,Flexible,Fundraising,Music Therapy,"marathi, english",3,None,9213002481,A+,No,Skilled counselor,34,Hope Foundation,Elderly Care,Nagpur,9233500956,12,1,0,6,5
+928,Volunteer_828,43,Female,Solapur,Evenings,Event Management,First Aid,"hindi, marathi, english",1,Red Cross,9406651769,B+,Yes,Handles crowd well,9,Jeevan Jyot,Elderly Care,Kolhapur,9860213470,8,1,1,9,2
+929,Volunteer_829,32,Female,Amravati,Flexible,Fundraising,Music Therapy,"hindi, marathi, english",2,Cry Foundation,9774568048,A+,No,Good with kids,6,Jeevan Jyot,Education,Sangli,9723790416,8,1,1,3,1
+930,Volunteer_830,33,Male,Pune,Weekends,Medical Assistance,Driving,"hindi, marathi, english",1,None,9141118453,AB+,No,Great fundraiser,18,Green Maharashtra,Elderly Care,Aurangabad,9884438682,18,1,0,9,5
+931,Volunteer_831,38,Female,Amravati,Evenings,Counseling,Music Therapy,"marathi, hindi",4,None,9301930813,O+,Yes,Experienced nurse,14,Green Maharashtra,Healthcare,Nashik,9523385204,6,0,1,8,3
+932,Volunteer_832,22,Male,Nashik,Full-time,Fundraising,Cooking,"english, marathi",5,Helpage India,9672820781,O-,No,Great fundraiser,19,Helping Hands,Child Care,Solapur,9274130152,5,1,0,7,2
+933,Volunteer_833,20,Female,Mumbai,Evenings,Teaching,Sports Coaching,"marathi, english",2,Red Cross,9432102199,A+,No,Skilled counselor,14,Seva Ashram,Animal Welfare,Satara,9209607566,2,0,1,8,2
+934,Volunteer_834,29,Male,Nagpur,Flexible,Event Management,First Aid,"marathi, english",1,Childline,9821378694,AB+,Yes,Good with kids,40,Green Maharashtra,Healthcare,Kolhapur,9561333051,12,1,1,6,1
+935,Volunteer_835,42,Female,Kolhapur,Weekdays,Medical Assistance,Social Media,"marathi, english",2,Red Cross,9268348533,O+,No,Good with kids,17,Solapur Care Home,Healthcare,Nagpur,9465385707,4,0,0,3,1
+936,Volunteer_836,37,Female,Amravati,Evenings,Teaching,Cooking,"marathi, english",5,Childline,9495763416,B+,Yes,Good with kids,35,Helping Hands,Education,Mumbai,9165341854,13,1,1,7,3
+937,Volunteer_837,44,Female,Nashik,Full-time,Medical Assistance,Sports Coaching,"hindi, marathi, english",0,Cry Foundation,9950151868,O+,No,Handles crowd well,29,Hope Foundation,Education,Nagpur,9609047355,17,1,1,4,2
+938,Volunteer_838,38,Female,Nagpur,Weekends,Counseling,Social Media,"marathi, english",3,Cry Foundation,9668788354,B+,Yes,Great fundraiser,42,Solapur Care Home,Animal Welfare,Aurangabad,9556804858,16,1,0,5,1
+939,Volunteer_839,21,Female,Aurangabad,Weekdays,Logistics,Photography,"english, marathi",1,None,9989539322,B+,No,Handles crowd well,17,Hope Foundation,Child Care,Kolhapur,9703499577,9,1,1,8,2
+940,Volunteer_840,38,Male,Solapur,Weekends,Event Management,Social Media,"hindi, marathi, english",4,Cry Foundation,9176447397,A+,Yes,Experienced nurse,43,Anathalaya,Orphanage,Pune,9193877928,1,1,1,7,3
+941,Volunteer_841,40,Female,Sangli,Evenings,IT Support,Cooking,"marathi, english",0,None,9795434195,A+,Yes,Skilled counselor,8,Hope Foundation,Healthcare,Aurangabad,9926746541,15,1,1,7,2
+942,Volunteer_842,33,Female,Satara,Flexible,Event Management,Music Therapy,"marathi, hindi",1,Red Cross,9417850785,O+,No,Handles crowd well,1,Solapur Care Home,Elderly Care,Sangli,9136347436,12,1,0,8,5
+943,Volunteer_843,42,Female,Nagpur,Flexible,Counseling,Cooking,"hindi, english",0,Cry Foundation,9995990640,AB+,No,Handles crowd well,45,Anathalaya,Child Care,Nagpur,9187238779,5,1,0,3,2
+944,Volunteer_844,24,Male,Mumbai,Full-time,Event Management,Social Media,"hindi, english",4,Red Cross,9065405995,O+,Yes,Skilled counselor,36,Solapur Care Home,Healthcare,Nagpur,9452430617,18,1,1,3,4
+945,Volunteer_845,30,Female,Mumbai,Flexible,IT Support,Driving,"hindi, english",1,Red Cross,9820793471,O-,No,Good with kids,7,Jeevan Jyot,Orphanage,Kolhapur,9237986405,2,1,0,2,4
+946,Volunteer_846,38,Male,Nagpur,Weekdays,Fundraising,Sports Coaching,"hindi, marathi, english",5,Cry Foundation,9799255403,B+,Yes,Skilled counselor,46,Solapur Care Home,Elderly Care,Solapur,9318988850,4,1,1,1,3
+947,Volunteer_847,27,Female,Mumbai,Flexible,Medical Assistance,Sports Coaching,"marathi, english",5,Red Cross,9572059805,B+,No,Great fundraiser,5,Anathalaya,Healthcare,Kolhapur,9840964515,15,0,0,6,3
+948,Volunteer_848,43,Female,Solapur,Full-time,IT Support,Social Media,"hindi, marathi, english",4,Cry Foundation,9853798672,A+,No,Skilled counselor,24,Hope Foundation,Environment,Satara,9356726835,6,1,1,6,3
+949,Volunteer_849,24,Male,Mumbai,Evenings,Teaching,Sports Coaching,"english, marathi",2,Cry Foundation,9851256122,AB+,Yes,Good with kids,28,Jeevan Jyot,Animal Welfare,Nagpur,9863770320,12,1,1,8,5
+950,Volunteer_850,31,Female,Amravati,Evenings,Counseling,Driving,"marathi, hindi",4,Cry Foundation,9077512073,A+,Yes,Skilled counselor,43,Seva Ashram,Child Care,Solapur,9807942962,18,1,1,6,5
+951,Volunteer_851,48,Male,Sangli,Flexible,Fundraising,Cooking,"marathi, hindi",2,Childline,9263994195,O-,No,Handles crowd well,17,Seva Ashram,Animal Welfare,Solapur,9330849922,4,1,1,6,2
+952,Volunteer_852,43,Male,Mumbai,Weekends,Teaching,Sports Coaching,"hindi, english",1,Red Cross,9868979199,O+,No,Experienced nurse,37,Seva Ashram,Education,Kolhapur,9090897916,1,0,1,1,1
+953,Volunteer_853,22,Female,Sangli,Evenings,Teaching,Social Media,"hindi, english",2,Helpage India,9237768593,O+,No,Handles crowd well,20,Seva Ashram,Healthcare,Nashik,9122337037,15,1,1,7,4
+954,Volunteer_854,20,Male,Nashik,Flexible,Counseling,First Aid,"hindi, english",1,Cry Foundation,9437954604,AB+,No,Experienced nurse,3,Helping Hands,Elderly Care,Aurangabad,9372398000,18,1,0,7,4
+955,Volunteer_855,40,Female,Pune,Full-time,Fundraising,First Aid,"marathi, english",1,Red Cross,9163728491,A+,No,Skilled counselor,37,Seva Ashram,Elderly Care,Sangli,9576157900,14,1,1,9,4
+956,Volunteer_856,46,Female,Solapur,Flexible,Logistics,Photography,"english, marathi",3,None,9457881818,A+,Yes,Great fundraiser,26,Anathalaya,Child Care,Nashik,9620518376,3,0,1,7,2
+957,Volunteer_857,28,Male,Pune,Evenings,Teaching,Sports Coaching,"english, marathi",1,Cry Foundation,9303010234,O-,No,Skilled counselor,15,Green Maharashtra,Child Care,Nagpur,9667822224,15,1,0,8,2
+958,Volunteer_858,28,Male,Nashik,Full-time,Teaching,Cooking,"english, marathi",2,Cry Foundation,9048951101,O+,No,Good with kids,48,Seva Ashram,Animal Welfare,Nagpur,9630470639,5,1,0,4,3
+959,Volunteer_859,35,Male,Solapur,Flexible,Fundraising,Social Media,"english, marathi",3,Helpage India,9790415674,A+,Yes,Skilled counselor,8,Solapur Care Home,Elderly Care,Nagpur,9158455473,3,0,0,9,1
+960,Volunteer_860,32,Male,Nagpur,Weekdays,Event Management,Sports Coaching,"hindi, english",3,Childline,9844384432,AB+,Yes,Experienced nurse,13,Green Maharashtra,Elderly Care,Amravati,9713183201,7,0,0,1,3
+961,Volunteer_861,29,Female,Nagpur,Full-time,Teaching,Music Therapy,"marathi, hindi",1,Childline,9070228195,O+,Yes,Handles crowd well,48,Seva Ashram,Elderly Care,Mumbai,9944036877,6,1,1,8,2
+962,Volunteer_862,26,Female,Sangli,Weekdays,Medical Assistance,Driving,"hindi, english",4,Cry Foundation,9971966142,O-,No,Great fundraiser,3,Green Maharashtra,Healthcare,Pune,9740073717,1,0,1,3,5
+963,Volunteer_863,27,Male,Nashik,Weekends,Fundraising,Sports Coaching,"english, marathi",4,Red Cross,9678389718,AB+,Yes,Skilled counselor,1,Hope Foundation,Elderly Care,Amravati,9255848438,19,1,1,1,3
+964,Volunteer_864,43,Female,Sangli,Full-time,Teaching,Sports Coaching,"hindi, english",5,None,9943527583,B+,Yes,Skilled counselor,9,Anathalaya,Education,Pune,9497559738,7,0,1,2,2
+965,Volunteer_865,29,Female,Satara,Weekdays,Counseling,First Aid,"english, marathi",3,None,9317382537,O-,Yes,Handles crowd well,31,Anathalaya,Elderly Care,Solapur,9502013264,4,1,0,6,2
+966,Volunteer_866,34,Female,Mumbai,Evenings,IT Support,Driving,"hindi, marathi, english",1,Red Cross,9855056650,AB+,Yes,Great fundraiser,41,Green Maharashtra,Education,Nagpur,9338091266,12,1,0,5,5
+967,Volunteer_867,46,Female,Kolhapur,Evenings,Medical Assistance,Social Media,"marathi, hindi",4,Cry Foundation,9633592677,A+,No,Skilled counselor,26,Jeevan Jyot,Healthcare,Satara,9146465633,18,1,1,3,5
+968,Volunteer_868,23,Male,Satara,Weekends,IT Support,Sports Coaching,"hindi, marathi, english",1,None,9199508805,B+,No,Skilled counselor,17,Helping Hands,Child Care,Sangli,9490850343,9,1,0,9,5
+969,Volunteer_869,24,Male,Mumbai,Full-time,IT Support,First Aid,"marathi, english",1,Childline,9940359034,O-,No,Experienced nurse,34,Solapur Care Home,Education,Kolhapur,9937460312,19,1,0,8,1
+970,Volunteer_870,31,Female,Solapur,Full-time,Teaching,Photography,"hindi, english",3,Red Cross,9202133992,A+,Yes,Experienced nurse,9,Green Maharashtra,Healthcare,Sangli,9344956540,4,1,1,3,2
+971,Volunteer_871,30,Male,Sangli,Full-time,Medical Assistance,Driving,"marathi, english",5,Helpage India,9918942397,B+,Yes,Good with kids,13,Anathalaya,Elderly Care,Satara,9705409985,1,0,1,2,5
+972,Volunteer_872,25,Male,Solapur,Weekends,Medical Assistance,First Aid,"hindi, english",3,Cry Foundation,9644039342,O+,Yes,Handles crowd well,5,Hope Foundation,Healthcare,Kolhapur,9588354977,9,1,0,8,1
+973,Volunteer_873,27,Male,Solapur,Full-time,Event Management,First Aid,"hindi, marathi, english",0,Red Cross,9750152993,A+,Yes,Great fundraiser,41,Seva Ashram,Elderly Care,Solapur,9851934558,15,0,1,5,4
+974,Volunteer_874,26,Female,Mumbai,Evenings,IT Support,Cooking,"english, marathi",4,None,9016184291,AB+,Yes,Skilled counselor,13,Anathalaya,Animal Welfare,Satara,9010864648,8,1,1,9,4
+975,Volunteer_875,35,Female,Nashik,Weekdays,Medical Assistance,First Aid,"english, marathi",4,Cry Foundation,9073580900,O-,Yes,Skilled counselor,1,Hope Foundation,Healthcare,Nagpur,9090957907,15,0,0,1,4
+976,Volunteer_876,44,Female,Mumbai,Evenings,Event Management,Cooking,"hindi, english",4,Childline,9524025488,B+,No,Good with kids,25,Seva Ashram,Child Care,Satara,9138420756,15,1,1,3,2
+977,Volunteer_877,43,Male,Aurangabad,Evenings,Fundraising,Sports Coaching,"english, marathi",2,Cry Foundation,9502787815,A+,No,Skilled counselor,47,Helping Hands,Education,Nagpur,9848696284,18,1,0,5,1
+978,Volunteer_878,19,Female,Nagpur,Weekdays,Event Management,Sports Coaching,"hindi, marathi, english",1,Cry Foundation,9172139367,O+,Yes,Handles crowd well,4,Anathalaya,Animal Welfare,Satara,9270174202,7,0,1,2,1
+979,Volunteer_879,22,Female,Nagpur,Evenings,Counseling,Photography,"english, marathi",3,Childline,9121022389,O-,No,Good with kids,36,Anathalaya,Child Care,Satara,9918544152,18,0,1,3,4
+980,Volunteer_880,46,Male,Satara,Weekends,Logistics,Music Therapy,"hindi, marathi, english",4,Childline,9544914644,O-,Yes,Handles crowd well,10,Green Maharashtra,Environment,Nashik,9508510565,16,1,1,4,3
+981,Volunteer_881,22,Female,Nagpur,Weekdays,Teaching,Music Therapy,"marathi, english",0,Cry Foundation,9977375783,A+,Yes,Good with kids,28,Green Maharashtra,Elderly Care,Sangli,9252526969,2,1,0,4,4
+982,Volunteer_882,23,Female,Mumbai,Evenings,Fundraising,Music Therapy,"hindi, marathi, english",4,Childline,9397256466,O+,No,Skilled counselor,6,Hope Foundation,Education,Pune,9026077355,4,1,0,9,2
+983,Volunteer_883,36,Male,Amravati,Flexible,Logistics,Cooking,"marathi, hindi",5,Red Cross,9557797698,B+,Yes,Good with kids,27,Jeevan Jyot,Child Care,Amravati,9984691736,16,1,0,1,4
+984,Volunteer_884,25,Male,Sangli,Evenings,Logistics,Driving,"marathi, hindi",1,Childline,9998550097,A+,No,Experienced nurse,12,Green Maharashtra,Education,Nashik,9421417352,3,0,1,9,4
+985,Volunteer_885,33,Male,Mumbai,Weekends,Fundraising,Driving,"marathi, hindi",1,Childline,9471541940,B+,Yes,Great fundraiser,48,Solapur Care Home,Environment,Pune,9338637926,2,1,0,9,1
+986,Volunteer_886,30,Female,Mumbai,Full-time,Counseling,Photography,"hindi, english",3,Cry Foundation,9526457330,O-,Yes,Skilled counselor,3,Helping Hands,Orphanage,Nashik,9845746877,3,0,1,6,4
+987,Volunteer_887,18,Female,Kolhapur,Evenings,Event Management,Driving,"hindi, english",2,Red Cross,9669207871,B+,No,Great fundraiser,46,Solapur Care Home,Elderly Care,Mumbai,9659229931,5,1,0,1,5
+988,Volunteer_888,39,Female,Sangli,Full-time,Teaching,Music Therapy,"hindi, english",3,Helpage India,9043151442,O+,Yes,Skilled counselor,33,Anathalaya,Elderly Care,Kolhapur,9127106872,2,1,1,6,5
+989,Volunteer_889,37,Male,Aurangabad,Flexible,Event Management,Music Therapy,"hindi, marathi, english",4,Helpage India,9946776366,AB+,Yes,Great fundraiser,10,Solapur Care Home,Healthcare,Nagpur,9743967268,19,1,0,8,3
+990,Volunteer_890,34,Male,Nagpur,Evenings,Medical Assistance,First Aid,"hindi, english",5,None,9836833541,O+,Yes,Experienced nurse,31,Seva Ashram,Elderly Care,Amravati,9303842063,2,1,1,5,2
+991,Volunteer_891,48,Female,Sangli,Weekdays,Event Management,Driving,"marathi, english",0,Childline,9482693903,B+,No,Great fundraiser,15,Helping Hands,Elderly Care,Nashik,9153179940,2,0,0,5,2
+992,Volunteer_892,24,Female,Nagpur,Full-time,Fundraising,Sports Coaching,"marathi, hindi",3,Childline,9079477999,A+,Yes,Good with kids,7,Solapur Care Home,Child Care,Nashik,9095144267,18,1,0,1,1
+993,Volunteer_893,42,Male,Satara,Flexible,Teaching,Sports Coaching,"hindi, marathi, english",2,Red Cross,9861156241,O-,Yes,Great fundraiser,36,Seva Ashram,Animal Welfare,Solapur,9492920471,14,1,1,1,2
+994,Volunteer_894,30,Male,Sangli,Weekdays,Event Management,First Aid,"marathi, hindi",3,Helpage India,9573846447,AB+,Yes,Skilled counselor,14,Hope Foundation,Elderly Care,Satara,9764541721,15,0,1,8,3
+995,Volunteer_895,21,Male,Nagpur,Weekdays,Teaching,First Aid,"hindi, english",1,None,9372501162,A+,No,Handles crowd well,48,Solapur Care Home,Elderly Care,Mumbai,9580333075,12,0,0,5,5
+996,Volunteer_896,21,Male,Aurangabad,Weekdays,Teaching,First Aid,"hindi, marathi, english",4,Red Cross,9748922150,A+,No,Great fundraiser,14,Helping Hands,Environment,Amravati,9047790728,11,1,0,8,1
+997,Volunteer_897,23,Female,Pune,Weekdays,Medical Assistance,Sports Coaching,"english, marathi",4,Childline,9702981631,O+,No,Great fundraiser,3,Seva Ashram,Animal Welfare,Amravati,9192996310,11,1,1,2,5
+998,Volunteer_898,45,Male,Solapur,Evenings,Medical Assistance,Music Therapy,"marathi, english",4,Helpage India,9922112688,B+,No,Great fundraiser,49,Solapur Care Home,Environment,Kolhapur,9364457830,7,1,0,4,3
+999,Volunteer_899,48,Female,Solapur,Evenings,Fundraising,First Aid,"hindi, english",4,None,9115769200,O+,No,Skilled counselor,46,Hope Foundation,Education,Amravati,9721943580,12,1,1,9,1
+1000,Volunteer_900,36,Female,Aurangabad,Evenings,Counseling,Photography,"hindi, english",4,Cry Foundation,9445786507,B+,Yes,Great fundraiser,3,Solapur Care Home,Education,Aurangabad,9920267294,16,0,1,3,4
+1001,Volunteer_901,46,Female,Kolhapur,Flexible,Logistics,Cooking,"marathi, english",4,Helpage India,9282601196,O+,No,Skilled counselor,22,Seva Ashram,Elderly Care,Amravati,9504538130,5,1,0,6,2
+1002,Volunteer_902,29,Male,Pune,Flexible,Teaching,First Aid,"marathi, english",0,None,9210136201,A+,No,Skilled counselor,19,Solapur Care Home,Elderly Care,Nashik,9760960147,2,1,1,7,3
+1003,Volunteer_903,39,Male,Satara,Flexible,Counseling,Cooking,"english, marathi",2,Red Cross,9884699974,O-,Yes,Handles crowd well,35,Helping Hands,Healthcare,Aurangabad,9771775958,16,0,1,3,1
+1004,Volunteer_904,24,Male,Aurangabad,Weekends,Logistics,Social Media,"hindi, english",4,Cry Foundation,9690701165,B+,No,Good with kids,12,Anathalaya,Education,Pune,9650201578,15,1,1,1,5
+1005,Volunteer_905,44,Male,Solapur,Flexible,Logistics,First Aid,"hindi, english",2,None,9935013504,AB+,Yes,Skilled counselor,5,Seva Ashram,Child Care,Satara,9945699098,11,0,0,2,1
+1006,Volunteer_906,27,Female,Solapur,Evenings,Fundraising,Sports Coaching,"marathi, hindi",5,None,9595603504,AB+,No,Experienced nurse,10,Seva Ashram,Elderly Care,Aurangabad,9386024285,6,0,1,7,4
+1007,Volunteer_907,43,Male,Solapur,Evenings,Logistics,Driving,"hindi, marathi, english",4,Childline,9927805091,A+,Yes,Great fundraiser,41,Seva Ashram,Child Care,Pune,9221857620,13,0,0,7,3
+1008,Volunteer_908,36,Male,Nashik,Weekends,Logistics,First Aid,"hindi, marathi, english",3,Helpage India,9831941396,O+,Yes,Experienced nurse,33,Seva Ashram,Elderly Care,Mumbai,9566634283,19,1,1,1,1
+1009,Volunteer_909,24,Female,Aurangabad,Weekends,Teaching,Driving,"marathi, hindi",4,Childline,9561070372,O+,No,Great fundraiser,13,Solapur Care Home,Child Care,Sangli,9936785570,10,1,1,7,3
+1010,Volunteer_910,47,Male,Mumbai,Flexible,Teaching,Social Media,"hindi, marathi, english",1,Cry Foundation,9606938739,A+,No,Handles crowd well,35,Helping Hands,Orphanage,Nagpur,9457926293,19,1,0,6,3
+1011,Volunteer_911,20,Female,Satara,Full-time,IT Support,Photography,"marathi, english",0,None,9523285015,AB+,Yes,Skilled counselor,32,Hope Foundation,Child Care,Nashik,9244624713,5,1,1,6,5
+1012,Volunteer_912,30,Female,Solapur,Weekends,Counseling,Driving,"hindi, marathi, english",3,Childline,9692908342,AB+,Yes,Good with kids,11,Helping Hands,Animal Welfare,Aurangabad,9410516734,7,1,1,7,2
+1013,Volunteer_913,30,Female,Nagpur,Weekdays,Event Management,Cooking,"hindi, marathi, english",3,Helpage India,9110977560,O+,Yes,Skilled counselor,48,Seva Ashram,Education,Sangli,9691996246,11,1,1,7,4
+1014,Volunteer_914,35,Female,Aurangabad,Evenings,Medical Assistance,Music Therapy,"marathi, hindi",1,Cry Foundation,9623736710,B+,Yes,Great fundraiser,38,Jeevan Jyot,Elderly Care,Satara,9637310350,14,1,1,1,1
+1015,Volunteer_915,45,Female,Nashik,Weekdays,Event Management,First Aid,"english, marathi",4,Red Cross,9952535678,O-,Yes,Good with kids,24,Solapur Care Home,Education,Solapur,9355496797,16,1,0,5,2
+1016,Volunteer_916,47,Female,Aurangabad,Evenings,Counseling,Social Media,"hindi, marathi, english",0,Childline,9104431849,B+,Yes,Skilled counselor,35,Jeevan Jyot,Animal Welfare,Mumbai,9584288865,18,1,0,8,5
+1017,Volunteer_917,43,Female,Satara,Evenings,Medical Assistance,Social Media,"hindi, marathi, english",3,Cry Foundation,9130872528,AB+,Yes,Good with kids,19,Solapur Care Home,Animal Welfare,Nagpur,9567429004,4,0,0,8,2
+1018,Volunteer_918,37,Female,Nashik,Weekends,Event Management,Driving,"english, marathi",0,Red Cross,9914647644,B+,No,Great fundraiser,6,Seva Ashram,Child Care,Satara,9856826363,1,1,0,3,3
+1019,Volunteer_919,45,Male,Satara,Weekends,IT Support,Photography,"marathi, hindi",3,Childline,9864041053,O-,Yes,Handles crowd well,40,Solapur Care Home,Environment,Mumbai,9405485187,15,1,1,3,3
+1020,Volunteer_920,25,Male,Aurangabad,Weekdays,Medical Assistance,Sports Coaching,"english, marathi",4,Cry Foundation,9462506310,B+,No,Handles crowd well,45,Seva Ashram,Environment,Solapur,9299727671,14,1,1,7,4
+1021,Volunteer_921,46,Male,Mumbai,Evenings,Teaching,First Aid,"marathi, hindi",5,Cry Foundation,9343869664,B+,No,Skilled counselor,44,Helping Hands,Animal Welfare,Pune,9537906582,19,0,1,4,1
+1022,Volunteer_922,48,Male,Satara,Weekdays,Event Management,Social Media,"marathi, english",3,Childline,9964019065,B+,Yes,Experienced nurse,42,Green Maharashtra,Environment,Solapur,9025266784,5,0,1,6,1
+1023,Volunteer_923,26,Female,Nashik,Full-time,Medical Assistance,Photography,"marathi, hindi",5,Cry Foundation,9391302935,B+,Yes,Great fundraiser,35,Anathalaya,Elderly Care,Aurangabad,9425256033,4,1,1,9,5
+1024,Volunteer_924,24,Male,Nashik,Weekdays,IT Support,Music Therapy,"marathi, english",3,None,9042817546,A+,No,Skilled counselor,4,Solapur Care Home,Healthcare,Nagpur,9845300001,13,0,1,2,4
+1025,Volunteer_925,18,Female,Satara,Flexible,Logistics,Social Media,"marathi, english",2,Childline,9154471752,AB+,Yes,Skilled counselor,33,Seva Ashram,Orphanage,Amravati,9456416099,18,0,1,2,1
+1026,Volunteer_926,20,Male,Amravati,Weekdays,Medical Assistance,Photography,"marathi, hindi",4,Cry Foundation,9364067851,O-,Yes,Handles crowd well,13,Jeevan Jyot,Child Care,Kolhapur,9068261602,12,1,0,6,3
+1027,Volunteer_927,30,Male,Aurangabad,Flexible,Medical Assistance,Sports Coaching,"hindi, english",1,Red Cross,9680321058,AB+,No,Good with kids,36,Seva Ashram,Healthcare,Nashik,9504495760,15,1,1,3,4
+1028,Volunteer_928,45,Male,Amravati,Flexible,IT Support,Sports Coaching,"marathi, hindi",5,Red Cross,9247501246,A+,No,Great fundraiser,43,Jeevan Jyot,Environment,Nashik,9158489755,9,1,0,1,2
+1029,Volunteer_929,47,Female,Kolhapur,Flexible,Logistics,Social Media,"hindi, marathi, english",1,None,9157912515,A+,No,Good with kids,19,Solapur Care Home,Child Care,Pune,9814172941,4,1,0,2,4
+1030,Volunteer_930,42,Male,Aurangabad,Full-time,Event Management,Cooking,"hindi, marathi, english",4,Childline,9092227299,A+,Yes,Great fundraiser,43,Hope Foundation,Healthcare,Satara,9262219937,5,0,0,7,4
+1031,Volunteer_931,48,Female,Satara,Weekdays,Fundraising,Social Media,"hindi, english",1,Cry Foundation,9256052443,A+,Yes,Experienced nurse,12,Jeevan Jyot,Education,Nagpur,9682228335,9,1,1,4,1
+1032,Volunteer_932,45,Female,Pune,Weekdays,Event Management,Driving,"marathi, english",4,Cry Foundation,9709265848,B+,No,Handles crowd well,11,Seva Ashram,Environment,Amravati,9575264586,13,0,1,2,5
+1033,Volunteer_933,34,Male,Satara,Full-time,Logistics,First Aid,"hindi, english",1,Red Cross,9126036620,AB+,Yes,Experienced nurse,6,Solapur Care Home,Healthcare,Pune,9885391032,10,1,1,8,5
+1034,Volunteer_934,42,Male,Amravati,Evenings,Counseling,Photography,"hindi, marathi, english",5,None,9448890390,O+,No,Skilled counselor,12,Seva Ashram,Elderly Care,Kolhapur,9080433868,16,1,1,4,1
+1035,Volunteer_935,41,Male,Mumbai,Weekends,IT Support,Social Media,"hindi, english",2,Red Cross,9424645202,O-,Yes,Handles crowd well,27,Hope Foundation,Education,Aurangabad,9656071776,13,1,0,4,1
+1036,Volunteer_936,18,Female,Satara,Weekdays,Event Management,First Aid,"marathi, hindi",1,Red Cross,9786733033,A+,No,Skilled counselor,41,Anathalaya,Environment,Aurangabad,9653092216,4,1,1,2,1
+1037,Volunteer_937,23,Male,Satara,Weekends,Medical Assistance,Driving,"hindi, english",5,None,9743753956,AB+,Yes,Experienced nurse,25,Green Maharashtra,Orphanage,Amravati,9326246966,13,1,1,1,5
+1038,Volunteer_938,38,Female,Mumbai,Full-time,IT Support,First Aid,"marathi, english",3,Childline,9224767910,A+,No,Great fundraiser,42,Green Maharashtra,Animal Welfare,Amravati,9578356673,8,0,0,1,1
+1039,Volunteer_939,23,Female,Satara,Evenings,Teaching,Social Media,"marathi, hindi",4,Cry Foundation,9887525719,A+,Yes,Skilled counselor,3,Hope Foundation,Environment,Amravati,9839267297,13,1,1,3,2
+1040,Volunteer_940,43,Male,Solapur,Evenings,Logistics,Sports Coaching,"english, marathi",0,Childline,9141083727,A+,Yes,Good with kids,3,Helping Hands,Elderly Care,Solapur,9079950964,15,1,0,6,2
+1041,Volunteer_941,29,Male,Pune,Evenings,Event Management,Photography,"hindi, marathi, english",0,Helpage India,9533044576,A+,No,Great fundraiser,20,Solapur Care Home,Orphanage,Nashik,9011779676,13,1,1,7,3
+1042,Volunteer_942,30,Female,Nagpur,Full-time,IT Support,Photography,"hindi, marathi, english",4,Helpage India,9410215819,A+,Yes,Great fundraiser,28,Hope Foundation,Orphanage,Sangli,9077627172,5,1,0,9,2
+1043,Volunteer_943,49,Female,Pune,Flexible,Event Management,Sports Coaching,"hindi, english",2,Helpage India,9130815265,O-,Yes,Experienced nurse,23,Anathalaya,Orphanage,Nagpur,9263735235,6,1,0,5,4
+1044,Volunteer_944,30,Female,Satara,Flexible,IT Support,Cooking,"marathi, hindi",1,None,9210806214,AB+,No,Experienced nurse,48,Seva Ashram,Child Care,Sangli,9705654475,5,1,1,9,3
+1045,Volunteer_945,46,Male,Solapur,Weekends,Medical Assistance,Social Media,"english, marathi",2,Red Cross,9390311754,A+,Yes,Handles crowd well,3,Solapur Care Home,Child Care,Solapur,9520040217,13,0,0,8,2
+1046,Volunteer_946,32,Female,Aurangabad,Flexible,Teaching,Photography,"marathi, hindi",0,Childline,9036417182,A+,Yes,Handles crowd well,42,Jeevan Jyot,Animal Welfare,Satara,9013999609,5,1,0,1,4
+1047,Volunteer_947,38,Male,Satara,Flexible,Teaching,Social Media,"hindi, marathi, english",5,Cry Foundation,9449575900,A+,Yes,Good with kids,24,Hope Foundation,Orphanage,Aurangabad,9492457148,13,0,1,3,2
+1048,Volunteer_948,33,Female,Amravati,Evenings,Counseling,Driving,"marathi, hindi",4,Helpage India,9560733885,A+,No,Great fundraiser,43,Anathalaya,Animal Welfare,Nashik,9046362075,8,1,0,8,4
+1049,Volunteer_949,39,Female,Solapur,Evenings,IT Support,Social Media,"english, marathi",4,Childline,9409439116,B+,No,Good with kids,40,Hope Foundation,Education,Amravati,9257382995,9,1,1,9,1
+1050,Volunteer_950,38,Male,Mumbai,Weekends,Event Management,First Aid,"hindi, english",2,Helpage India,9975656833,B+,No,Good with kids,6,Helping Hands,Orphanage,Kolhapur,9309868489,19,1,1,4,4
+1051,Volunteer_951,28,Female,Solapur,Weekdays,Teaching,Sports Coaching,"marathi, english",5,Helpage India,9899442022,O+,No,Experienced nurse,20,Green Maharashtra,Healthcare,Kolhapur,9080678067,15,1,1,6,1
+1052,Volunteer_952,45,Male,Mumbai,Weekends,Logistics,Cooking,"marathi, hindi",2,Cry Foundation,9991111694,A+,No,Good with kids,11,Green Maharashtra,Orphanage,Kolhapur,9298211089,10,0,1,4,4
+1053,Volunteer_953,22,Male,Kolhapur,Weekends,Teaching,Social Media,"marathi, english",1,None,9159272248,O+,Yes,Good with kids,32,Solapur Care Home,Child Care,Nagpur,9961795252,11,1,0,9,4
+1054,Volunteer_954,21,Female,Nagpur,Full-time,Fundraising,Cooking,"hindi, marathi, english",3,Red Cross,9668694602,O-,Yes,Skilled counselor,27,Seva Ashram,Child Care,Amravati,9689312702,5,1,0,2,2
+1055,Volunteer_955,20,Male,Sangli,Full-time,Fundraising,Cooking,"hindi, english",5,None,9969221990,O+,No,Handles crowd well,21,Anathalaya,Healthcare,Nashik,9830572212,9,1,1,6,4
+1056,Volunteer_956,36,Male,Solapur,Weekends,Teaching,Driving,"hindi, english",3,Childline,9546810051,AB+,Yes,Handles crowd well,44,Hope Foundation,Healthcare,Aurangabad,9826909684,11,0,1,3,2
+1057,Volunteer_957,37,Female,Nashik,Weekends,IT Support,Music Therapy,"marathi, hindi",1,None,9909666122,B+,Yes,Great fundraiser,48,Solapur Care Home,Environment,Sangli,9309835546,19,1,0,4,4
+1058,Volunteer_958,42,Male,Amravati,Weekends,Counseling,Sports Coaching,"hindi, english",3,Childline,9952188956,B+,Yes,Handles crowd well,13,Hope Foundation,Education,Amravati,9265646554,2,1,1,2,5
+1059,Volunteer_959,35,Male,Satara,Flexible,Teaching,Cooking,"marathi, hindi",0,Childline,9182706881,A+,Yes,Great fundraiser,22,Solapur Care Home,Education,Amravati,9545702505,6,0,1,8,3
+1060,Volunteer_960,32,Male,Amravati,Full-time,Medical Assistance,Photography,"marathi, hindi",3,Red Cross,9901014524,A+,No,Skilled counselor,35,Green Maharashtra,Education,Solapur,9062157440,1,1,1,8,2
+1061,Volunteer_961,26,Female,Pune,Weekends,Event Management,First Aid,"marathi, english",1,Cry Foundation,9802760719,O-,No,Handles crowd well,47,Helping Hands,Elderly Care,Satara,9446134533,3,0,1,1,2
+1062,Volunteer_962,34,Male,Sangli,Evenings,Counseling,Photography,"hindi, english",3,Red Cross,9756589990,O-,Yes,Skilled counselor,22,Hope Foundation,Child Care,Kolhapur,9558218762,3,1,0,6,1
+1063,Volunteer_963,31,Female,Pune,Evenings,Medical Assistance,Driving,"marathi, hindi",4,None,9286301772,AB+,Yes,Handles crowd well,28,Helping Hands,Education,Pune,9902566049,14,0,1,1,5
+1064,Volunteer_964,32,Female,Kolhapur,Flexible,Counseling,Driving,"marathi, english",2,Childline,9677534500,A+,No,Handles crowd well,21,Jeevan Jyot,Environment,Nashik,9896948179,5,1,0,6,1
+1065,Volunteer_965,48,Male,Sangli,Flexible,Medical Assistance,Photography,"english, marathi",0,Helpage India,9986856852,A+,Yes,Skilled counselor,46,Jeevan Jyot,Environment,Solapur,9675833790,17,1,1,7,5
+1066,Volunteer_966,18,Male,Sangli,Weekdays,Event Management,Sports Coaching,"marathi, english",4,Helpage India,9106589099,O-,Yes,Good with kids,18,Green Maharashtra,Education,Satara,9243837108,15,1,1,2,5
+1067,Volunteer_967,38,Male,Pune,Weekdays,Event Management,Photography,"marathi, english",4,Childline,9366120466,O-,Yes,Good with kids,31,Anathalaya,Healthcare,Satara,9854209236,6,1,1,9,4
+1068,Volunteer_968,39,Female,Mumbai,Weekdays,Fundraising,Social Media,"marathi, hindi",1,Red Cross,9343675846,O-,No,Good with kids,46,Helping Hands,Environment,Mumbai,9967344596,14,1,0,8,1
+1069,Volunteer_969,39,Male,Pune,Flexible,IT Support,Photography,"hindi, marathi, english",2,Cry Foundation,9495496805,B+,No,Good with kids,37,Solapur Care Home,Animal Welfare,Kolhapur,9662148881,14,0,1,9,3
+1070,Volunteer_970,20,Male,Amravati,Flexible,Medical Assistance,First Aid,"hindi, marathi, english",2,Red Cross,9470146951,O+,Yes,Handles crowd well,21,Anathalaya,Healthcare,Mumbai,9856207380,17,1,1,4,5
+1071,Volunteer_971,33,Male,Mumbai,Flexible,Fundraising,First Aid,"hindi, marathi, english",5,Childline,9393485388,O+,Yes,Experienced nurse,14,Hope Foundation,Animal Welfare,Solapur,9237288722,8,1,1,4,5
+1072,Volunteer_972,40,Male,Amravati,Evenings,Medical Assistance,Music Therapy,"marathi, english",0,Childline,9465443044,A+,Yes,Skilled counselor,25,Hope Foundation,Child Care,Satara,9895840515,8,1,1,8,2
+1073,Volunteer_973,42,Male,Kolhapur,Flexible,Fundraising,First Aid,"marathi, hindi",1,Cry Foundation,9234593217,B+,Yes,Experienced nurse,27,Solapur Care Home,Elderly Care,Pune,9105020748,19,0,0,1,4
+1074,Volunteer_974,28,Female,Satara,Evenings,Event Management,Photography,"hindi, english",0,None,9999025960,O-,Yes,Experienced nurse,40,Seva Ashram,Environment,Nashik,9530135505,9,0,1,8,3
+1075,Volunteer_975,29,Female,Aurangabad,Weekdays,Counseling,First Aid,"marathi, english",5,None,9651251197,A+,Yes,Great fundraiser,23,Seva Ashram,Healthcare,Mumbai,9553763955,11,1,1,7,5
+1076,Volunteer_976,27,Male,Mumbai,Weekdays,Logistics,Sports Coaching,"marathi, english",3,Cry Foundation,9496093898,B+,No,Good with kids,31,Hope Foundation,Animal Welfare,Satara,9620176796,13,1,1,7,2
+1077,Volunteer_977,49,Male,Kolhapur,Weekdays,Fundraising,Cooking,"marathi, hindi",4,None,9756743127,AB+,No,Handles crowd well,47,Green Maharashtra,Education,Nashik,9358162968,13,1,0,9,1
+1078,Volunteer_978,33,Male,Nashik,Weekends,Medical Assistance,First Aid,"english, marathi",0,Helpage India,9326873029,B+,Yes,Good with kids,29,Green Maharashtra,Animal Welfare,Kolhapur,9919356343,19,1,0,7,5
+1079,Volunteer_979,25,Male,Kolhapur,Weekends,Medical Assistance,Social Media,"marathi, english",4,None,9039076412,A+,No,Good with kids,47,Solapur Care Home,Animal Welfare,Sangli,9769384268,19,1,1,2,2
+1080,Volunteer_980,23,Female,Pune,Full-time,Logistics,Sports Coaching,"english, marathi",1,None,9946773529,O+,Yes,Experienced nurse,30,Seva Ashram,Child Care,Nashik,9183020285,5,1,1,1,1
+1081,Volunteer_981,29,Male,Pune,Full-time,IT Support,Music Therapy,"english, marathi",3,None,9323892806,O-,Yes,Great fundraiser,26,Helping Hands,Orphanage,Satara,9896191422,16,1,0,1,4
+1082,Volunteer_982,41,Female,Aurangabad,Full-time,Event Management,Social Media,"hindi, marathi, english",1,Helpage India,9752857080,AB+,No,Good with kids,20,Hope Foundation,Orphanage,Solapur,9310669210,9,1,0,7,1
+1083,Volunteer_983,45,Female,Kolhapur,Weekends,Medical Assistance,Photography,"marathi, hindi",3,None,9001540710,B+,No,Skilled counselor,38,Jeevan Jyot,Education,Mumbai,9079779771,3,0,1,5,5
+1084,Volunteer_984,38,Male,Nagpur,Weekends,Teaching,Cooking,"english, marathi",3,Helpage India,9506662866,A+,Yes,Skilled counselor,19,Helping Hands,Child Care,Mumbai,9807444178,19,0,0,4,3
+1085,Volunteer_985,25,Female,Satara,Full-time,Counseling,Photography,"marathi, hindi",4,Cry Foundation,9727204165,A+,Yes,Good with kids,27,Solapur Care Home,Child Care,Aurangabad,9393668400,5,0,1,5,1
+1086,Volunteer_986,43,Female,Pune,Full-time,Fundraising,Cooking,"hindi, marathi, english",1,Red Cross,9593874588,O-,No,Experienced nurse,25,Jeevan Jyot,Child Care,Satara,9246798144,8,1,1,6,3
+1087,Volunteer_987,45,Female,Aurangabad,Flexible,IT Support,Cooking,"marathi, hindi",1,Cry Foundation,9263469930,A+,No,Experienced nurse,40,Helping Hands,Child Care,Aurangabad,9259857317,14,0,1,6,3
+1088,Volunteer_988,21,Female,Satara,Full-time,Logistics,Photography,"marathi, english",0,Red Cross,9901693798,A+,Yes,Handles crowd well,38,Seva Ashram,Orphanage,Pune,9275100928,3,0,0,1,1
+1089,Volunteer_989,43,Male,Kolhapur,Flexible,Counseling,Social Media,"english, marathi",1,Cry Foundation,9921538241,O-,Yes,Great fundraiser,23,Green Maharashtra,Healthcare,Pune,9164529319,13,1,1,2,4
+1090,Volunteer_990,25,Male,Kolhapur,Evenings,Event Management,Social Media,"marathi, hindi",0,Red Cross,9459446034,AB+,Yes,Experienced nurse,29,Seva Ashram,Child Care,Satara,9707186512,11,0,0,3,1
+1091,Volunteer_991,43,Female,Sangli,Weekends,IT Support,Cooking,"hindi, english",2,Red Cross,9530049347,O+,No,Handles crowd well,15,Jeevan Jyot,Healthcare,Mumbai,9696955412,8,0,1,4,2
+1092,Volunteer_992,45,Male,Aurangabad,Full-time,Fundraising,Social Media,"marathi, hindi",2,Childline,9809600697,O+,Yes,Skilled counselor,3,Anathalaya,Animal Welfare,Kolhapur,9024026709,19,0,0,6,3
+1093,Volunteer_993,35,Male,Pune,Weekends,Fundraising,Cooking,"english, marathi",2,Red Cross,9947275077,B+,No,Skilled counselor,10,Green Maharashtra,Animal Welfare,Nagpur,9612214798,10,0,1,9,5
+1094,Volunteer_994,45,Male,Nagpur,Weekends,Logistics,Cooking,"hindi, marathi, english",5,Red Cross,9236080752,AB+,Yes,Skilled counselor,15,Hope Foundation,Child Care,Pune,9183752753,18,1,1,2,3
+1095,Volunteer_995,45,Male,Kolhapur,Weekends,Teaching,Sports Coaching,"hindi, marathi, english",1,Childline,9253202232,B+,No,Good with kids,16,Jeevan Jyot,Environment,Mumbai,9260115430,18,1,1,8,5
+1096,Volunteer_996,22,Male,Nagpur,Evenings,Logistics,Driving,"english, marathi",5,None,9933417124,O+,No,Great fundraiser,17,Solapur Care Home,Elderly Care,Amravati,9587640294,7,1,1,9,2
+1097,Volunteer_997,26,Female,Kolhapur,Weekdays,Event Management,Sports Coaching,"marathi, english",1,None,9371058236,O-,No,Handles crowd well,19,Hope Foundation,Environment,Amravati,9490877343,16,1,1,2,2
+1098,Volunteer_998,21,Male,Pune,Full-time,IT Support,Photography,"marathi, english",0,Childline,9079881819,A+,No,Great fundraiser,11,Helping Hands,Animal Welfare,Aurangabad,9924369200,6,1,1,9,2
+1099,Volunteer_999,49,Male,Satara,Weekdays,IT Support,Driving,"hindi, marathi, english",5,Helpage India,9081697565,O+,Yes,Good with kids,48,Green Maharashtra,Elderly Care,Nashik,9143186115,16,1,1,7,1
+1100,Volunteer_1000,44,Male,Solapur,Weekdays,Medical Assistance,First Aid,"hindi, marathi, english",5,Red Cross,9984678344,AB+,No,Handles crowd well,5,Solapur Care Home,Environment,Kolhapur,9157556587,16,0,1,9,3

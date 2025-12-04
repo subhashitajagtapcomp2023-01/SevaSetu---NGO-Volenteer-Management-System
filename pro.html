@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VolunteerHub Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        .tab-button.active { border-bottom: 3px solid #34D399; }
+    </style>
+</head>
+<body class="bg-gray-50 font-sans text-gray-700">
+
+    <!-- Header -->
+    <header class="bg-white shadow p-6 mb-6">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold text-emerald-600">VolunteerHub</h1>
+            <nav class="space-x-4">
+                <button class="tab-button active px-3 py-2 font-semibold text-gray-700 hover:text-emerald-600" onclick="showTab('team')">Team Formation</button>
+                <button class="tab-button px-3 py-2 font-semibold text-gray-700 hover:text-emerald-600" onclick="showTab('skilled')">Skilled Volunteers</button>
+                <button class="tab-button px-3 py-2 font-semibold text-gray-700 hover:text-emerald-600" onclick="showTab('prediction')">Prediction</button>
+                <button class="tab-button px-3 py-2 font-semibold text-gray-700 hover:text-emerald-600" onclick="showTab('recommendation')">Recommendations</button>
+                <button class="tab-button px-3 py-2 font-semibold text-gray-700 hover:text-emerald-600" onclick="showTab('skillGap')">Skill Gap</button>
+                <button class="tab-button px-3 py-2 font-semibold text-gray-700 hover:text-emerald-600" onclick="showTab('feedback')">Feedback</button>
+                <button class="tab-button px-3 py-2 font-semibold text-gray-700 hover:text-emerald-600" onclick="showTab('training')">Training</button>
+                <button class="tab-button px-3 py-2 font-semibold text-gray-700 hover:text-emerald-600" onclick="showTab('engagement')">Engagement</button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-6">
+
+        <!-- Team Formation Tab -->
+        <div id="team" class="tab-content active">
+            <div class="bg-white rounded-xl shadow-lg p-6 mb-6">
+                <h2 class="text-2xl font-bold text-emerald-600 mb-6">🛠 Form Your Team</h2>
+                <form onsubmit="formTeam(event)" class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Skill</label>
+                        <select class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-transparent" required>
+                            <option value="Leadership">Leadership</option>
+                            <option value="Teaching">Teaching</option>
+                            <option value="Technical">Technical</option>
+                            <option value="Communication">Communication</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Team Size</label>
+                        <input type="number" min="1" placeholder="e.g., 5" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-transparent" required>
+                    </div>
+                    <div class="md:col-span-2">
+                        <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-700 text-white py-3 rounded-lg font-semibold transition-colors">Form Team</button>
+                    </div>
+                </form>
+            </div>
+            <div id="teamResults" class="bg-white rounded-xl shadow-lg p-6">
+                <div id="teamResultsContent" class="text-gray-500 text-center py-8">Form a team above to see results.</div>
+            </div>
+        </div>
+
+        <!-- Skilled Volunteers Tab -->
+        <div id="skilled" class="tab-content">
+            <div class="bg-white rounded-xl shadow-lg p-6 mb-6">
+                <h2 class="text-2xl font-bold text-emerald-600 mb-6">🔍 Skilled Volunteers</h2>
+                <form onsubmit="searchSkilledVolunteers(event)" class="grid md:grid-cols-3 gap-6">
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Skill</label>
+                        <select class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-transparent" required>
+                            <option value="Leadership">Leadership</option>
+                            <option value="Teaching">Teaching</option>
+                            <option value="Technical">Technical</option>
+                            <option value="Communication">Communication</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium mb-2">District</label>
+                        <select class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-transparent">
+                            <option value="North">North</option>
+                            <option value="South">South</option>
+                            <option value="East">East</option>
+                            <option value="West">West</option>
+                        </select>
+                    </div>
+                    <div class="flex items-end">
+                        <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-700 text-white py-3 rounded-lg font-semibold transition-colors">Search</button>
+                    </div>
+                </form>
+            </div>
+            <div id="skilledVolunteerResults" class="bg-white rounded-xl shadow-lg p-6">
+                <div id="skilledVolunteerResultsContent" class="text-gray-500 text-center py-8">Search for skilled volunteers above.</div>
+            </div>
+        </div>
+
+        <!-- Prediction Tab -->
+        <div id="prediction" class="tab-content">
+            <div class="bg-white rounded-xl shadow-lg p-6 mb-6">
+                <h2 class="text-2xl font-bold text-emerald-600 mb-6">📊 Attendance Prediction</h2>
+                <form onsubmit="predictShowup(event)" class="grid md:grid-cols-3 gap-6">
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Age</label>
+                        <input type="number" min="18" placeholder="25" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-transparent" required>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Experience (years)</label>
+                        <input type="number" min="0" placeholder="5" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-transparent" required>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Past Attendance Rate</label>
+                        <input type="number" min="0" max="1" step="0.01" placeholder="0.8" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-transparent" required>
+                    </div>
+                    <div class="md:col-span-3">
+                        <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-700 text-white py-3 rounded-lg font-semibold transition-colors">Predict Attendance</button>
+                    </div>
+                </form>
+            </div>
+            <div id="predictionResults" class="bg-white rounded-xl shadow-lg p-6">
+                <div id="predictionResultsContent" class="text-gray-500 text-center py-8">Enter data above to predict attendance.</div>
+            </div>
+        </div>
+
+        <!-- Recommendations Tab -->
+        <div id="recommendation" class="tab-content">
+            <div class="bg-white rounded-xl shadow-lg p-6 mb-6">
+                <h2 class="text-2xl font-bold text-emerald-600 mb-6">🤝 Volunteer Recommendations</h2>
+                <form onsubmit="getRecommendations(event)" class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Volunteer ID</label>
+                        <input type="number" min="1" placeholder="1" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-transparent" required>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Top N Recommendations</label>
+                        <select class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-transparent">
+                            <option value="3" selected>3</option>
+                            <option value="5">5</option>
+                            <option value="10">10</option>
+                        </select>
+                    </div>
+                    <div class="md:col-span-2">
+                        <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-700 text-white py-3 rounded-lg font-semibold transition-colors">Get Recommendations</button>
+                    </div>
+                </form>
+            </div>
+            <div id="recommendationResults" class="bg-white rounded-xl shadow-lg p-6">
+                <div id="recommendationResultsContent" class="text-gray-500 text-center py-8">Enter a volunteer ID above to get recommendations.</div>
+            </div>
+        </div>
+
+        <!-- Engagement Tab -->
+        <div id="engagement" class="tab-content">
+            <div class="bg-white rounded-xl shadow-lg p-6 mb-6">
+                <h2 class="text-2xl font-bold text-emerald-600 mb-6">📈 Volunteer Engagement</h2>
+                <form onsubmit="checkEngagement(event)" class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Volunteer ID</label>
+                        <input type="number" min="1" placeholder="1" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-transparent" required>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Period</label>
+                        <select class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-transparent">
+                            <option value="lastMonth">Last Month</option>
+                            <option value="lastQuarter">Last Quarter</option>
+                            <option value="lastYear">Last Year</option>
+                        </select>
+                    </div>
+                    <div class="md:col-span-2">
+                        <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-700 text-white py-3 rounded-lg font-semibold transition-colors">Analyze Engagement</button>
+                    </div>
+                </form>
+            </div>
+            <div id="engagementResults" class="bg-white rounded-xl shadow-lg p-6">
+                <div id="engagementResultsContent" class="text-gray-500 text-center py-8">Enter a volunteer ID above to analyze their engagement level.</div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-200 text-gray-700 py-6 mt-12 text-center">
+        &copy; 2024 VolunteerHub. All rights reserved. | AI-Powered Volunteer Management Platform
+    </footer>
+
+    <!-- Scripts -->
+    <script>
+        // Tab Functionality
+        function showTab(tabName) {
+            document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+            document.getElementById(tabName).classList.add('active');
+            document.querySelectorAll('.tab-button').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        // Utility Message
+        function showMessage(msg, type) {
+            const colors = { success:'bg-green-100 border-green-500 text-green-700', info:'bg-blue-100 border-blue-500 text-blue-700', error:'bg-red-100 border-red-500 text-red-700' };
+            const div = document.createElement('div');
+            div.className = `fixed top-4 right-4 p-4 border-l-4 rounded shadow-lg z-50 ${colors[type]}`;
+            div.innerHTML = `<div class="flex items-center justify-between"><span>${msg}</span><button onclick="this.parentElement.parentElement.remove()" class="ml-4 text-lg font-bold">&times;</button></div>`;
+            document.body.appendChild(div);
+            setTimeout(()=>div.remove(),3000);
+        }
+
+        // Team Formation
+        function formTeam(event){
+            event.preventDefault();
+            showMessage('Team formed successfully!', 'success');
+            document.getElementById('teamResultsContent').innerHTML='<p class="text-center text-gray-600 py-6">Mock team results displayed here.</p>';
+        }
+
+        // Skilled Volunteers
+        function searchSkilledVolunteers(event){
+            event.preventDefault();
+            showMessage('Found skilled volunteers!', 'success');
+            document.getElementById('skilledVolunteerResultsContent').innerHTML='<p class="text-center text-gray-600 py-6">Mock skilled volunteers displayed here.</p>';
+        }
+
+        // Prediction
+        function predictShowup(event){
+            event.preventDefault();
+            showMessage('Prediction completed!', 'success');
+            document.getElementById('predictionResultsContent').innerHTML='<p class="text-center text-gray-600 py-6">Mock prediction results displayed here.</p>';
+        }
+
+        // Recommendations
+        function getRecommendations(event){
+            event.preventDefault();
+            showMessage('Recommendations generated!', 'success');
+            document.getElementById('recommendationResultsContent').innerHTML='<p class="text-center text-gray-600 py-6">Mock recommendation results displayed here.</p>';
+        }
+
+        // Engagement
+        function checkEngagement(event){
+            event.preventDefault();
+            showMessage('Engagement analysis completed!', 'success');
+            document.getElementById('engagementResultsContent').innerHTML='<p class="text-center text-gray-600 py-6">Mock engagement results displayed here.</p>';
+        }
+    </script>
+
+</body>
+</html>
